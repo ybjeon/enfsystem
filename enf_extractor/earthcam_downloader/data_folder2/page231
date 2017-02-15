@@ -1,0 +1,188 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+<head>
+<base href="//public.earthcamcdn.com/projects/miamimarlins/" target="_self" />
+<script type='text/javascript'>
+	<!--
+		var configDomains = {};
+			configDomains.weatherData = 'https://weather.earthcam.net/';
+			configDomains.weatherIcons = 'https://weather.earthcam.net/';
+			configDomains.common = '//www.earthcam.net/projects/common/';
+			configDomains.dotcom = 'http://www.earthcam.com';
+
+	//-->
+	</script>
+	<script type="text/javascript">
+	<!--
+		var MOBILE_MODE       = false;
+		var TABLET_MODE       = false;
+		var PHONE_MODE        = false;
+		var DEVICE_DETAILS    = {"isiOS":false,"isAndroidOS":false,"isHTC":false,"isWindows":false,"FirefoxVersion":false};
+		var RWD			      = false;
+		
+		var FULL_WINDOW		  = false;
+		
+		var FORCE_MOBILE_MODE = false;
+		
+		var DEBUGGING 	   	  = false;
+		var ECHO_DISPATCHEVENT = false;
+		var LOG 		      = false;
+		
+		var CAM				  = "";
+		var PLAYER_MODE		  = "";
+		
+		var ARCHIVEID		  = "1";
+		var DIGITALID		  = "1";
+	//-->
+	</script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script><title>EarthCam Construction Camera - Marlins Park Construction Camera</title>
+<meta name="description" content="Construction Camera Public Web Page to Monitor and Document a Job Site with Image Hosting and Archive Solutions."/>
+<meta name="keywords" content=" construction camera, construction cameras, construction webcams, construction cam, construction cams, construction web cam, construction web cams, megapixel cam, megapixel camera, HD camera, HD cam, high def cam, high def webcam, time-lapse"/>
+
+<!-- <link href="giants.css" rel="stylesheet" type="text/css"> -->
+<style type="text/css">
+body {
+	font-family: Arial; /* Arial, Helvetica, sans-serif; */
+	font-size: 12px;
+	text-align: left;
+	background:url(images/bkgd.jpg) no-repeat top center #000;
+	color: #000000;
+	margin: 0px auto;
+}
+#logo{
+	width:990px;
+	margin:5px auto 0;
+}
+#header{
+	width:990px;
+	margin:0 auto;
+}
+#title{
+	font-family:Arial;
+	font-weight:bold;
+	font-size:24px;
+	color:#0076c6;
+	margin-left:25px;
+	margin-top:15px;
+	margin-bottom:0px;
+}
+#bar{
+	height:3px;
+	background-color:#0076c6;
+	color:#0076c6;
+	margin:8px auto 0;
+	width:940px;
+}
+#bar1{
+	height:2px;
+	background-color:#ff6600;
+	color:#ff6600;
+	margin:0 auto;
+	width:940px;
+}
+#bar2{
+	height:2px;
+	background-color:#ffd100;
+	color:#ffd100;
+	margin:0 auto 0px;
+	width:940px;
+}
+#content {
+	width:990px;
+	height:970px;
+	background-color:#FFF;
+	margin:5px auto;
+}
+#player {
+	width:940px;
+	height:850px;
+	margin:0 auto;
+	border:0px solid #FF0000;
+}
+#ec_footer {
+    color: #ccc;
+    font-family: Arial;
+    font-size: 11px;
+    float: left;
+	margin-top:3px;
+}
+#ec_footer a{color:#ccc}
+</style>
+<link rel="stylesheet" type="text/css" href="../common/css/footer.css" />
+<script type="text/javascript" src='../common/js/swfobject.js'></script>
+</head>
+
+<body>
+<div id="logo"><a href="http://miami.marlins.mlb.com/mia/ballpark/index.jsp" target="_blank"><img src="images/mia.png" width="153" height="58" border="0"></a></div>
+
+<div id="content">
+	<div id="header">
+		<p id="title">MARLINS PARK CONSTRUCTION CAMERA</p>
+	</div>
+<div id="bar"></div>
+<div id="bar1"></div>
+<div id="bar2"></div>
+	<div id='player' style="clear:bottom;width:940px; height:850px; border:0px solid #FF0000;">
+		<div id="player2">
+		<img src="http://archives.earthcam.com/archives5/ecnetwork/us/fl/miami/marlins/live.jpg" width="940px" height="650px" />
+		<script language="JavaScript" type="text/javascript">
+				
+			var attributes = {}
+			attributes.id		= "movie",
+			attributes.name	= "movie";
+			
+			var flashvars = {};
+			if(typeof configDomains.common != "undefined")
+				flashvars.common_domain = configDomains.common;
+			if(typeof configDomains.weatherData != "undefined")
+				flashvars.weatherData_domain = configDomains.weatherData;
+			if(typeof configDomains.weatherIcons != "undefined")
+				flashvars.weatherIcons_domain = configDomains.weatherIcons;
+							
+			var swfobject_params = {}
+			swfobject_params.bgcolor =""; //,
+			swfobject_params.wmode = "transparent";
+			swfobject_params.allowFullScreen = "true";
+			swfobject_params.allowScriptAccess = "always";
+			
+			swfobject.embedSWF("Florida_Marlins_Stadium_mp.swf", "player2", 940, 850, "10.2","../common/swf/expressinstall.swf", flashvars, swfobject_params, attributes);
+		</script>
+		</div>
+	</div>
+	
+<div style="width:920px;margin:18px auto 20px;color:#333;text-align:center;">
+	<p>Stay up-to-date on <b>Marlins Park</b> with this interactive archive calendar. 
+	Select any date and time to see what happened on the construction site that day. 
+	<br/>Choose your favorite image and share via email, Facebook and Twitter. 
+	Images are updated every 15 minutes to provide a fresh look at the jobsite.</p>
+</div>
+	
+<div id="bar1" style="margin-top:15px;height:10px;width:990px;"></div>
+
+<div style="width:997px;height:10px;margin:10px auto;">
+	<div id="ec_footer">
+	Should you encounter a problem with a link, <a class="ec_footer_link" target="_blank" href="http://www.earthcam.net/support/contactus.php">let us know</a>.<br>
+	Technology by <a class="ec_footer_link" target="_blank" href="http://www.earthcam.net/technology/">EarthCam</a>.</div>
+	<p style="text-align:right;margin:0px;padding:0;"><a href="http://www.earthcam.net/technology/" target="_blank">
+	<img style="margin-top:0px;" src="../common/images/EarthCam_net-logo_145x35.png" title="EarthCam Construction Camera" border="0" alt="EarthCam Construction Camera" border="0" /></a></p><br>
+</div>
+
+
+</div><!--content-->
+
+<br />
+<iframe name="savenull" id="savenull" style="visibility:hidden;" width="0" height="0"></iframe>
+
+
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-274246-4");
+pageTracker._trackPageview();
+</script>
+</body>
+</html>
+

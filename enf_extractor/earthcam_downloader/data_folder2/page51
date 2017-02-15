@@ -1,0 +1,1545 @@
+<!DOCTYPE html>
+<!-- v2 -->
+<html itemscope itemtype="http://schema.org/">
+<head>
+<title>EarthCam - Statue of Liberty TorchCam</title>
+<!-- php -->
+<meta name="keywords" content="Statue of Liberty, New York, New York City, Manhattan, New York
+Harbor, Cornell Paper and Box Company, Inc., Brooklyn, Hudson River,
+vacations, webcam, webcams, streaming video, network camera, cam, cams,
+mobile, moblog, live camera, internet camera, IP camera, live images, web
+camera, picture, photo, livecam, livecams, outdoor cams, mobile cameras,
+tourism, travel" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta name="description" content="Take in the sights from the torch balcony at the Statue of Liberty, 
+where the public has not been permitted to visit in person since 1916, and see unique, 
+one-of-a-kind perspectives of the torch, crown, face and tablet, in addition to ultra 
+widescreen panoramic images and live HD streaming video. Enjoy unmatched streaming 
+video of Lady Liberty from Brooklyn, as well. " />
+<meta name="classifications" content="Webcam: Streaming Video; Webcams: Webcam Sites; Computer &amp; Internet: Webcams; Entertainment: Webcams" />
+<meta name="abstract" content="Webcam Network - EarthCam" />
+<!--<meta name="apple-itunes-app" content="app-id=853926670" />-->
+<meta name="apple-itunes-app" content="app-id=853926670, app-argument=09b105d3a7defa510e616b0a13718111" />
+<meta name="google-play-app" content="app-id=com.earthcam.webcams">
+ 
+<!-- facebook meta data -->
+<link rel="image_src" href="http://static.earthcamcdn.com/cams/includes/images/offline_images/" />
+<!-- google+, facebook, and generic social media tag meta data -->
+<meta property="name" content="EarthCam - Statue of Liberty TorchCam" />
+<meta property="description" content="Take in the sights from the torch balcony at the Statue of Liberty, 
+where the public has not been permitted to visit in person since 1916, and see unique, 
+one-of-a-kind perspectives of the torch, crown, face and tablet, in addition to ultra 
+widescreen panoramic images and live HD streaming video. Enjoy unmatched streaming 
+video of Lady Liberty from Brooklyn, as well. " />
+<meta property="image" content="http://static.earthcamcdn.com/cams/includes/images/offline_images/" />
+<meta property="og:image" content="http://static.earthcamcdn.com/cams/includes/images/offline_images/" />
+
+<link rel="apple-touch-icon" href="http://static.earthcamcdn.com/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="76x76" href="http://static.earthcamcdn.com/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="120x120" href="http://static.earthcamcdn.com/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="http://static.earthcamcdn.com/touch-icon-ipad-retina.png">
+<link rel="android-touch-icon" href="http://static.earthcamcdn.com/apple-touch-icon.png" />
+
+<link href="http://static.earthcamcdn.com/css/reset.css" rel="stylesheet" type="text/css" />
+<link href="http://static.earthcamcdn.com/css/ecv4.css?v4" rel="stylesheet" type="text/css" />
+<link href="http://static.earthcamcdn.com/css/frontpage.v3.css" rel="stylesheet" type="text/css" />
+<link href="http://static.earthcamcdn.com/cams/includes/template.css?20160316" rel="stylesheet" type="text/css" />
+<link href="http://static.earthcamcdn.com/cams/includes/hof.css" rel="stylesheet" type="text/css" />
+<link href="http://static.earthcamcdn.com/cams/includes/footer.css" rel="stylesheet" type="text/css" />
+<link href="http://static.earthcamcdn.com/js/jquery-ui-1.11.1.custom/jquery-ui.css" rel="stylesheet" type="text/css" />
+<link href="http://static.earthcamcdn.com/cams/includes/ecnplayer.min.css?20160316" rel="stylesheet" type="text/css" />
+<!--<link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">-->
+
+<!-- Webcam Network | EarthCam. -->
+	
+<!--[if IE 7]>
+<![endif]-->
+
+<script language="JavaScript" src="http://static.earthcamcdn.com/js/jquery.js" type="text/javascript"></script>
+<!--<script language="JavaScript" src="http://static.earthcamcdn.com/js/jquery-ui.min.js" type="text/javascript"></script>-->
+<script language="JavaScript" src="http://static.earthcamcdn.com/js/jquery-ui-1.11.1.custom/jquery-ui.min.js"></script>
+
+<!--<script language="JavaScript" src="http://static.earthcamcdn.com/js/jquery.tools.min.js" type="text/javascript"></script>-->
+<script language="JavaScript" src="http://static.earthcamcdn.com/js/jquery.history.html4+5.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://static.earthcamcdn.com/js/jquery.smooth-scroll.min.js" type="text/javascript"  defer="defer"></script>
+
+<script language="JavaScript" src="http://static.earthcamcdn.com/js/detectmobilebrowser.js" type="text/javascript"></script>
+
+<script language="JavaScript" src="http://static.earthcamcdn.com/js/winpopup.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://static.earthcamcdn.com/js/dropDown.js" type="text/javascript"></script>
+
+<script language="JavaScript" src="http://static.earthcamcdn.com/js/swfobject.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://static.earthcamcdn.com/swf/ecvr/swfkrpano.js" type="text/javascript"></script>
+
+
+<!-- integration ************************************************************************************************************* -->
+<script type="text/javascript" src="http://static.earthcamcdn.com/js/momentjs/moment.min.js"></script>
+<script type="text/javascript" src="http://static.earthcamcdn.com/js/momentjs/moment-timezone-with-data.min.js"></script>
+
+
+<script type="text/javascript" src="http://static.earthcamcdn.com/js/earthcam/ecnplayer.package.js?20160316"></script>
+<!--<script type="text/javascript" src="http://static.earthcamcdn.com/js/earthcam/ecnplayer.package.2.js"></script>-->
+
+
+<!--   PACKAGE  -->
+<!--<script type="text/javascript" src="http://static.earthcamcdn.com/js/earthcam/ecnplayer.package.min.js?20160316"></script>-->
+
+<script type="text/javascript" src="http://static.earthcamcdn.com/js/earthcam/halloffame/hof.class.js?20160316"></script>
+
+
+<!-- *************************************************************************************************************************** -->
+
+
+<script language="JavaScript" src="http://static.earthcamcdn.com/js/earthcam/common.js?20160316" type="text/javascript"></script>
+<script language="JavaScript" src="http://static.earthcamcdn.com/js/earthcam/functions.ecntemplate.js?20160316" type="text/javascript"></script>
+<!--<script language="JavaScript" src="http://static.earthcamcdn.com/js/earthcam/comments.js?20160316" type="text/javascript"></script>-->
+<!--<script language="JavaScript" src="http://static.earthcamcdn.com/js/earthcam/functions.hof.js?20160316" type="text/javascript"></script>-->
+
+<!--<script src="//cdn.jsdelivr.net/emojione/2.1.1/lib/js/emojione.min.js"></script>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/emojione/2.1.1/assets/css/emojione.min.css"/>
+-->
+<script src="http://static.earthcamcdn.com/js/emojione-master/js/emojione.min.js"></script>
+<link rel="stylesheet" href="http://static.earthcamcdn.com/js/emojione-master/assets/css/emojione.min.css"/>
+
+
+<style type="text/css">
+
+body { background-image: url(http://static.earthcamcdn.com/cams/includes/images/page_bg/SOL_bg.jpg);
+  }
+#hof_segment { display: block; }
+#hof_top_nav { display: inline; }
+#static_map { display: ; }
+#hof_display_full, #hof_display_grid {
+	background-image: url(http://static.earthcamcdn.com/cams/includes/images/HOF_modetoggle.png);
+}
+
+
+
+/* -------------------------------------------------------------------------------------------------------------------------- */
+
+
+
+#basic_loading {
+	background-image: url(http://static.earthcamcdn.com/images/ajax-loader_circular.gif);
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+/*
+	FOR UI TOOLTIP
+*/
+div.ui-tooltip {
+	font-size: 11px;
+	font-family: Arial, Helvetica, Sans Serif;
+	background: #222;
+	color: #BBB;
+	padding: 5px;
+	
+	border: 1px solid #CCC;
+	border-radius: 3px;
+	box-shadow: 2px 2px 4px #000;
+}
+
+
+/* chrome overrides */
+/*#ecnPlayer .blackBar .modeOptions { font-family: "Arial Black", Arial, Helvetica; }*/
+</style>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+var template_mode = "ecn";
+
+if(typeof $j == "undefined")
+{
+	var $j = jQuery.noConflict();
+}
+
+if(typeof js_event_mode == "undefined")
+{
+	js_event_mode = false;
+}
+
+if (top.location != self.location) {top.location = self.location;}
+
+var contentpage = false;
+
+/* dynamic header and bg elements */
+var js_bg_header = {"liberty_torch":[{"bg":"","header":""}],"liberty_hd":[{"bg":"","header":""}],"liberty_crown":[{"bg":"","header":""}],"liberty_ellisisland":[{"bg":"","header":""}],"liberty_pano":[{"bg":"","header":""}],"liberty_mp":[{"bg":"","header":""}],"liberty_str":[{"bg":"","header":""}],"liberty_popart":[{"bg":"","header":""}],"liberty_harbor":[{"bg":"","header":""}],"liberty_harbor2":[{"bg":"","header":""}]};
+var js_force_base_header = false;
+var camNameLookup ={"4ad59f7e543a3b05fd847514f9cd7291":"liberty_torch","49ee0d329da228af2a70dfb9fe46af44":"liberty_hd","991488ab4ec28074feaa68ee2a91ff22":"liberty_crown","4e47ce264317f30302bd69701cf25213":"liberty_ellisisland","09b105d3a7defa510e616b0a13718111":"liberty_pano","1c98707a35f34857579d1a2d08201a04":"liberty_mp","c6699c90cfb9f83b51a5fa7748c605fa":"liberty_str","a8a73b9716ad644dd3421e467fe4014f":"liberty_popart","4ea00589ea215b9ebb847bd4fbf8e9f6":"liberty_harbor","910d11265d3e2afe81af2edd0eb08a91":"liberty_harbor2"}
+
+var disabled_static_map = false;
+
+if (contentpage == false)
+{
+	/* page globals for the player */
+	//var hofid; //moved to class
+	var js_cam_list				= ["liberty_torch","liberty_hd","liberty_crown","liberty_ellisisland","liberty_pano","liberty_mp","liberty_str","liberty_popart","liberty_harbor","liberty_harbor2"];
+	var json_base					= {"cam":{"liberty_torch":{"datecreated":"1319144847","allowmobile":"false","hasaudio":"false","network":"yes","searchable":"com","category":"ENT SCE SOC SPO ","subcategory":"GKkOSit","likes":935,"rating":"9.99815120738571","mapmode":"staticmaplite","mappath":"","live_tab_text":"LIVE","reservearchives":"false","custom_background":"","custom_header":"","offlineMessage":"","offlineMessageSub":"","showOfflineMessage":"true","maintainAspectRatio":"0","scaleMode":"letterbox","defaulttab":"live","rotate":"0","offlineimage":"http:\/\/static.earthcamcdn.com\/cams\/includes\/images\/offline_images\/","hideIconMap":"false","archiveVideoSelector":"false","url":"","weather":null,"overlay":"false","overlay_archives":"true","overlay_timelapse":"true","id":"4ad59f7e543a3b05fd847514f9cd7291","inet":"e2d05fe61187d1bc4928a253d09f087e","dnet":"354ac345fd8c6d7ef634d9a8e3d47b83","placeholderpath":"","map_lat":"40.68924200000000","map_long":"-74.04459000000000","city":"New York City","state":"NY","country":"United States","cam_counter":1,"cam_state":1,"cam_name":"liberty_torch","group_id":"statueofliberty","group_order":"1","name":"TorchCam","group":"Statue of Liberty Cams","title":"Statue of Liberty TorchCam","default_cam":"statueofliberty","xml_path":"newyork\/statueofliberty","liveon":"true","panoramaon":"false","archiveon":"false","timelapseon":"false","hofon":"","bestofon":"","liveexternal":"true","liveexternalpath":"\/swf\/ecvr\/ecvr_player.swf","pano_domain":"http:\/\/archives.earthcam.com","panoimagepath":"","panotype":"pano","panoimagepathtype":"path","digital_preset_x":"","digital_preset_y":"","digital_preset_scalex":"","digital_preset_scaley":"","offsetX":"","offsetY":"","playbackspeed":"900000","showdates":"","metar":"KJFK","hofid":"statueofliberty_torch","live_type":"megapixel","displaymode":"mega_hd","hd":"mega_hd","timezone":"America\/New_York","timezone_offset":"-5","thumbimage":"http:\/\/static.earthcamcdn.com\/cams\/includes\/images\/thumbimage\/torchcam.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/8f53fb3f067a2d42b8b125e56d3b8449.jpg","alttext":"TorchCam","camtext":"TorchCam","long_title":"TorchCam","short_title":"TorchCam","imagedomain":"http:\/\/archives.earthcam.com","streamingdomain":"rtmp:\/\/video3.earthcam.com","archivedomain":"http:\/\/archives.earthcam.com","timelapsedomain":"http:\/\/archives.earthcam.com","filedomain":"http:\/\/www.earthcam.com\/swf\/cam_player\/","livepath":"\/scripts\/json_request.php?page=archives&path=archives5\/ecnetwork\/us\/ny\/sol\/torch\/","livestreamingpath":"","android_livepath":"","cdn_status":"false","archivepath":"","timelapsepath":"","hofpath":"newyork\/statueofliberty\/","logolink":"","logopath":"","location":"New York City, New York","description":"See spectacular close up views of the famed golden torch and the balcony. This high resolution camera invites you to experience a part of the Statue that has been closed off to the public since 1916. Click on the \"bubbles\" within the image to explore more cameras.","pov_title_text":"","spacer":"false"},"liberty_hd":{"datecreated":"1319144791","allowmobile":"false","hasaudio":"true","network":"yes","searchable":"both","category":"ENT SCE SOC SPO ","subcategory":"GKkOSit","likes":10229,"rating":"9.99103597175519","mapmode":"staticmaplite","mappath":"","live_tab_text":"LIVE","reservearchives":"false","custom_background":"","custom_header":"","offlineMessage":"","offlineMessageSub":"","showOfflineMessage":"true","maintainAspectRatio":"0","scaleMode":"letterbox","defaulttab":"live","rotate":"0","offlineimage":"http:\/\/static.earthcamcdn.com\/cams\/includes\/images\/offline_images\/Torch-HarborCam-offline.jpg","hideIconMap":"false","archiveVideoSelector":"true","url":"","weather":null,"overlay":"true","overlay_archives":"true","overlay_timelapse":"true","id":"49ee0d329da228af2a70dfb9fe46af44","inet":"2112605294840be6858a16c4656119bf","dnet":"207f88018f72237565570f8a9e5ca240","placeholderpath":"","map_lat":"40.68924200000000","map_long":"-74.04459000000000","city":"New York City","state":"NY","country":"United States","cam_counter":2,"cam_state":"1","cam_name":"liberty_hd","group_id":"statueofliberty","group_order":"2","name":"HarborCam","group":"Statue of Liberty Cams","title":"Statue of Liberty HarborCam","default_cam":"fleet_week_2014","xml_path":"newyork\/statueofliberty","liveon":"true","panoramaon":"false","archiveon":"true","timelapseon":"false","hofon":"","bestofon":"","liveexternal":"false","liveexternalpath":"","pano_domain":"","panoimagepath":"","panotype":"pano","panoimagepathtype":"path","digital_preset_x":"","digital_preset_y":"","digital_preset_scalex":"","digital_preset_scaley":"","offsetX":"","offsetY":"","playbackspeed":"500","showdates":"","metar":"KJFK","hofid":"statueofliberty_hd","live_type":"flashvideo","displaymode":"mega_hd","hd":"mega_hd","timezone":"America\/New_York","timezone_offset":"-5","thumbimage":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/0c4f8345b3c79e97bb0bd096f0fa36d6.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/0c4f8345b3c79e97bb0bd096f0fa36d6.jpg","alttext":"HarborCam","camtext":"HarborCam","long_title":"View from the Torch","short_title":"","imagedomain":"http:\/\/images.earthcam.com","streamingdomain":"rtmp:\/\/video3.earthcam.com","archivedomain":"http:\/\/archives.earthcam.com","timelapsedomain":"http:\/\/www.earthcam.com","filedomain":"http:\/\/www.earthcam.com\/swf\/cam_player\/","livepath":"","livestreamingpath":"\/fecnetwork\/libertyHD1.flv","android_livepath":"\/fecnetwork\/libertyHD1.flv","cdn_status":"false","archivepath":"\/archives3\/world\/us\/mo\/saintlui\/24hrtimelapse.mp4","timelapsepath":"\/swf\/sol\/Torch_Cam_Skyline.flv","hofpath":"newyork\/statueofliberty\/","logolink":"","logopath":"","location":"New York City, New York","description":"Live from the torch balcony of the Statue of Liberty, you're enjoying views of the New York Harbor. Watch as boats and ferries navigate the harbor, see the ever-changing New York City skyline and experience some of the most amazing sunrises and sunsets around.","pov_title_text":"","spacer":"false"},"liberty_crown":{"datecreated":"1319145177","allowmobile":"false","hasaudio":"false","network":"yes","searchable":"com","category":"ENT SCE SOC SPO ","subcategory":"GKkOSit","likes":7230,"rating":"9.99740975047589","mapmode":"staticmaplite","mappath":"","live_tab_text":"LIVE","reservearchives":"false","custom_background":"","custom_header":"","offlineMessage":"","offlineMessageSub":"","showOfflineMessage":"true","maintainAspectRatio":"1","scaleMode":"letterbox","defaulttab":"live","rotate":"0","offlineimage":"http:\/\/static.earthcamcdn.com\/cams\/includes\/images\/offline_images\/crown.jpg","hideIconMap":"false","archiveVideoSelector":"false","url":"","weather":null,"overlay":"true","overlay_archives":"true","overlay_timelapse":"true","id":"991488ab4ec28074feaa68ee2a91ff22","inet":"078fbc1d65812e5859c6382f0eb1bb5e","dnet":"be93cca187e923aabc702667ba5f0d06","placeholderpath":"","map_lat":"40.68924200000000","map_long":"-74.04459000000000","city":"Liberty Island","state":"NY","country":"United States","cam_counter":3,"cam_state":"1","cam_name":"liberty_crown","group_id":"statueofliberty","group_order":"5","name":"CrownCam","group":"Statue of Liberty Cams","title":"Statue of Liberty CrownCam","default_cam":"","xml_path":"newyork\/statueofliberty","liveon":"true","panoramaon":"false","archiveon":"false","timelapseon":"false","hofon":"true","bestofon":"false","liveexternal":"false","liveexternalpath":"","pano_domain":"","panoimagepath":"","panotype":"pano","panoimagepathtype":"path","digital_preset_x":"-168.00","digital_preset_y":"0.00","digital_preset_scalex":"1.3500000000000003","digital_preset_scaley":"1.3500000000000003","offsetX":"","offsetY":"","playbackspeed":"900000","showdates":"yes","metar":"KJFK","hofid":"statueofliberty_crown","live_type":"megapixel","displaymode":"mega_hd","hd":"mega_hd","timezone":"America\/New_York","timezone_offset":"-5","thumbimage":"http:\/\/static.earthcamcdn.com\/cams\/includes\/images\/thumbimage\/crowncam.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/e6035a76c04d5ad951b986f593891fa6.jpg","alttext":"CrownCam","camtext":"CrownCam","long_title":"Statue of Liberty","short_title":"","imagedomain":"http:\/\/archives.earthcam.com","streamingdomain":"rtmp:\/\/video3.earthcam.com","archivedomain":"http:\/\/archives.earthcam.com","timelapsedomain":"http:\/\/archives.earthcam.com","filedomain":"http:\/\/www.earthcam.com\/swf\/cam_player\/","livepath":"\/archives5\/ecnetwork\/us\/ny\/sol\/crownshot\/live2.jpg","livestreamingpath":"","android_livepath":"","cdn_status":"false","archivepath":"","timelapsepath":"","hofpath":"newyork\/statueofliberty\/","logolink":"","logopath":"","location":"New York City, New York","description":"EarthCam presents the most patriotic \"selfie\" on the internet! This exclusive camera gazes upon Lady Liberty from the torch, offering one-of-a-kind views of the crown, face, tablet and historic Fort Wood.","pov_title_text":"","spacer":"false"},"liberty_ellisisland":{"datecreated":"1319145375","allowmobile":"false","hasaudio":"false","network":"yes","searchable":"com","category":"ENT SCE SOC SPO ","subcategory":"GKkOSit","likes":1700,"rating":"9.98666400876397","mapmode":"staticmaplite","mappath":"","live_tab_text":"LIVE","reservearchives":"false","custom_background":"","custom_header":"","offlineMessage":"","offlineMessageSub":"","showOfflineMessage":"true","maintainAspectRatio":"0","scaleMode":"letterbox","defaulttab":"live","rotate":"0","offlineimage":"http:\/\/static.earthcamcdn.com\/cams\/includes\/images\/offline_images\/ellis.jpg","hideIconMap":"false","archiveVideoSelector":"false","url":"","weather":null,"overlay":"true","overlay_archives":"true","overlay_timelapse":"true","id":"4e47ce264317f30302bd69701cf25213","inet":"ce3b5506fc4151c97d646dc6fce8b1f5","dnet":"bc7316929fe1545bf0b98d114ee3ecb8","placeholderpath":"","map_lat":"40.68924200000000","map_long":"-74.04459000000000","city":"New York City","state":"NY","country":"United States","cam_counter":4,"cam_state":"1","cam_name":"liberty_ellisisland","group_id":"statueofliberty","group_order":"9","name":"Ellis Island","group":"Statue of Liberty Cams","title":"Ellis Island","default_cam":"","xml_path":"newyork\/statueofliberty","liveon":"true","panoramaon":"false","archiveon":"false","timelapseon":"false","hofon":"","bestofon":"","liveexternal":"false","liveexternalpath":"","pano_domain":"","panoimagepath":"","panotype":"pano","panoimagepathtype":"path","digital_preset_x":"","digital_preset_y":"","digital_preset_scalex":"","digital_preset_scaley":"","offsetX":"","offsetY":"","playbackspeed":"900000","showdates":"","metar":"KJFK","hofid":"ellisisland","live_type":"megapixel","displaymode":"mega_hd","hd":"mega_hd","timezone":"America\/New_York","timezone_offset":"-5","thumbimage":"http:\/\/static.earthcamcdn.com\/cams\/includes\/images\/thumbimage\/ellis.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/938da0614f0ad589d1a883627f525148.jpg","alttext":"Ellis Island","camtext":"Ellis Island","long_title":"Ellis Island","short_title":"Ellis Island","imagedomain":"http:\/\/archives.earthcam.com","streamingdomain":"rtmp:\/\/video3.earthcam.com","archivedomain":"http:\/\/archives.earthcam.com","timelapsedomain":"http:\/\/archives.earthcam.com","filedomain":"http:\/\/www.earthcam.com\/swf\/cam_player\/","livepath":"\/archives5\/ecnetwork\/us\/ny\/sol\/ellisisland\/live.jpg","livestreamingpath":"","android_livepath":"","cdn_status":"false","archivepath":"","timelapsepath":"","hofpath":"newyork\/statueofliberty\/","logolink":"","logopath":"","location":"New York City, New York","description":"Set your eyes on an unmatched view of Ellis Island, which serves as a symbol of American immigration and is best known as the historical gateway for millions.","pov_title_text":"","spacer":"false"},"liberty_pano":{"datecreated":"1319144621","allowmobile":"false","hasaudio":"false","network":"yes","searchable":"com","category":"ENT SCE SOC SPO ","subcategory":"GKkOSit","likes":496,"rating":"9.9965312074702","mapmode":"staticmaplite","mappath":"","live_tab_text":"LIVE","reservearchives":"false","custom_background":"","custom_header":"","offlineMessage":"","offlineMessageSub":"","showOfflineMessage":"true","maintainAspectRatio":"0","scaleMode":"letterbox","defaulttab":"panorama","rotate":"0","offlineimage":"http:\/\/static.earthcamcdn.com\/cams\/includes\/images\/offline_images\/","hideIconMap":"false","archiveVideoSelector":"false","url":"","weather":null,"overlay":"false","overlay_archives":"true","overlay_timelapse":"true","id":"09b105d3a7defa510e616b0a13718111","inet":"ce3b5506fc4151c97d646dc6fce8b1f5","dnet":"bc7316929fe1545bf0b98d114ee3ecb8","placeholderpath":"","map_lat":"40.68924200000000","map_long":"-74.04459000000000","city":"New York City","state":"NY","country":"United States","cam_counter":5,"cam_state":1,"cam_name":"liberty_pano","group_id":"statueofliberty","group_order":"15","name":"Interactive Panorama","group":"Statue of Liberty Cams","title":"Statue of Liberty Panorama Cam","default_cam":"","xml_path":"newyork\/statueofliberty","liveon":"false","panoramaon":"true","archiveon":"false","timelapseon":"false","hofon":"","bestofon":"","liveexternal":"true","liveexternalpath":"\/swf\/pano\/dot_com_pano.swf?pano_path=archives5\/ecnetwork\/us\/ny\/sol\/ellisisland\/multipanorama&pano_type=multipano&offsetX=40&offsetY=-60","pano_domain":"http:\/\/archives.earthcam.com","panoimagepath":"archives5\/ecnetwork\/us\/ny\/sol\/ellisisland\/multipanorama","panotype":"multipano","panoimagepathtype":"path","digital_preset_x":"","digital_preset_y":"","digital_preset_scalex":"","digital_preset_scaley":"","offsetX":"","offsetY":"","playbackspeed":"900000","showdates":"","metar":"KJFK","hofid":"statueofliberty_pano","live_type":"megapixel","displaymode":"mega_hd","hd":"mega_hd","timezone":"America\/New_York","timezone_offset":"-5","thumbimage":"http:\/\/static.earthcamcdn.com\/cams\/includes\/images\/thumbimage\/pano.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/205eca65e22b45600d9d2ac74d8038a4.jpg","alttext":"Interactive Panorama","camtext":"Panorama","long_title":"NY Harbor Panorama","short_title":"","imagedomain":"http:\/\/images.earthcam.com","streamingdomain":"rtmp:\/\/video3.earthcam.com","archivedomain":"http:\/\/archives.earthcam.com","timelapsedomain":"http:\/\/archives.earthcam.com","filedomain":"http:\/\/www.earthcam.com\/swf\/cam_player\/","livepath":"","livestreamingpath":"","android_livepath":"","cdn_status":"false","archivepath":"","timelapsepath":"","hofpath":"newyork\/statueofliberty\/","logolink":"","logopath":"","location":"New York City, New York","description":"From high atop Liberty Island, this ultra widescreen panorama offers breathtaking views from the torch of the NJ and NY skylines, Ellis Island, and the New York-New Jersey Harbor.","pov_title_text":"","spacer":"false"},"liberty_mp":{"datecreated":"1118323835","allowmobile":"false","hasaudio":"false","network":"yes","searchable":"both","category":"EDU ENT SCE SOC SPO ","subcategory":"GKyfkOSit","likes":2024,"rating":"9.8463588639441","mapmode":"staticmaplite","mappath":"","live_tab_text":"LIVE","reservearchives":"false","custom_background":"","custom_header":"","offlineMessage":"","offlineMessageSub":"","showOfflineMessage":"true","maintainAspectRatio":"0","scaleMode":"letterbox","defaulttab":"live","rotate":"0","offlineimage":"http:\/\/static.earthcamcdn.com\/cams\/includes\/images\/offline_images\/sol_mp.jpg","hideIconMap":"false","archiveVideoSelector":"false","url":"","weather":null,"overlay":"true","overlay_archives":"true","overlay_timelapse":"true","id":"1c98707a35f34857579d1a2d08201a04","inet":"a8edf505b8c0d810010b3573c9316929","dnet":"9529fbba677729d3206b3b9073d1e9ca","placeholderpath":"","map_lat":"40.68935952827955","map_long":"-74.04433250427246","city":"New York City","state":"NY","country":"United States","cam_counter":6,"cam_state":"0","cam_name":"liberty_mp","group_id":"statueofliberty","group_order":"20","name":"LibertyCam","group":"Statue of Liberty","title":"Statue of Liberty","default_cam":"","xml_path":"newyork\/statueofliberty","liveon":"true","panoramaon":"false","archiveon":"false","timelapseon":"false","hofon":"","bestofon":"","liveexternal":"false","liveexternalpath":"","pano_domain":"","panoimagepath":"","panotype":"pano","panoimagepathtype":"path","digital_preset_x":"","digital_preset_y":"","digital_preset_scalex":"","digital_preset_scaley":"","offsetX":"","offsetY":"","playbackspeed":"900000","showdates":"","metar":"KNYC","hofid":"statueofliberty_mp","live_type":"megapixel","displaymode":"mega_hd","hd":"mega_hd","timezone":"America\/New_York","timezone_offset":"-5","thumbimage":"http:\/\/static.earthcamcdn.com\/cams\/includes\/images\/thumbimage\/sol_mp.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/7b8827035379a0acdda2155a03525939.jpg","alttext":"LibertyCam","camtext":"LibertyCam","long_title":"LibertyCam","short_title":"LibertyCam","imagedomain":"http:\/\/archives.earthcam.com","streamingdomain":"rtmp:\/\/video3.earthcam.com","archivedomain":"http:\/\/archives.earthcam.com","timelapsedomain":"http:\/\/archives.earthcam.com","filedomain":"http:\/\/www.earthcam.com\/swf\/cam_player\/","livepath":"\/archives5\/ecnetwork\/us\/ny\/sol\/statueofliberty\/live2.jpg","livestreamingpath":"\/fecnetwork\/sliberty.flv","android_livepath":"","cdn_status":"false","archivepath":"\/archives3\/ecnetwork\/us\/ny\/statue\/24hrtimelapse.mp4","timelapsepath":"\/archives5\/beauty_timelapse\/Week3\/liberty.3gp","hofpath":"newyork\/statueofliberty\/","logolink":"http:\/\/www.cornellpaper.com\/","logopath":"","location":"New York, New York","description":"Located across the New York Harbor in Brooklyn, experience high resolution views of the Statue of Liberty. This webcam is the perfect way to see one of America's most recognizable icons.","pov_title_text":"","spacer":"false"},"liberty_str":{"datecreated":"1241306929","allowmobile":"false","hasaudio":"true","network":"yes","searchable":"both","category":"ENT SCE SOC SPO ","subcategory":"GKkOSit","likes":10854,"rating":"9.97137903057406","mapmode":"staticmaplite","mappath":"","live_tab_text":"LIVE","reservearchives":"false","custom_background":"","custom_header":"","offlineMessage":"","offlineMessageSub":"","showOfflineMessage":"true","maintainAspectRatio":"0","scaleMode":"letterbox","defaulttab":"live","rotate":"0","offlineimage":"http:\/\/static.earthcamcdn.com\/cams\/includes\/images\/offline_images\/sol_mp.jpg","hideIconMap":"false","archiveVideoSelector":"true","url":"","weather":null,"overlay":"true","overlay_archives":"true","overlay_timelapse":"true","id":"c6699c90cfb9f83b51a5fa7748c605fa","inet":"39eee5d086ad67250179d9be1a436c07","dnet":"fe4b8556000d0f0cae99daa5c5c5a410","placeholderpath":"","map_lat":"40.68924200000000","map_long":"-74.04459000000000","city":"New York City","state":"NY","country":"United States","cam_counter":7,"cam_state":"0","cam_name":"liberty_str","group_id":"statueofliberty","group_order":"21","name":"Streaming LibertyCam","group":"Statue of Liberty","title":"Statue of Liberty Streaming","default_cam":"","xml_path":"newyork\/statueofliberty","liveon":"true","panoramaon":"false","archiveon":"false","timelapseon":"false","hofon":"","bestofon":"","liveexternal":"false","liveexternalpath":"","pano_domain":"","panoimagepath":"","panotype":"pano","panoimagepathtype":"path","digital_preset_x":"","digital_preset_y":"","digital_preset_scalex":"","digital_preset_scaley":"","offsetX":"","offsetY":"","playbackspeed":"500","showdates":"","metar":"KNYC","hofid":"statueofliberty","live_type":"flashvideo","displaymode":"mega_hd","hd":"mega_hd","timezone":"America\/New_York","timezone_offset":"-5","thumbimage":"http:\/\/static.earthcamcdn.com\/cams\/includes\/images\/thumbimage\/sol.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/48d5cfbda63eaea09debaeb09dbaa355.jpg","alttext":"NY Harbor","camtext":"Streaming","long_title":"Statue of Liberty","short_title":"Liberty","imagedomain":"http:\/\/images.earthcam.com","streamingdomain":"rtmp:\/\/video3.earthcam.com","archivedomain":"rtmp:\/\/video4.earthcam.com\/archives","timelapsedomain":"rtmp:\/\/video2.earthcam.com\/archives\/","filedomain":"http:\/\/www.earthcam.com\/swf\/cam_player\/","livepath":"","livestreamingpath":"\/fecnetwork\/statueoflibertyHD.flv","android_livepath":"\/fecnetwork\/statueoflibertyHD.flv","cdn_status":"false","archivepath":"","timelapsepath":"","hofpath":"newyork\/statueofliberty\/","logolink":"http:\/\/www.cornellpaper.com\/","logopath":"","location":"New York, New York","description":"EarthCam brings you the best, unmatched live view of the Statue of Liberty. Located across the New York Harbor in Brooklyn, this webcam showcases stunning views of Lady Liberty in real-time.","pov_title_text":"LibertyCam","spacer":"false","start_hour":"13"},"liberty_popart":{"datecreated":"1382934896","allowmobile":"false","hasaudio":"false","network":"yes","searchable":"com","category":"ENT SCE SOC SPO ","subcategory":"GKkOSit","likes":432,"rating":"9.99831152160771","mapmode":"staticmaplite","mappath":"","live_tab_text":"LIVE","reservearchives":"false","custom_background":"","custom_header":"","offlineMessage":"","offlineMessageSub":"","showOfflineMessage":"true","maintainAspectRatio":"0","scaleMode":"letterbox","defaulttab":"live","rotate":"0","offlineimage":"http:\/\/static.earthcamcdn.com\/cams\/includes\/images\/offline_images\/libertypopart-offline.jpg","hideIconMap":"false","archiveVideoSelector":"false","url":"","weather":null,"overlay":"true","overlay_archives":"true","overlay_timelapse":"true","id":"a8a73b9716ad644dd3421e467fe4014f","inet":"bc8cfbf74da8fdd0156a05eaf7edfa82","dnet":"9529fbba677729d3206b3b9073d1e9ca","placeholderpath":"","map_lat":"40.68924200000000","map_long":"-74.04459000000000","city":"New York City","state":"NY","country":"United States","cam_counter":8,"cam_state":"1","cam_name":"liberty_popart","group_id":"statueofliberty","group_order":"25","name":"Liberty Pop Art","group":"Statue of Liberty Cams","title":"Statue of Liberty Pop Art Cam","default_cam":"","xml_path":"newyork\/statueofliberty","liveon":"true","panoramaon":"false","archiveon":"false","timelapseon":"false","hofon":"","bestofon":"","liveexternal":"false","liveexternalpath":"","pano_domain":"","panoimagepath":"","panotype":"pano","panoimagepathtype":"path","digital_preset_x":"","digital_preset_y":"","digital_preset_scalex":"","digital_preset_scaley":"","offsetX":"","offsetY":"","playbackspeed":"300000","showdates":"","metar":"KPIT","hofid":"liberty_popart","live_type":"megapixel","displaymode":"mega_hd","hd":"mega_hd","timezone":"America\/New_York","timezone_offset":"-5","thumbimage":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/3c879c4431a2344223482cfb10c33271.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/3c879c4431a2344223482cfb10c33271.jpg","alttext":"Liberty Pop Art","camtext":"Liberty Pop Art","long_title":"Liberty Popart","short_title":"","imagedomain":"http:\/\/archives2.earthcam.com","streamingdomain":"rtmp:\/\/video3.earthcam.com","archivedomain":"http:\/\/archives.earthcam.com","timelapsedomain":"http:\/\/archives.earthcam.com","filedomain":"http:\/\/www.earthcam.com\/swf\/cam_player\/","livepath":"\/archives6\/ecnetwork\/us\/ny\/sol\/liberty-cam-popart\/live.gif","livestreamingpath":"\/fecnetwork\/","android_livepath":"","cdn_status":"false","archivepath":"","timelapsepath":"","hofpath":"newyork\/statueofliberty\/","logolink":"","logopath":"","location":"New York City, New York","description":"Lady Liberty isn't just green anymore with this unique webcam with pop art effects! EarthCam's digital process, modeled after Andy Warhol's silk screen process, is based on millions of color and matte combinations to create one-of-a-kind works of art. Collect and share these vibrant images that are available for 15 minutes of fame and then gone forever.","pov_title_text":"","spacer":"false"},"liberty_harbor":{"datecreated":"1382934896","allowmobile":"false","hasaudio":"false","network":"yes","searchable":"com","category":"ENT SCE SOC SPO ","subcategory":"GKkOSit","likes":1601,"rating":"9.99954055724942","mapmode":"staticmaplite","mappath":"","live_tab_text":"LIVE","reservearchives":"false","custom_background":"","custom_header":"","offlineMessage":"","offlineMessageSub":"","showOfflineMessage":"true","maintainAspectRatio":"1","scaleMode":"letterbox","defaulttab":"live","rotate":"0","offlineimage":"http:\/\/static.earthcamcdn.com\/cams\/includes\/images\/offline_images\/libertyharbor-offline.jpg","hideIconMap":"false","archiveVideoSelector":"false","url":"","weather":null,"overlay":"true","overlay_archives":"true","overlay_timelapse":"true","id":"4ea00589ea215b9ebb847bd4fbf8e9f6","inet":"77c682970fb3d4f973a5220c1462dacf","dnet":"54e8912427a8d007ece906c577fdca60","placeholderpath":"","map_lat":"40.68924200000000","map_long":"-74.04459000000000","city":"New York City","state":"NY","country":"United States","cam_counter":9,"cam_state":"1","cam_name":"liberty_harbor","group_id":"statueofliberty","group_order":"30","name":"Liberty Harbor","group":"Statue of Liberty Cams","title":"Statue of Liberty Harbor Cam - North View","default_cam":"","xml_path":"newyork\/statueofliberty","liveon":"true","panoramaon":"false","archiveon":"false","timelapseon":"false","hofon":"","bestofon":"","liveexternal":"false","liveexternalpath":"","pano_domain":"","panoimagepath":"","panotype":"pano","panoimagepathtype":"path","digital_preset_x":"-155","digital_preset_y":"-65","digital_preset_scalex":"1.30","digital_preset_scaley":"1.30","offsetX":"","offsetY":"","playbackspeed":"900000","showdates":"","metar":"KJFK","hofid":"libertyharbor","live_type":"megapixel","displaymode":"mega_hd","hd":"mega_hd","timezone":"America\/New_York","timezone_offset":"-5","thumbimage":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/d96e17ab469884f62dfee92bd6507920.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/d96e17ab469884f62dfee92bd6507920.jpg","alttext":"Liberty Harbor","camtext":"Liberty Harbor","long_title":"Liberty Harbor","short_title":"","imagedomain":"http:\/\/archives2.earthcam.com","streamingdomain":"rtmp:\/\/video3.earthcam.com","archivedomain":"http:\/\/archives.earthcam.com","timelapsedomain":"http:\/\/archives.earthcam.com","filedomain":"http:\/\/www.earthcam.com\/swf\/cam_player\/","livepath":"\/archives6\/ecnetwork\/us\/nj\/jersey-city\/hyatt\/archive3\/live.jpg","livestreamingpath":"","android_livepath":"","cdn_status":"false","archivepath":"","timelapsepath":"","hofpath":"newyork\/statueofliberty\/","logolink":"","logopath":"","location":"New York City, New York","description":"This HD megapixel webcam offers an interesting shoreline perspective of the Statue of Liberty. Visitors will be treated to amazing views of Ellis Island, the New York Harbor and Liberty Island. Zoom in and explore for a closer look.","pov_title_text":"","spacer":"false"},"liberty_harbor2":{"datecreated":"1425620096","allowmobile":"false","hasaudio":"false","network":"yes","searchable":"both","category":"ENT SCE SOC SPO ","subcategory":"GKkOSit","likes":184,"rating":"9.99607518586473","mapmode":"staticmaplite","mappath":"","live_tab_text":"LIVE","reservearchives":"false","custom_background":"","custom_header":"","offlineMessage":"","offlineMessageSub":"","showOfflineMessage":"true","maintainAspectRatio":"1","scaleMode":"letterbox","defaulttab":"live","rotate":"0","offlineimage":"http:\/\/static.earthcamcdn.com\/cams\/includes\/images\/offline_images\/libertyharbor2-offline.jpg","hideIconMap":"false","archiveVideoSelector":"false","url":"","weather":null,"overlay":"true","overlay_archives":"true","overlay_timelapse":"true","id":"910d11265d3e2afe81af2edd0eb08a91","inet":"d8b03082340925f9ed3d007ad523d054","dnet":"4abe17a1c80cbdd2aa241b70840879de","placeholderpath":"","map_lat":"40.68924200000000","map_long":"-74.04459000000000","city":"New York City","state":"NY","country":"United States","cam_counter":10,"cam_state":"1","cam_name":"liberty_harbor2","group_id":"statueofliberty","group_order":"35","name":"Liberty Harbor","group":"Statue of Liberty Cams","title":"Statue of Liberty Harbor Cam - East View","default_cam":"","xml_path":"newyork\/statueofliberty","liveon":"true","panoramaon":"false","archiveon":"false","timelapseon":"false","hofon":"","bestofon":"","liveexternal":"false","liveexternalpath":"","pano_domain":"","panoimagepath":"","panotype":"pano","panoimagepathtype":"path","digital_preset_x":"-155","digital_preset_y":"-65","digital_preset_scalex":"1.30","digital_preset_scaley":"1.30","offsetX":"","offsetY":"","playbackspeed":"900000","showdates":"","metar":"KJFK","hofid":"libertyharbor","live_type":"megapixel","displaymode":"mega_hd","hd":"mega_hd","timezone":"America\/New_York","timezone_offset":"-5","thumbimage":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/ba7ddea66735d239cc73b958b96df1ba.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/ba7ddea66735d239cc73b958b96df1ba.jpg","alttext":"Liberty Harbor East View","camtext":"Liberty Harbor East View","long_title":"Liberty Harbor","short_title":"","imagedomain":"http:\/\/archives2.earthcam.com","streamingdomain":"rtmp:\/\/video3.earthcam.com","archivedomain":"http:\/\/archives.earthcam.com","timelapsedomain":"http:\/\/archives.earthcam.com","filedomain":"http:\/\/www.earthcam.com\/swf\/cam_player\/","livepath":"\/archives6\/ecnetwork\/us\/ny\/sol\/torch-camr\/archive1\/live.jpg","livestreamingpath":"","android_livepath":"","cdn_status":"false","archivepath":"","timelapsepath":"","hofpath":"newyork\/statueofliberty\/","logolink":"","logopath":"","location":"New York City, New York","description":"Broadcast from the torch balcony, enjoy high resolution images of New York Harbor and the downtown Manhattan skyline. See exclusive views of some of the city's most famous buildings, and One World Trade Center along the skyline.","pov_title_text":"","spacer":"false"}}, "related_cams":[{"id":"473b8a00b4ef4ce7afadc0fc7006ded4","url":"http:\/\/www.earthcam.com\/usa\/newyork\/wallstreet\/chargingbull\/?cam=chargingbull_hd","title":"Charging Bull Cam","camtext":"Wall Street, NYC","alttext":"Charging Bull Cam","thumbimage":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/fdc83ed3161e2cbb2782f32fdcd4d2f8.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/fdc83ed3161e2cbb2782f32fdcd4d2f8.jpg"},{"id":"b9eed0d4176e790a68f198dfbd13de8d","url":"http:\/\/newyears.earthcam.com\/ts\/?cam=broadcast_ny2016","title":"New Years 2016 Broadcast Special","camtext":"NYE Broadcast Special","alttext":"New Years 2016 Broadcast Special","thumbimage":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/7e2e93215fff0c58617e2d3cee609425.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/7e2e93215fff0c58617e2d3cee609425.jpg"},{"id":"60b9482dd259095b70aeff71daa9eb8c","url":"http:\/\/www.earthcam.com\/usa\/newyork\/timessquare\/?cam=tsstreet","title":"Times Square North View","camtext":"Times Square, NYC","alttext":"Times Square North View","thumbimage":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/7614240cde889d50dced3616cec699fa.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/7614240cde889d50dced3616cec699fa.jpg"},{"id":"ae6b578c12fcbbe900ce387fa53c1c6d","url":"http:\/\/www.earthcam.com\/usa\/newyork\/timessquare\/?cam=tstwo_hd","title":"Times Square South View","camtext":"Times Square South","alttext":"Times Square South View","thumbimage":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/c390b5f00322b876fb592736d1e091b5.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/c390b5f00322b876fb592736d1e091b5.jpg"},{"id":"9b0d2b1e2467dc05b0071211cbe891f6","url":"http:\/\/www.earthcam.com\/usa\/newyork\/brooklynbridge\/","title":"Brooklyn Bridge","camtext":"Brooklyn Bridge, NYC","alttext":"Brooklyn Bridge","thumbimage":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/4c942c4ee32134e8b687c1e5c86cb487.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/4c942c4ee32134e8b687c1e5c86cb487.jpg"},{"id":"08a60417977dd7782b68ea4ea0c487a5","url":"http:\/\/www.earthcam.com\/usa\/newyork\/timessquare\/?cam=tsrobo1","title":"Times Square 47th & Broadway","camtext":"Times Square, NYC","alttext":"Times Square 47th & Broadway","thumbimage":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/35876d6d68e20e3d735d4bdd4003c456.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/35876d6d68e20e3d735d4bdd4003c456.jpg"},{"id":"0fbb7c1184e92943df281aee8ebbba9f","url":"http:\/\/www.earthcam.com\/usa\/newyork\/skyline\/?cam=hyatthd","title":"New York Skyline Cam HD","camtext":"Jersey City, NJ","alttext":"New York Skyline Cam HD","thumbimage":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/7a8e0c36538ec43dde910eb677f0e7ab.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/7a8e0c36538ec43dde910eb677f0e7ab.jpg"},{"id":"e79ff7c4fc3a12386a3b27d43379b8fe","url":"http:\/\/www.earthcam.com\/usa\/newyork\/fifthave\/?cam=nyc5th_str","title":"5th Avenue Cam","camtext":"5th Avenue","alttext":"5th Avenue Cam","thumbimage":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/7412cdcc8b96b1891316259b98537f6f.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/7412cdcc8b96b1891316259b98537f6f.jpg"},{"id":"37af1ba8a8ecd9e71e32762e0cb2e8b2","url":"http:\/\/www.earthcam.com\/usa\/newyork\/midtown\/skyline\/?cam=eastriver_skyline","title":"New York City's East River","camtext":"East River, NYC","alttext":"New York City's East River","thumbimage":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/55ff24dc93e2275d163e14c46ca4c6a4.jpg","thumbimage2":"http:\/\/static.earthcamcdn.com\/camshots\/128x72\/55ff24dc93e2275d163e14c46ca4c6a4.jpg"}], "world_cams":null};
+
+	//var json_data = "";
+	var currentName					= "liberty_pano"; // currently selected camera
+	var camera_likes				= 0;
+	
+	/*if ("newyears" != js_event_mode)
+		camera_likes				= json_base.cam[currentName].likes;*/
+	
+	
+			json_base.cam["liberty_crown"].digitalpresets = '{"comingFrom":{"default":{"1":{"force":true, "x":0, "y":90, "scaleX":1, "scaleY":1, "duration":0, "wait":0}},"liberty_torch":{"1":{"force":false, "x":0, "y":90, "scaleX":1, "scaleY":1, "duration":2, "wait":0}}},"goingTo":{"liberty_torch":{"1":{"force":false, "x":0, "y":0, "scaleX":1, "scaleY":1, "duration":2, "wait":0}}}}'
+			json_base.cam["liberty_crown"].hotspotsFixedStr = '{"1":{"x":0.05, "y":0.8, "scaleOff":0.3, "scaleOver":0.6, "tooltip_text":"TorchCam", "image_url":"/usa/newyork/statueofliberty/images/hotspots/liberty_torch.png", "cam":"liberty_torch"}}';
+
+			json_base.cam["liberty_ellisisland"].digitalpresets = '{"comingFrom":{"default":{"1":{"force":false, "x":-504.1, "y":-143.5, "scaleX":2.2, "scaleY":2.2, "duration":2, "wait":0}},"liberty_torch":{"1":{"force":false, "x":-504.1, "y":-143.5, "scaleX":2.2, "scaleY":2.2, "duration":2, "wait":0}}},"goingTo":{"liberty_torch":{"1":{"force":false, "x":0, "y":0, "scaleX":1, "scaleY":1, "duration":2, "wait":0}}}}'
+			json_base.cam["liberty_ellisisland"].hotspotsFixedStr = '{"1":{"x":0.5, "y":0.05, "scaleOff":0.3, "scaleOver":0.6, "tooltip_text":"TorchCam", "image_url":"/usa/newyork/statueofliberty/images/hotspots/liberty_torch.png", "cam":"liberty_torch"}}';
+
+			json_base.cam["liberty_pano"].digitalpresets = '{"comingFrom":{"default":{"1":{"force":true, "x":0, "y":0, "scaleX":1, "scaleY":1, "duration":0, "wait":0}},"liberty_torch":{"1":{"force":false, "x":-269.0335853433458, "y":0, "scaleX":0.18145193443395005, "scaleY":0.18145193443395005, "duration":2, "wait":0}},"liberty_hd":{"1":{"force":false, "x":-269.0335853433458, "y":0, "scaleX":0.18145193443395005, "scaleY":0.18145193443395005, "duration":2, "wait":0}}},"goingTo":{"liberty_torch":{"1":{"force":false, "x":-269.0335853433458, "y":0, "scaleX":0.18145193443395005, "scaleY":0.18145193443395005, "duration":2, "wait":0}},"liberty_hd":{"1":{"force":false, "x":-793.1574179046997, "y":0, "scaleX":0.24815929054183758, "scaleY":0.24815929054183758, "duration":2, "wait":0}},"liberty_harbor":{"1":{"force":false, "x":-750.111137827774, "y":-150.12075327260425, "scaleX":0.66416074828340287, "scaleY":0.66416074828340287, "duration":2, "wait":0}},"liberty_mp":{"1":{"force":false, "x":-2872.111137827774, "y":-150.12075327260425, "scaleX":0.46416074828340287, "scaleY":0.46416074828340287, "duration":2, "wait":0}}}}'
+			json_base.cam["liberty_pano"].hotspotsFixedStr = '{"1":{"x":0.5, "y":0.05, "scaleOff":0.3, "scaleOver":0.6, "tooltip_text":"TorchCam", "image_url":"/usa/newyork/statueofliberty/images/hotspots/liberty_torch.png", "cam":"liberty_torch"}}';
+			json_base.cam["liberty_pano"].hotspotsRelativeStr = '{"1":{"x":0.9808685302734375,"y":0.2929891548210672,"scaleOff":0.3,"scaleOver":0.6,"tooltip_text":"LibertyCam","image_url":"/usa/newyork/statueofliberty/images/hotspots/liberty_mp.png","cam":"liberty_mp"},"2":{"x":0.3258685302734375,"y":0.2829891548210672,"scaleOff":0.3,"scaleOver":0.6,"tooltip_text":"LibertyHarborCam","image_url":"/usa/newyork/statueofliberty/images/hotspots/liberty_harbor.png","cam":"liberty_harbor"}}';
+
+			json_base.cam["liberty_mp"].digitalpresets = '{"comingFrom":{"default":{"1":{"force":true, "x":0, "y":0, "scaleX":1, "scaleY":1, "duration":0, "wait":0}},"liberty_torch":{"1":{"force":true, "x":-4168, "y":-484, "scaleX":10, "scaleY":10, "duration":0, "wait":0},"2":{"force":false, "x":0, "y":0, "scaleX":1, "scaleY":1, "duration":2, "wait":0}}},"goingTo":{"liberty_torch":{"1":{"force":false, "x":-4168, "y":-484, "scaleX":10, "scaleY":10, "duration":2, "wait":0}}}}'
+			json_base.cam["liberty_mp"].hotspotsFixedStr = '{"1":{"x":0.5, "y":0.05, "scaleOff":0.3, "scaleOver":0.6, "tooltip_text":"TorchCam", "image_url":"/usa/newyork/statueofliberty/images/hotspots/liberty_torch.png", "cam":"liberty_torch"}}';
+
+			//popart nothing special
+			// {scaleX: 1.000, x: 0, scaleY: 1.000, y: 4}
+			json_base.cam["liberty_popart"].digitalpresets = '{"comingFrom":{"default":{"1":{"duration":0,"x":0, "y":-4, "scaleX":1.000, "scaleY":1.000}}}}';
+			
+			
+			json_base.cam["liberty_harbor"].digitalpresets = '{"comingFrom":{"default":{"1":{"force":true, "x":0, "y":0, "scaleX":1, "scaleY":1, "duration":0, "wait":0}},"liberty_torch":{"1":{"force":true, "x":-13422.55, "y":-4016.1, "scaleX":20, "scaleY":20, "duration":0, "wait":0},"2":{"force":false, "x":0, "y":0, "scaleX":1, "scaleY":1, "duration":2, "wait":0}}},"goingTo":{"liberty_torch":{"1":{"force":false, "x":-13422.55, "y":-4016.1, "scaleX":20, "scaleY":20, "duration":2, "wait":0}}}}';
+			json_base.cam["liberty_harbor"].hotspotsFixedStr = '{"1":{"x":0.5, "y":0.05, "scaleOff":0.3, "scaleOver":0.6, "tooltip_text":"TorchCam", "image_url":"/usa/newyork/statueofliberty/images/hotspots/liberty_torch.png", "cam":"liberty_torch"}}';
+		
+	
+	if ("newyears" == js_event_mode)
+	{
+		var logo_ts_text			= new Image();
+		var logo_world_text			= new Image();
+		logo_ts_text.src			= "/ts/images/header_TimesSquare_03.png";
+		logo_world_text.src			= "/ts/images/WorldWideCams_03.png";
+		var ny_world_id				= "";
+	}
+	
+}
+
+
+/* player specific */
+var js_userid					= "0";
+var js_allowmobile;
+var js_defaultCam				= 'liberty_str';
+var firstPageLoad				= true;
+var ecnPlayer;
+var hof;
+var flashvars					= {};
+LOG								= false; // logging
+ECHO_DISPATCHEVENT				= false; // logging
+
+/* misc vars*/
+var js_cdn_domain				= "http://static.earthcamcdn.com";
+var base_path_js				= "http://static.earthcamcdn.com";
+var top_nav_dropdown_visible 	= false;
+var ECN_player_version			= "3";
+//var currentCam					= 0;
+var showplaceholder				= "false";
+var js_basic_player				= false; // bool: true or false
+
+var search_box_visible			= false;
+var base_url					= "";
+var page_title					= "EarthCam - Statue of Liberty TorchCam";
+var js_forceplaymobile			= false;
+var current_ecn_url;
+var userid_md5					= "";
+
+/* old, probably used for new years? */
+var thumb_row_type 	= new Array();
+
+function reload(){
+	//setInterval(function(){location.reload();},10000);
+	//console.log("i wanted to reload");
+	location.reload();
+}
+
+/* ************************************************************************************************************** */
+
+// document.ready function
+$j(function(){
+	hof = new earthcam.HoF();
+	hof.init();
+	
+	jQuery.browser.device = (/android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(navigator.userAgent.toLowerCase()));
+	
+	//if (jQuery.browser.mobile == true)
+	if (jQuery.browser.device == true)
+		js_basic_player = true;
+
+	/*
+		BIND ECN PLAYER EVENTS TO FUNCTIONS
+		earthcam.events.Event.addEventListener(earthcam.events.ECNEvent.[EVENT], [EVENT_HANDLER_FUNCTION]);
+			removeEventListener
+			
+		function headerChangeHandler(evt){ var foo = evt.data; }
+	*/
+	
+	earthcam.events.Event.removeEventListener(earthcam.events.ECNEvent.SWITCH_CAM, ECNPAGE_handler_switch_cam);
+	earthcam.events.Event.addEventListener(earthcam.events.ECNEvent.SWITCH_CAM,ECNPAGE_handler_switch_cam);
+	
+	earthcam.events.Event.removeEventListener(earthcam.events.ECNEvent.HEADER_CHANGE, ECNPAGE_handler_header);
+	earthcam.events.Event.addEventListener(earthcam.events.ECNEvent.HEADER_CHANGE,ECNPAGE_handler_header);
+	
+	earthcam.events.Event.removeEventListener(earthcam.events.ECNEvent.BACKGROUND_CHANGE, ECNPAGE_handler_bg);
+	earthcam.events.Event.addEventListener(earthcam.events.ECNEvent.BACKGROUND_CHANGE, ECNPAGE_handler_bg);
+	
+	earthcam.events.Event.removeEventListener(earthcam.events.ECNEvent.MAP_CHANGE, ECNPAGE_handler_mapchange);
+	earthcam.events.Event.addEventListener(earthcam.events.ECNEvent.MAP_CHANGE, ECNPAGE_handler_mapchange);
+	
+	earthcam.events.Event.removeEventListener(earthcam.events.ECNEvent.POV_COPY_CHANGE, ECNPAGE_handler_pov);
+	earthcam.events.Event.addEventListener(earthcam.events.ECNEvent.POV_COPY_CHANGE, ECNPAGE_handler_pov);
+	
+	earthcam.events.Event.removeEventListener(earthcam.events.ECNEvent.AFFILIATE_CHANGE, ECNPAGE_handler_affiliate);
+	earthcam.events.Event.addEventListener(earthcam.events.ECNEvent.AFFILIATE_CHANGE, ECNPAGE_handler_affiliate);
+	
+	//moved to hof class
+	/*earthcam.events.Event.removeEventListener(earthcam.events.ECNEvent.HOF_ID_CHANGE, ECNPAGE_handler_hofid);
+	earthcam.events.Event.addEventListener(earthcam.events.ECNEvent.HOF_ID_CHANGE, ECNPAGE_handler_hofid);*/	
+	
+	earthcam.events.Event.removeEventListener(earthcam.events.ECNEvent.SAVE_LIKES, ECNPAGE_handler_savelikes);
+	earthcam.events.Event.addEventListener(earthcam.events.ECNEvent.SAVE_LIKES, ECNPAGE_handler_savelikes);
+	
+	earthcam.events.Event.removeEventListener(earthcam.events.ECNEvent.LOAD_LIKES, ECNPAGE_handler_loadlikes);
+	earthcam.events.Event.addEventListener(earthcam.events.ECNEvent.LOAD_LIKES, ECNPAGE_handler_loadlikes);
+
+	
+	if(typeof console != "object"){
+		console = {};
+	}
+	if(typeof console.time != "function" || typeof console.timeEnd != "function"){
+		console.time = function(){};
+		console.timeEnd = function(){};
+	}
+	/* *************** */
+
+	if (!contentpage)
+	{
+
+		/*
+			WHEN USER SCROLLS TO BOTTOM OF SCREEN, LOAD MORE HOF
+		*/
+		/*$j(window).scroll(function() {
+			earthcam.events.Event.dispatchEvent(new earthcam.events.ECNEvent(earthcam.events.ECNEvent.HOF_AUTO_LOAD));
+			//hof.hofAutoLoad();
+			checkScrollToTopButton();
+		});*/
+
+
+		/*
+			HISTORY JS implementation
+		*/
+		var History = window.History;
+		var State;
+		//var State = History.getState();
+		
+		var hash_cam = loadCameraViaHash(); // old compatibility for hashes
+		if (hash_cam == false)
+		{
+			State = History.getState();
+		}
+		
+		// listen for history change events
+		History.Adapter.bind(window,'statechange',function() { // Note: We are using statechange instead of popstate
+			//console.warn("state change");
+			
+			//new url history manager:
+			pageDispatcher();
+		});
+		// ------------------------------------------
+	
+		//alert(js_basic_player);
+		if (js_basic_player)
+		{
+			//_startPlayer_basic('liberty_pano');
+			if (template_mode == "ecn")
+			{			
+				setupMobileThumbs();
+			}
+
+
+			earthcam.events.Event.dispatchEvent(new earthcam.events.ECNEvent(earthcam.events.ECNEvent.SWITCH_CAM, {cam:js_defaultCam, dispatcher:"ECNCameraSelectorTourTimerCompleteHandler"}));
+
+		}
+		else
+			_startPlayer(); /*document.getElementById('helplearn').style.visibility = 'visible';*/
+
+		/* ---------------------------------------------------------------------------------------------------
+		temp area for loading new data into the page document whenever a camera changes
+		(will be moved to a series listener events that the player sends)
+		--------------------------------------------------------------------------------------------------- */
+
+	//loadCameraLikes(currentName,camera_likes);
+		//loadHeaderAndBG(currentName);
+		//loadMapImage(cid,g_lat,g_long);
+		//loadPovCopy(pov_copy);
+		//loadAffiliateLogo(affiliate_logo, affiliate_link);
+	//hofid = 'annamariaisland';
+	//hof_response = loadHallOfFame(hofid);
+		// testing: $j('#hof_items_container').css('min-height','1000px'); 
+		 
+		// -----------------------------------------------------------------------------------------------------	
+			
+	} // end checking for contentpage
+
+
+	/*
+		IF FLASH IS NOT INSTALLED
+	*/
+	//var flash_version = GetSwfVer();
+	var _flash_installed = ((typeof navigator.plugins != "undefined" && typeof navigator.plugins["Shockwave Flash"] == "object") || (window.ActiveXObject && (new ActiveXObject("ShockwaveFlash.ShockwaveFlash")) != false));
+	
+	if (!_flash_installed)
+	{
+		var install_flash_message = 
+		'<div>'+
+			'<br /><br /><br /><br />'+
+			'<h4>EarthCam Network content requires the latest version of the Adobe Flash Player</h4>'+
+			'<br />'+
+			'<div><a target="_blank"href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" /></a></div>'+
+		'</div>';
+			
+		$j("#flashContainer").html(install_flash_message);
+	}
+
+	
+	/*
+		OLD TOP MENU DROPDOWN
+	*/
+	// top nav dropdown
+	//var nav_overlay = $j('#top_nav_dropdown');
+	$j('#top_nav_dropdown').mouseleave(function(){
+		topnavHide(800);
+		top_nav_dropdown_visible = false;
+	});
+	$j('#top_nav_dropdown').mouseenter(function(){
+		$j('#top_nav_dropdown').clearQueue();
+		top_nav_dropdown_visible = true;
+	});
+	
+	/*
+		OLD MORE MENU DROP DOWN JS
+	*/
+	$j('#contentlink').click(function(){
+		if($j('#subcontent2').css("display") == "none"){
+			$j('#subcontent2').fadeIn('fast');
+			
+			ECNClickTracker('ECN Page', '/ECN/page/top_nav/moremenu');
+		}else{
+			menuHide2(0);
+		}
+		return false; //hijack href
+	});
+	
+	$j('#subcontent2').mouseleave(function(){
+		menuHide2(500);
+	});
+	
+	$j('#subcontent2').mouseenter(function(){
+		$j('#subcontent2').clearQueue();
+	});
+	
+	$j('#contentlink').hover(function(){
+		$j('#moreArrow').attr('src', 'http://static.earthcamcdn.com/images/search/MoreArrow-Hover.gif');
+	},
+	function(){
+		$j('#moreArrow').attr('src', 'http://static.earthcamcdn.com/images/search/MoreArrow-On.gif');
+	});
+	
+	
+	$j('.thumb_basic').click(function(){
+		var camera = jQuery(this).data('cam');
+		//console.warn(camera);
+		//return false;
+		_startPlayer_basic(camera);
+	});
+	
+	/*
+		TESTING ARCHIVE IMAGES TOOLTIPS
+	*/
+	jQuery('.selectorArea').tooltip({
+		items: ".clip img",
+		show: { delay: 0, duration: "fast", effect: "show" },
+		hide: { effect: "hide" },
+		position: {
+			my: "center bottom-5",
+			at: "center top",
+		}
+	});
+	
+	
+});
+
+function setupMobileThumbs()
+{
+	var timeZonesWithCams	= [];
+	//var tz_offset, count = 1;
+	var count				= 1;
+	var _thumbnail_html		= "";	
+	foundWorld				= false;
+	// <div class="mobile_thumbs" style="margin: 0px auto; text-align: center; width: 960px;">';
+	
+	if ("newyears" == js_event_mode)
+	{
+		// create array of timezone offsets
+		for(var offset in json_base['world_cams']){
+			timeZonesWithCams.push(offset);
+		}
+		
+		// add world cams to json_base
+		for(x = 0; x < timeZonesWithCams.length; x++)
+		{
+			var tz_offset = timeZonesWithCams[x];
+			
+			for(var i in json_base['world_cams'][tz_offset])
+			{			
+				var _cam_name = json_base['world_cams'][tz_offset][i].cam_name;
+				//console.log(x, tz_offset, i );
+				//console.log(_cam_name);
+
+				json_base['world_cams'][tz_offset][i].cam_counter = 100 + count;
+				json_base['world_cams'][tz_offset][i].cam_type = "worldcam";
+				json_base['cam'][_cam_name] = json_base['world_cams'][tz_offset][i];
+				count++;
+			}
+		}
+		
+		//generate thumbnail html
+		for(var x in json_base['cam'])
+		{
+			var _cam_data = json_base['cam'][x];
+			//var cam_name = json_base['cam'][cam_name].cam_name;
+			var cam_name = _cam_data.cam_name;
+			
+			if (cam_name == "world_cams_spacer")
+				continue;
+					
+			if ("worldcam" == _cam_data.cam_type && foundWorld == false)
+			{
+				//console.warn("found world");
+				_thumbnail_html += '<div style="clear: left; height: 10px;"></div>';
+				foundWorld = true;
+			}
+			
+			/*_thumbnail_html +=
+				'<div data-cam=\''+cam_name+'\' class="thumb_basic thumb normal" '+
+					'style="float: left; margin-right: 20px; cursor:pointer;">'+
+					'<p><img src="http://static.earthcamcdn.com'+_cam_data.thumbimage2+'" /></p>'+
+					'<p style="font-size: 11px; font-family: Verdana;">'+_cam_data.camtext+'</p>'+
+				'</div>';*/
+			
+		}
+	}
+	
+	jQuery('.selectorArea').addClass('small');
+	jQuery('.selectorArea').css( {"display":"block","visibility":"visible"} );
+	jQuery('#ecnPlayer .cameraSelector ').css("display","block");
+
+	
+	$cameraSelector = jQuery(".cameraSelector");
+	_cameraSelector = new earthcam.ECNCameraSelector($cameraSelector);
+	var _width = 960;
+	
+	cameraConfig = {};
+		cameraConfig.cams = json_base['cam'];
+		cameraConfig.related = {};
+		cameraConfig.playerSize = _width;
+		cameraConfig.enableTour = false;
+	_cameraSelector.init(cameraConfig);
+	
+	_cameraSelector.highlightSelected(null);
+		
+		
+	/*	
+	_thumbnail_html += '<div style="clear: left;"></div>';
+	jQuery('.selectorArea').css("display","block").css("visibility","visible").css("height","160px").css("overflow-y","scroll");
+	jQuery('.selectorArea').html(_thumbnail_html);
+	
+
+		//jQuery('#ecnPlayer .selectorArea').addClass('small').css("visibility","visible").css("height","80px");;
+		//jQuery('#ecnPlayer .cameraSelector').css("display","block");
+		//jQuery('#ecnPlayer .thumbs').html(_thumbnail_html);
+
+	
+	$j(document).on('click', '.thumb_basic', function() {
+		var camera = jQuery(this).data('cam');
+		_startPlayer_basic(camera);
+	});
+	*/
+	
+	return true;
+}
+
+function _startPlayer_basic(_cam)
+{
+	var top_segment_content = '';
+	var camData			= json_base['cam'][_cam];
+	
+	//console.warn(_cam);
+	//console.warn(camData);
+	//return false;
+	
+	var basic_html		= "";
+	var flashContainer	= $j(".flashContainer");
+	var sWidth;
+	var sHeight;
+	js_allowmobile		= camData.allowmobile;
+	currentName			= _cam;
+	var hofid			= camData.hofid;
+	var cam_state		= camData.cam_state;
+	var offlineimage	= camData.offlineimage;
+	//console.log(camData);
+	//console.log('hofid is '+hofid);
+	
+	/*
+		Temporary until mobile integration is done on the ecnplayer class level
+	*/
+		if (template_mode == "myec") {
+			History.replaceState(null,null,"");
+		}
+		else {
+			History.replaceState(null,null,"?cam="+currentName);
+		}
+		
+		loadCameraLikes(currentName,camData.likes);
+		loadMapImage(camData.id,camData.map_lat,camData.map_long);
+		loadPovCopy(camData.description);
+		loadAffiliateLogo(camData.logopath, camData.logolink);
+		
+		earthcam.events.Event.dispatchEvent(new earthcam.events.ECNEvent(earthcam.events.ECNEvent.HOF_ID_CHANGE, {"hofid":hofid}));
+		//hof.manual_loadHallOfFame();//hof_display_mode //handled by event
+		//loadHallOfFame(hofid);
+	
+	
+	$j('#ecnPlayer').css('min-height','650px');
+	$j('#ecnPlayer').css('height','650px');
+	
+	var loading = 
+	'<div style="width: 1000px; height: 540px;">'+
+	'<p style="height: 140px; text-align:center; font-size: 1px;">&nbsp;</p>'+
+	'Loading Player'+
+	'<br /><br />'+
+	'<img style="border: 1px solid black;" src="http://static.earthcamcdn.com/mapsearch_google/images/loading_screen.gif" width="50" alt="loading" />'+
+	'</div>';
+
+	var unix_timestamp = Math.floor(Date.now() / 1000);
+	var seconds_week = 60*60*24*7; // 604,800
+	
+	if ( Math.abs(json_base.cam[_cam].datecreated - unix_timestamp) <= (seconds_week))
+		js_forceplaymobile = true;
+
+	// special cases
+	if ( "1" == cam_state &&   (js_allowmobile=="true" || js_forceplaymobile==true || camData.group_id =="statueofliberty" || camData.group_id =="glendale" || camData.group_id =="warhol" || camData.group_id =="fishbowl_2015" || camData.group_id =="fishbowl_2014" || camData.group_id =="aprilfools2014" ||  camData.group_id =="sandyhook" )  ) 
+	// && typeof getCookie("warholQR") != "undefined"))
+	{	
+		if (_cam == "liberty_torch" )
+		{
+			sWidth			= "960";
+			sHeight			= "540";
+			basic_html	= '<div id="ecvrDIV" style="width:'+sWidth+'; height:'+sHeight+'px;"></div>';
+			$j("#ECNglobalContainer").css("height",sHeight+'px');
+			flashContainer.html(loading);
+			flashContainer.html(basic_html);
+			ecvr.init();
+			return(1);
+		}
+
+		// all the rest
+		if (camData.live_type == "mega_hd" ||  camData.live_type == "flashvideo")
+		{
+			sWidth			= "960";
+			sHeight			= "540";
+			var sPath		= camData.livestreamingpath;//livestreamingpath
+			var sFile;
+			
+			// regex for myec mobile:  regex ="/.*/(.*?\.flv)"
+			// json_base.cam.shortname.livestreamingpath.match(regex);
+			
+			if  ("myec" == template_mode)
+			{
+				var regex		= "/.*/(.*?\.flv)";
+				var rmatch		= json_base.cam[shortname].livestreamingpath.match(regex);
+				sFile			= rmatch[1];
+				
+			}
+			else if (camData.cdn_status == "true")
+				sFile			= sPath.substr(8) + ".flv";
+			else
+				sFile			= sPath.substr(12); //  /fecnetwork/libertyHD1.flv
+			
+			//console.log(sPath);
+			//console.log(sFile);
+			var frameSrc	= '/cams/includes/player_viewer_f.php?template_mode='+template_mode+'&inet='+camData.inet+'&type=h264&vid='+sFile+'&w='+sWidth+'&h='+sHeight;
+			
+			basic_html 		= '<iframe width="'+sWidth+'" height="'+sHeight+'" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="'+frameSrc+'"></iframe>';
+		}
+		else
+		{
+			sWidth			= "960";
+			sHeight			= "540";
+			var timestamp	= new Date().getTime();
+			var iPath;
+			
+			// bandaid for the liberty popart cam
+			if (_cam == "liberty_popart")
+				iPath		= "http://www.earthcam.com/cams/includes/image.php?img=bc8cfbf74da8fdd0156a05eaf7edfa82" + "&t=" + timestamp;
+			else
+				iPath		= camData.imagedomain + camData.livepath + "?"+ timestamp;
+
+			basic_html		= '<div id="basic_loading"><img src="'+iPath+'" width="'+sWidth+'" height="'+sHeight+'"  alt="" title="" /></div>';
+		}
+	}
+	else // regular case
+	{
+		sWidth			= "960";
+		sHeight			= "540";
+		var timestamp	= new Date().getTime();
+		var iPath;
+		
+		if ("0" == cam_state)
+		{
+			iPath		= offlineimage;
+			//console.warn("cam state is 0 logic");
+		}
+		else if (camData.live_type == "megapixel")
+			iPath		= camData.imagedomain + camData.livepath + "?"+ timestamp;
+		else
+			iPath		= "http://www.earthcam.com/cams/includes/image.php?img=" + camData.inet + "&t="+ timestamp;
+
+		basic_html		= '<div id="basic_loading"><img src="'+iPath+'" width="'+sWidth+'" height="'+sHeight+'"  alt="" title="" /></div>';
+		
+		//console.warn(offlineimage);
+		//console.warn(cam_state);
+		//console.warn(iPath);
+	}
+
+	flashContainer.html(basic_html);
+	
+		
+	
+	return(1);
+}
+
+function _startPlayer()
+{
+	//return false;
+		/*
+			Flashvars setup
+		*/
+		
+		/* event mode */
+		if ("newyears" == js_event_mode)
+		{
+			flashvars.newYear = 2016; //the year that the relevent new years day is in.
+			flashvars.midnightTime = 1451624400*1000; //2015-01-01 00:00:00 -05:00
+			flashvars.broadcastStartTime = 1451617200*1000; // 2015-12-31 22:00:00 -05:00
+			//flashvars.broadcastEndTime = 1451626200*1000; // 2016-01-01 00:30:00 -05:00
+			flashvars.broadcastEndTime = 1451625300*1000; // 2016-01-01 00:15:00 -05:00
+			
+			//flashvars.disableCameraLikes = true;
+		}
+		
+		if (template_mode == "ecn")
+		{
+			js_defaultCam = getQueryVariable('cam');
+			//console.log(js_defaultCam);
+			
+			// determine if hash tag history fallback is present, for IE <=9 and compat mode
+			var hash_cam = loadCameraViaHash();
+			
+			if (hash_cam !== false)
+			{
+				//console.warn('hash_cam not false');
+				flashvars.cam			= hash_cam;
+			}
+			else
+			{
+				var valid_cam = jQuery.inArray(js_defaultCam, js_cam_list);
+				
+				if ( js_defaultCam == undefined)
+				{
+					js_defaultCam = 'liberty_pano';
+				}
+				else if (valid_cam == -1)
+				{
+					js_defaultCam = 'liberty_str';
+				}
+			
+				flashvars.cam			= js_defaultCam;
+				//flashvars.cam			= "liberty_pano";
+			}
+		}
+		else
+		{
+			js_defaultCam			= 'liberty_pano';
+			flashvars.cam			= 'liberty_pano';
+			
+		}
+		
+		var base_url_full		= History.getState().hashedUrl.split("?");
+		flashvars.base_url 		= base_url_full[0];
+		//console.log(base_url);
+		
+		//flashvars.timestamp		= "";	
+		flashvars.hidebanner	= "";
+		flashvars.json			= json_base;
+		flashvars.userid		= js_userid;
+		flashvars.camNameLookup = camNameLookup;
+		flashvars.path			= "/cams/newyork/statueofliberty/";
+		flashvars.needWaterTemp = "";
+		flashvars.showplaceholder	= "false";
+		flashvars.ecnBlack		= "";
+		flashvars.streamTimeOut	= '30';flashvars.ads = 'false';		flashvars.disableCameraLikes 		= false;
+		flashvars.thumbLabel				= 'Views from the Torch';
+		flashvars.thumbLabelRight			= 'Views of Lady Liberty';
+		flashvars.thumbLabel2				= '';
+		flashvars.eventMode					= '';
+		flashvars.playerPathState			= "com";
+		
+				
+		//flashvars.startOnWorldTour			= ; //Start the player on the world tour? (true,false)
+		//flashvars.displayWorldTourGoogleAds = true;  //Show google ads on world tour button?(true,false)
+
+		flashvars.ectv_mode					= template_mode;
+
+		flashvars.swf				= "http://static.earthcamcdn.com/swf/ectv/ectv.swf?20160316";
+		flashvars.videoPlayer		= "http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160316";
+		flashvars.pano_swf			= "http://static.earthcamcdn.com/swf/pano/dot_com_pano.swf";
+		flashvars.ecvr_swf			= "http://static.earthcamcdn.com/swf/ecvr/ecvr_player.swf";
+		flashvars.ecvr_library		= "http://static.earthcamcdn.com/swf/ecvr/ecvr_library_1_18.swf";
+
+		//flashvars.swf				= "/swf/ectv/ectv.swf?20160316";
+		//flashvars.videoPlayer		= "/swf/streaming/stream_viewer_v3.swf?20160316";
+		
+		/*
+			PLAYER INIT SPECIFIC
+		*/
+		//console.time("Runtime"); //TESTING
+		ecnPlayer = new earthcam.ECNPlayer(jQuery("#ecnPlayer"));
+		ecnPlayer.init(flashvars);
+		//console.timeEnd("Runtime"); //TESTING
+		
+		}
+
+-->
+</script>
+
+
+</head>
+
+<body class="css3" onkeydown="return HandleKey(event? event : window.event);">
+<!--<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=153227104759826&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>-->
+
+<!-- Android Smart App Banner-->
+<!--
+<link rel="stylesheet" href="http://static.earthcamcdn.com/css/jquery.smartbanner.css" type="text/css" media="screen">
+<script src="http://static.earthcamcdn.com/js/jquery.smartbanner.js"></script>
+<script type="text/javascript">
+jQuery().smartbanner();
+</script>
+-->
+
+<div id="blackoutOverlay"></div>
+
+<div id="hof_full_image_container">
+	<div id="close_full_image"><img src="http://static.earthcamcdn.com/cams/includes/images/Close_X.png" width="24" height="24" alt="close" title="" /></div>
+
+	<div style="height: 18px;"></div>
+	<div id="hof_thumb_full_div"></div>
+</div>
+
+
+<div class="superWhiteWrapper"><!-- bandaid so the whole page is wrapped in a 1000 wide white background container -->
+	
+		
+	<a name="documentTop" id="documentTop"></a>
+	<div id="fixed_scrolltotop">
+		<img class="hand_pointer" src="http://static.earthcamcdn.com/cams/includes/images/BacktoTop.png" width="50" height="50" title="Back to the top" />
+	</div>
+		
+	<!--
+	#ec_logo_image
+	#search_bar_area
+	-->
+	
+	<!-- header segment ********************************************************************************************************* -->		
+	<div id="header_segment">
+		<div class="customHeader" id="header_image" style="background-image: url(http://static.earthcamcdn.com/cams/includes/images/page_headers_slim/StatueofLiberty.jpg);">
+			
+			<div id="ec_logo_image"><a href="http://www.earthcam.com"><img src="/images/logos/logo_ecn.png" alt="" title="" /></a></div>		
+				<div id="search_bar_area">
+					<div id="magnifying_glass" class="hand_pointer"><img src="http://static.earthcamcdn.com/cams/includes/images/Search.png" width="48" height="50" alt="Search" title="Search" /></div>
+
+					<div id="search_bar_container">
+						<div id="search_bg"></div>
+						<input id="term" type="text" name="term">
+					</div>
+				</div>
+					</div>
+	</div>
+	
+	<div id="top_nav_segment">
+		<!-- top nav -->
+		<div id="topNavBar" style="border: 0px solid black;">
+			<div id="top_nav_dropdown"> <!-- used mostly on WTC page, for sub content dropdown menus-->
+						</div>
+			
+			<div style="clear; both; height:6px;">&nbsp;</div>
+			
+			<div style="float: left;"><a  id="hof_top_nav" class="hand_pointer"   target=""><img src="/cams/includes/images/HOFStar.png" width="11" alt="" /> Hall of Fame <img src="/cams/includes/images/HOFStar.png" width="11" alt="" /></a><a  onclick="gaRecordInternal(this, 'ECN Page', '/ECN/page/top_nav/network');" href="http://www.earthcam.com/network/" target="">EarthCam Network</a><a  onclick="ECNClickTracker('ECN Page', '/ECN/page/top_nav/dotnetservices');" href="http://www.earthcam.net/additional/" target="_blank">Services for Business</a></div>
+			
+			<div id="contentlink" rel="subcontent2" class="more_dropdown hand_pointer">
+				More <img src=
+					"/cams/includes/images/MoreArrow.png"
+					width="9" height="5" alt="" border="0" />
+			</div>
+			
+			<!-- (&#63;) -->
+			<div id="help_trigger">Help</div>			
+			<!-- hidden drop down for "more menu" -->
+			<div id="subcontent2">
+				<div style="height: 7px;"></div>
+				
+				<a onclick = "gaRecordInternal(this, 'ECN Page', '/ECN/page/moredmenu/network',1);return false;" href="http://www.earthcam.com/network/">EarthCam Network</a>
+				<a onclick = "gaRecordInternal(this, 'ECN Page', '/ECN/page/moredmenu/hofpage',1);return false;" href="http://www.earthcam.com/halloffame/">Hall of Fame</a>
+				<a onclick = "gaRecordInternal(this, 'ECN Page', '/ECN/page/moredmenu/advsearch',1);return false;" href="http://search.earthcam.com/search/advanced_search.php">Advanced Search</a>
+				
+				<div style="height: 10px;"></div>
+				
+				<a onclick = "gaRecordInternal(this, 'ECN Page', '/ECN/page/moredmenu/addacam',1);return false;" href="http://www.earthcam.com/add_request.php">Add A Cam</a>
+				<a onclick = "gaRecordInternal(this, 'ECN Page', '/ECN/page/moredmenu/new_cams',1);return false;" href="http://search.earthcam.com/search/ft_search.php?newcams">New Webcams</a>
+				<a onclick = "gaRecordInternal(this, 'ECN Page', '/ECN/page/moredmenu/top10',1);return false;" href="http://www.earthcam.com/topten.php">Top 10 Cams</a>
+				<a onclick = "gaRecordInternal(this, 'ECN Page', '/ECN/page/moredmenu/mycampage_search',1);return false;" href="http://search.earthcam.com/search/adv_search.php?lang=en&redirect=yes&title=&restrict=1&url=mycampage.com&city=&state=&zip=&country=">MyCam Pages</a>
+				<a onclick = "gaRecordInternal(this, 'ECN Page', '/ECN/page/moredmenu/worldmap',1);return false;" href="http://www.earthcam.com/mapsearch/">World Map</a>
+				
+				<div style="height: 10px;"></div>
+				
+				<a onclick = "gaRecordInternal(this, 'ECN Page', '/ECN/page/moredmenu/news',1);return false;" href="http://www.earthcam.com/news.php">News</a>
+				<a onclick = "gaRecordInternal(this, 'ECN Page', '/ECN/page/moredmenu/companyinfo',1);return false;" href="http://www.earthcam.com/company">Company Info</a>
+				<a onclick = "gaRecordInternal(this, 'ECN Page', '/ECN/page/moredmenu/aboutus',1);return false;" href="http://www.earthcam.com/company/aboutus.php">About Us</a>
+				<a onclick = "gaRecordInternal(this, 'ECN Page', '/ECN/page/moredmenu/mediakit',1);return false;" href="http://www.earthcam.com/inthenews.php">Media Kit</a>
+				<!--
+				<a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/translation/');" href="http://www.earthcam.com/translation/">Add Your Translation</a>
+				-->
+				<a onclick = "gaRecordInternal(this, 'ECN Page', '/ECN/page/moredmenu/eventarchives',1);return false;" href="http://www.earthcam.com/eventarchives/">Event Archives</a>
+				<a rel="nofollow" onclick = "gaRecordInternal(this, 'ECN Page', '/ECN/page/moredmenu/dotnetbizlink',1);return false;" href="http://www.earthcam.net" target="_blank">Business Applications</a>
+				<a onclick = "gaRecordInternal(this, 'ECN Page', '/ECN/page/moredmenu/reportbroken',1);return false;" href="http://www.earthcam.com/company/contact.php?query=link">Report Broken Link</a>
+			</div>
+			<!--/hidden drop down for "more menu" -->
+			
+			<div style="clear: both; height:0px;">&nbsp;</div>
+		</div>
+		<!--/top nav -->
+	</div>
+	<!--/header segment ********************************************************************************************************* -->		
+
+	
+	<!--video and top content segment ******************************************************************************************* -->	
+		
+	<div id="black_wrapper">
+		<div id="top_half">
+			
+						
+			<div id="top_content_segment"><div id="ecnPlayer">
+	<div class="playerArea">
+		<div class="flashContainer">
+			<div id="flash"></div>
+		</div>
+		<!--MOBILE??-->
+		<div class="mapContainer"></div>	
+	</div>
+	
+	<div class="blackBar">
+		<div class="leftSide">
+			<div class="time">
+				<div class="liveTime"><!--August 30, 2014 12:00 PM--></div>
+				<div class="archiveTime">00:00:00 / 00:00:00</div>
+			</div>
+			<div class="simpleWeather"></div>
+			<div class="totalLikesContainer">
+				<img class="heart" src="/cams/includes/images/like_number.png" />
+				<span class="totalLikes"></span>
+			</div>
+			<div class="totalViewsContainer">
+				<span class="totalViews"></span>
+			</div>
+		</div>
+		
+		<div class="ticker"></div>
+		
+		<div class="modeSelector">
+			<div class="modeOptions live disabled">LIVE</div>
+			<div class="modeOptions archives disabled">ARCHIVES</div>
+			<div class="modeOptions timelapse disabled">TIME-LAPSE</div>
+			<div class="modeOptions panorama disabled">PANORAMA</div>
+			<div class="modeOptions tour disabled">WORLD TOUR</div>
+		</div>
+		<div class="indeterminateLoader"></div>
+		<div class="tourTimerContainer">
+			<div class="tourTimer"></div>
+		</div>
+		<div class="disabler"></div>
+	</div>
+	
+	<div class="selectorArea">
+		<div class="cameraSelector">
+			<div class="prev"></div>
+			<div class="thumbsContainer">
+				<div class="fadeLeft"></div>
+				<div class="thumbs"></div>
+				<div class="fadeRight"></div>
+			</div>			
+			<div class="next"></div>
+		</div>
+		
+		<div class="selectorMessage">
+			<p>Updating World Cams...</p>
+		</div>
+		
+		<div class="archiveSelector">
+			<div class="clipsContainer">
+				<div class="clips"><!--.clip--></div>
+			</div>
+		</div>
+		
+		<div class="panoramaSelector">
+			
+		</div>
+		<div class="disabler"></div>
+	</div>
+	
+	<div class="help" style="height:calc(100% + 23px);">
+		<div class="w960"></div>
+		<div class="w800"></div>
+		<div class="done"></div>
+	</div>
+	
+</div></div>
+
+		</div>
+	</div>
+	<!--/video and top content segment ********************************************************************************************* -->
+	
+	
+	<!-- bottom half *************************************************************************************************************** -->		
+	<div id="bottom_half">			
+		<div style="height:15px; clear: left;"></div>
+
+				<div id="map_copy_segment">
+			<div id="page_copy">
+				<div id="greeting_text"><h3 class="blueTitle">Explore the Statue of Liberty, an American Icon!</h3></div>
+				
+				<!--
+				<div class="camera_likes">
+					<span class="camera_likes_heart"></span>
+					<span class="camera_likes_text"></span> Likes
+				</div>
+				-->
+				
+				<div style="clear:both; height: 5px;"></div>
+				<div class="blueBar" style="width: 960px;"></div>
+				<div style="clear:left; height: 5px;"></div>
+				
+				<div id="static_map">
+					<a onclick="javascript: gaRecordInternal(this, 'ECN Page', '/ECN/page/staticmap');return false;" href="http://www.earthcam.net/technology/" href="http://www.earthcam.com/mapsearch/" id="static_map_url" target="_blank">
+					<img src="/images/blank.gif" id="static_map_image" alt="Map Image" width="160" height="90" class="thumbout" onmouseover="this.className='thumbover'" onmouseout="this.className='thumbout'" /></a>
+				</div>
+				
+									<div id="affiliate_box"></div>
+								
+				<!--<div id="pov_copy"></div>-->
+				<div id="body_copy">Take in the sights from the torch balcony at the Statue of Liberty, 
+where the public has not been permitted to visit in person since 1916, and see unique, 
+one-of-a-kind perspectives of the torch, crown, face and tablet, in addition to ultra 
+widescreen panoramic images and live HD streaming video. Enjoy unmatched streaming 
+video of Lady Liberty from Brooklyn, as well. 
+<br /><br />
+Click on the link below to learn more about the TorchCams: 
+<div style="height:5px;"></div>
+<!--
+<a style="text-decoration: underline;" href="http://hosted.ap.org/dynamic/stories/U/US_STATUE_OF_LIBERTY_ANNIVERSARY?SITE=MAHYC&SECTION=HOME&TEMPLATE=DEFAULT" target="_blank">The Associated Press</a>
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+-->
+<a style="text-decoration: underline;" href="http://www.libertyellisfoundation.org/" target="_blank">Statue of Liberty-Ellis Island Foundation</a>
+</div>
+				
+			</div><!--/page_copy -->
+		</div><!--/map_copy_segment -->
+		<div style="height:20px; clear: both;"></div>		<div id="social_ad_segment">
+			<!-- left side **************************************************** -->
+
+			<div id="left_ad_area">
+			
+				<!-- version 1==<div id="grey_ad_box"><a onclick="javascript: gaRecordInternal(this, 'ECN Page', '/ECN/learnmore',1);return false;" href="http://www.earthcam.net/technology/" target="_blank"><img src="/cams/includes/images/CrossPromoAd.png" width="600" height="110" alt="Learn more about our latest camera technology" title="Learn more about our latest camera technology" border="0" /></a></div>-->
+				<!-- version 1== <div style="height: 35px;"></div>-->
+
+				<!-- version 1== <div id="twitter_box">
+<a onclick="gaRecordInternal(this, 'ECN Page', '/ECN/page/twitterbox',-1);" href="http://twitter.com/EarthCam"  class="twitter-follow-button">Follow @EarthCam</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div>-->
+				
+				<div id="earthcam_ad">
+				<a onclick="ECNClickTracker('ECN Page', '/ECN/page/earthcam_ad_dotnetlearnmore',1);" href="http://www.earthcam.net/technology/" target="_blank"><img style="width: 300px; height: 250px; border: 0px solid black;" src="http://static.earthcamcdn.com/cams/includes/images/CrossPromoAd_square.png" alt="EarthCam.net Technology Solutions" title="EarthCam.net Technology Solutions" /></a>				</div>
+				
+				<div id="bottom_google_ad">
+				<a onclick="gaRecordInternal(this, 'ECN Page', '/ECN/page/google_ad_replacement/',1);return(false);" href="http://www.libertyellisfoundation.org/" ><img style="border: 1px solid black;" src="http://static.earthcamcdn.com/cams/includes/images/SOLEIF-ad.jpg" alt="Support the Foundation" title="Support the Foundation" /></a>				</div>
+
+
+								
+			</div>
+			
+			
+			<!-- right side ********************************************************** -->
+			<div id="social_media">
+				<div style="height: 10px;"></div>
+				<div id="facebook_box">
+<div class="fb-page" data-href="https://www.facebook.com/earthcaminc" 
+  data-width="318" data-height="180" data-small-header="true" data-hide-cover="true" data-show-facepile="true" 
+  data-show-posts="false"></div>
+</div>
+				
+				<!--<div style="height: 20px;"></div>-->
+				
+				<div id="twitter_box">
+<a onclick="gaRecordInternal(this, 'ECN Page', '/ECN/page/twitterbox',-1);" href="http://twitter.com/EarthCam"  class="twitter-follow-button">Follow @EarthCam</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div>
+				
+				<div style="height: 20px;"></div>
+					
+				<div id="social_icons">
+					<a onclick="javascript: gaRecordInternal(this, 'ECN Page', '/ECN/page/social/facebook',1);return false;" href="http://www.facebook.com/earthcaminc" target="_blank"><img style="margin-left: 0px;" class="social_icon" src="/images/header/facebook-icon_body.png" width="20" height="20" alt="Facebook" title="Facebook" border="0" /></a>
+					
+					<a onclick="javascript:gaRecordInternal(this, 'ECN Page', '/ECN/page/social/twitter',1);return false;" href="http://www.twitter.com/earthcam" target="_blank"><img class="social_icon" src="/images/header/twitter-icon_body.png" width="20" height="20" alt="Twitter" title="Twitter" border="0" /></a>
+					
+					<a onclick="javascript:gaRecordInternal(this, 'ECN Page', '/ECN/page/social/instagram',1);return false;" href="https://instagram.com/earthcam/" target="_blank"><img class="social_icon" src="/images/header/instagram-icon_body.png" width="20" height="20" alt="Instagram" title="Instagram" border="0" /></a>
+					
+					<a onclick="javascript: gaRecordInternal(this, 'ECN Page', '/ECN/page/social/linkedin',1);return false;" href="https://www.linkedin.com/company/earthcam-inc-" target="_blank"><img class="social_icon" src="/images/header/linkedin-icon.png" width="20" height="20" alt="LinkedIn" title="LinkedIn" border="0" /></a>
+					
+					<a onclick="javascript: gaRecordInternal(this, 'ECN Page', '/ECN/page/social/youtube',1);return false;" href="https://www.youtube.com/user/earthcam" target="_blank"><img class="social_icon" src="/images/header/youtube-icon_body.png" width="20" height="20" alt="YouTube" title="YouTube" border="0" /></a>
+					
+					<!--<a onclick="javascript: gaRecordInternal(this, 'ECN Page', '/ECN/page/social/pinterest',1);return false;" href="http://www.pinterest.com/earthcaminc/" target="_blank"><img class="social_icon" src="/images/socialnetworking/pinterest_badge_red_30x30.png" width="20" height="20" alt="Pinterest" title="Pinterest" border="0" /></a>-->
+
+					<a onclick="javascript: gaRecordInternal(this, 'ECN Page', '/ECN/page/social/mobileapps');return false;" href="http://www.earthcam.com/mobile/" target="_blank"><img class="social_icon" src="/images/header/Apps-Icon_body.png" width="20" height="20" alt="Mobile Applications on your phone" title="Mobile Applications on your phone" border="0" /></a>
+					
+					<a onclick="javascript: gaRecordInternal(this, 'ECN Page', '/ECN/page/social/rss',1);return false;" href="http://www.earthcam.com/rss.php" target="_blank"><img class="social_icon" src="/images/header/RSSFeed-icon_body.png" width="20" height="20" alt="RSS Feed" title="RSS Feed" border="0" /></a>
+					
+					<a onclick="javascript: gaRecordInternal(this, 'ECN Page', '/ECN/page/social/newslettersignup');return false;" href="http://www.earthcam.com/newsletter/signup.php"><img class="social_icon" src="/images/header/Newsletter-icon_body.png" width="20" height="20" alt="Sign up for our free monthly Newsletter" title="Sign up for our Newsletter" border="0" /></a>
+				</div>
+
+			</div>
+		</div>		
+		<div style="height: 30px; clear: both; "></div>
+		
+		<a name="hof_anchor" id="hof_anchor"></a>
+		<div style="height:10px; clear: both;"></div>
+		
+		<!--<div id="comments_segment">
+				</div>-->
+		
+		<div id="hof_segment">
+		
+			<div id="hof_title"><h3 class="blueTitle">Hall of Fame</h3></div>
+			
+			
+				<div id="hof_display_selector">
+					<div onclick="javascript: gaRecordInternal(this, 'ECN Page', '/ECN/page/hof/gridmode',-1)" id="hof_display_grid" title="Grid Mode" class="hand_pointer hof_mode_grid_off"></div>
+					<div onclick="javascript: gaRecordInternal(this, 'ECN Page', '/ECN/page/hof/fullmode',-1)" id="hof_display_full" title="Full Mode" class="hand_pointer hof_mode_full_off"></div>
+				</div>
+				
+				<div id="more_hall_of_fame">
+					<a href="//www.earthcam.com/halloffame/">View More Hall of Fame</a>
+				</div>
+				
+			<div style="clear: both; height: 5px;"></div>
+			<div class="blueBar" style="width: 960px;"></div>
+			<div style="clear:left; height: 15px;"></div>
+			
+			<div id="hof_items_container"></div>
+			
+			<div style="clear:both;"></div>
+			
+			<div id="hof_load_more">
+				<div style="height: 10px;"></div>
+				<div class="fauxLink" id="hof_load_more_button" onclick = "ECNClickTracker('ECN Page', '/ECN/page/loadmorehofbutton');"></div><!--<img src="/cams/includes/images/hoff.jpg" width="200" />-->
+			</div>
+			
+			<div id="hof_loader_icon"></div>
+		</div>
+	</div><!--/bottom_half-->
+	<!--/bottom half ******************************************************************************************************* -->
+	
+
+	<!-- footer region ***************************************************************************************************** -->	
+	<div align="center" id="footer_segment">
+
+		<!-- <br style="clear: both;" /> -->
+		<div style="clear: left; height:25px;"></div>
+
+		﻿
+				<!-- ////////////////////// World Map and Google ///////////////////////////// -->
+		<h3 class="blueTitle"><a onclick="javascript:gaRecordInternal(this, 'ECN Page', '/ECN/page/mapsearch/header');return false;" href="http://www.earthcam.com/mapsearch/">Webcams of the World</a></h3>
+		<div style="clear:left; height: 5px;"></div>
+		<div class="blueBar full_length"></div>
+		<div style="clear:left; height: 18px;"></div>
+		
+		<div id="google_map_search"><div id="map_container"><a onclick="javascript: gaRecordInternal(this, 'ECN Page', '/ECN/page/mapsearch/graphic');return false;" href="http://www.earthcam.com/mapsearch/"><img src="http://static.earthcamcdn.com/images/google_map_static.jpg" alt="View Webcams from all around the world" title="View Webcams from all around the world" border="0" /></a><!-- <img onclick="activateGoogleMap()" src="/images/WOTW-ClicktoInteract.jpg" alt="Click To Interact" title="Click To Interact" border="" /> --></div></div>
+		
+		<div id="google_ad_300x250">
+		<a onclick="gaRecordInternal(this, 'ECN Page', '/ECN/page/google_ad_replacement/',1);return(false);" href="http://www.libertyellisfoundation.org/" ><img style="border: 1px solid black;" src="http://static.earthcamcdn.com/cams/includes/images/SOLEIF-ad.jpg" alt="Support the Foundation" title="Support the Foundation" /></a>				
+				</div>
+		<!-- ///////////////////////////////////////////////////////////////////////// -->
+		
+		<div style="clear:left; height: 35px;"></div>
+				
+
+		<!-- ////////////////////// News and Explore ///////////////////////////////// -->
+				<!-- <div style="clear:left; height: 13px;"></div> -->
+		<!-- ///////////////////////////////////////////////////////////////////////// -->		
+		
+		<!-- <script language="JavaScript" src="http://static.earthcamcdn.com/js/jquery.js" type="text/javascript"></script>
+<script language="JavaScript" src="/js/jquery.tools.min.js" type="text/javascript"></script> 
+<script language="JavaScript" type="text/javascript">
+</script> -->
+<style type="text/css">
+				/* footer area elements */
+#sloganBox {
+	border: 1px solid #2569A6;
+	width: 958px; height: 18px;
+	background-color: white;
+	margin: 0 auto;
+}
+
+.footerTextSlogan {
+	font-weight: 700;
+	color: #2569A6;
+	padding-top: 2px;
+	
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    font-weight: 900;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+#footerBox a:link, #footerBox a:visited, #footerBox a:active {
+	color: #2569A6; text-decoration: none; }
+#footerBox a:hover {
+	color: #2569A6; text-decoration: underline; }
+	
+#footerBox { text-align: left; width: 960px; position: relative; }
+	
+#linkStrip {
+	border-top: 0px solid #365E82;
+	border-bottom: 1px solid #365E82;
+	width: 960px;
+	margin: 0 auto;
+	font-size: 11px;
+	font-family: Arial;
+	padding: 0px 0px 3px 0px;
+}
+
+#linkStrip a:link, #linkStrip a:visited, #linkStrip a:active {
+	color: #365E82; text-decoration: none; }
+#linkStrip a:hover {
+	color: #365E82; text-decoration: underline; }
+
+#CopyrightContact {
+	width: 960px;
+	margin: 0 auto;
+	font-size: 11px;
+	font-family: Arial;
+	border: 0px solid red;
+	color: #365E82; /* #365E82  #333333*/
+	font-weight: normal;
+}
+
+#CopyrightContact a:link, #CopyrightContact a:visited, #CopyrightContact a:active {
+	color: #09335B; text-decoration: underline; font-weight: bold;}
+#CopyrightContact a:hover {
+	color: #09335B; text-decoration: underline; font-weight: bold;}
+
+.lang_link { color: #365E82; }
+	
+#translation_overlay {
+	text-align: left;
+	width: 200px;
+	/*border: 2px solid #BCBCBC;*/
+	padding: 5px;
+	
+	border: 1px solid #727272;
+	-moz-box-shadow: 1px 1px 2px #727272;
+	-webkit-box-shadow: 1px 1px 2px #727272;
+	box-shadow: 1px 2px 2px #727272;
+	
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright:5px;
+	-moz-border-radius-bottomleft:5px;
+	-moz-border-radius-bottomright:5px;
+	-webkit-border-top-left-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+
+	background-color: #EFEFEF;
+	position: absolute;
+	top: -355px;
+	left: 494px;
+	display: none;
+}
+
+.trans_item  { padding: 3px; color: black; }
+a.translink:link, a.translink:visited, a.translink:active, .a.translink:hover { color: black !important; }
+/*.trans_item a {	margin-right: 5px; }*/
+</style>
+
+<!--[if IE]>
+<style type="text/css">
+#translation_overlay {
+	left: 470px;
+}
+</style>
+<![endif]-->
+
+	<!-- ////////////////////// footer box area ////////////////////////////////// -->
+	
+	<div style="clear:left; height: 10px;"></div>
+	
+	<div id="footerBox">
+		<div id="translation_overlay">
+					
+<!--			
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/english');" href="/usa/newyork/statueofliberty/index.php?lang=en&cam=liberty_pano"><img src="http://static.earthcamcdn.com/images/translate/en_us_s.gif" style="margin-right:2px;" alt="English" title="English" width="15" height="10" border="0"/>&nbsp;&nbsp;English</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/arabic');" href="/usa/newyork/statueofliberty/index.php?lang=ar&cam=liberty_pano"><img src="http://static.earthcamcdn.com/images/translate/ar_s.gif" style="margin-right:4px;" alt="Arabic" title="Arabic" width="15" height="10" border="0"/>&nbsp;&nbsp;Arabic</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/brazilian-portuguese');" href="/usa/newyork/statueofliberty/index.php?lang=pt_br&cam=liberty_pano"><img src="http://static.earthcamcdn.com/images/translate/br_s.gif" style="margin-right:2px;" alt="Brazilian-Portuguese" title="Brazilian-Portuguese" width="15" height="10" border="0" />&nbsp;&nbsp;Brazilian-Portuguese</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/chinese');" href="/usa/newyork/statueofliberty/index.php?lang=cn&cam=liberty_pano"><img src="http://static.earthcamcdn.com/images/translate/cn_s.gif" style="margin-right:4px;" alt="Chinese" title="Chinese" width="15" height="10" border="0"/>&nbsp;&nbsp;Chinese</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/dutch');" href="/usa/newyork/statueofliberty/index.php?lang=nl&cam=liberty_pano"><img src="http://static.earthcamcdn.com/images/translate/nl_s.gif" style="margin-right:2px;" alt="Dutch" title="Dutch" width="15" height="10" border="0" />&nbsp;&nbsp;Dutch</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/french');" href="/usa/newyork/statueofliberty/index.php?lang=fr&cam=liberty_pano"><img src="http://static.earthcamcdn.com/images/translate/fr_s.gif" style="margin-right:2px;" alt="French" title="French" width="15" height="10" border="0" />&nbsp;&nbsp;French</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/german');" href="/usa/newyork/statueofliberty/index.php?lang=de&cam=liberty_pano"><img src="http://static.earthcamcdn.com/images/translate/de_s.gif" style="margin-right:2px;" alt="German" title="German" width="15" height="10" border="0" />&nbsp;&nbsp;German</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/italian');" href="/usa/newyork/statueofliberty/index.php?lang=it&cam=liberty_pano"><img src="http://static.earthcamcdn.com/images/translate/it_s.gif" style="margin-right:4px;" alt="Italian" title="Italian" width="15" height="10" border="0"/>&nbsp;&nbsp;Italian</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/japanese');" href="/usa/newyork/statueofliberty/index.php?lang=ja&cam=liberty_pano"><img src="http://static.earthcamcdn.com/images/translate/ja_s.gif" style="margin-right:4px;" alt="Japanese" title="Japanese" width="15" height="10" border="0"/>&nbsp;&nbsp;Japanese</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/korean');" href="/usa/newyork/statueofliberty/index.php?lang=kr&cam=liberty_pano"><img src="http://static.earthcamcdn.com/images/translate/kr_s.gif" style="margin-right:4px;" alt="Korean" title="Korean" width="15" height="10" border="0"/>&nbsp;&nbsp;Korean</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/lithuanian');" href="/usa/newyork/statueofliberty/index.php?lang=lt&cam=liberty_pano"><img src="http://static.earthcamcdn.com/images/translate/lt_s.gif" style="margin-right:4px;" alt="Lithuanian" title="Lithuanian" width="15" height="10" border="0"/>&nbsp;&nbsp;Lithuanian</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/polish');" href="/usa/newyork/statueofliberty/index.php?lang=pl&cam=liberty_pano"><img src="http://static.earthcamcdn.com/images/translate/pl_s.gif" style="margin-right:4px;" alt="Polish" title="Polish" width="15" height="10" border="0"/>&nbsp;&nbsp;Polish</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/russian');" href="/usa/newyork/statueofliberty/index.php?lang=ru&cam=liberty_pano"><img src="http://static.earthcamcdn.com/images/translate/ru_s.gif" style="margin-right:2px;" alt="Russian" title="Russian" width="15" height="10" border="0" />&nbsp;&nbsp;Russian</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/spanish');" href="/usa/newyork/statueofliberty/index.php?lang=es&cam=liberty_pano"><img src="http://static.earthcamcdn.com/images/translate/es_es_s.gif" style="margin-right:2px;" alt="Spanish" title="Spanish" width="15" height="10" border="0" />&nbsp;&nbsp;Spanish</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/swedish');" href="/usa/newyork/statueofliberty/index.php?lang=sv&cam=liberty_pano"><img src="http://static.earthcamcdn.com/images/translate/se_s.gif" style="margin-right:4px;" alt="Swedish" title="Swedish" width="15" height="10" border="0"/>&nbsp;&nbsp;Swedish</a></div>	
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/turkish');" href="/usa/newyork/statueofliberty/index.php?lang=tr&cam=liberty_pano"><img src="http://static.earthcamcdn.com/images/translate/tr_s.gif" style="margin-right:4px;" alt="Turkish" title="Turkish" width="15" height="10" border="0"/>&nbsp;&nbsp;Turkish</a></div>
+-->		
+			<div style="height:5px;"></div>
+			<div class="trans_item"><a onclick="javascript:pageTracker._trackPageview('/internal/footer/language/more');" href="http://www.earthcam.com/translation/">More...</a></div>
+			<!--
+			?lang=ja
+			?lang=cn
+			?lang=lt
+			?lang=bg
+			?lang=ja
+			?lang=kr
+			-->
+		</div>
+	
+	
+		<div id="sloganBox">
+			<p class="footerTextSlogan" style="">EarthCam - Where The World Watches The World &reg;</p>
+		</div>
+		
+		<div style="clear:left; height: 5px;"></div>
+	
+		<div id="linkStrip">
+			<div style="text-align:center;">
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/home');" href="http://www.earthcam.com/index.php" class="footerlink">Home</a> | 
+				
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/ectv');" href="http://www.earthcamtv.com" target="_blank" class="footerlink">EarthCamTV</a> | 
+				
+								<a rel="nofollow" onclick="javascript:pageTracker._trackPageview('/internal/footer/dotnet');" href="http://www.earthcam.net/" target="_blank" class="footerlink">EarthCam.net</a> |
+								<a onclick="javascript:pageTracker._trackPageview('/internal/footer/cctv');" href="http://www.constructioncamtv.com/" target="_blank" class="footerlink">ConstructionCamTV</a> | 
+				
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/ecmobile');" href="http://www.earthcam.com/mobile" target="_blank" class="footerlink">EarthCam Mobile</a> | 
+				<!--<a onclick="javascript:pageTracker._trackPageview('/internal/footer/webcamstore');" href="http://www.webcamstore.com" target="_blank" class="footerlink">WebCamStore</a> | -->
+				
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/myearthcam');" href="http://www.earthcam.com/myearthcam/" target="_blank" class="footerlink">My EarthCam</a> |
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/about');" href="http://www.earthcam.com/company/aboutus.php" class="footerlink">About Us</a> | 
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/company');" href="http://www.earthcam.com/company" class="footerlink">Company Info</a> |
+				<!--
+				<a style="cursor: pointer;" onclick="javascript:transpopup(); pageTracker._trackPageview('/internal/footer/translation');" class="footerlink"><span class="lang_link">Languages</span></a> |  
+				-->
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/sitemap');" href="http://www.earthcam.com/sitemap.php" class="footerlink">Site Map</a> |  
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/addacam');" href="http://www.earthcam.com/add_request.php" class="footerlink">Add a Cam</a> | 
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/linktous');" href="http://www.earthcam.com/site/linktous.php" class="footerlink">Link To Us</a> | 
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/contact');" href="http://www.earthcam.com/company/contact.php" class="footerlink">Contact Us</a> | 
+								<a onclick="javascript:pageTracker._trackPageview('/internal/footer/advertising');" href="http://www.earthcam.com/site/advertising.php" class="footerlink">Advertise</a> | 
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/social/help');" href="http://www.earthcam.com/site/help.php" class="footerlink">Help</a>
+			</div>
+		</div>
+	
+		<div style="clear:left; height: 5px;"></div>
+	
+		<div id="CopyrightContact">
+			<div style="float:left;">
+				Copyright 1996-2016 EarthCam, Inc. All Rights Reserved.			</div>
+			
+			<div style="float:right;">
+			Should you encounter a problem with a link,
+			<a onclick="javascript:pageTracker._trackPageview('/internal/footer/contactus');" href="http://www.earthcam.com/company/contact.php?query=link" style="text-decoration:bold; font-weight:400;" >let us know</a>.
+			</div>
+		</div>
+		
+		<div style="clear:left; height: 10px;"></div>
+		<!-- <div style="clear:both; height: 40px;"></div> -->
+	</div><!--/footerBox -->
+	<!-- ///////////////////////////////////////////////////////////////////////// -->
+
+<script type="text/javascript">
+if(typeof($j)== "undefined")
+{
+	var $j = jQuery.noConflict();
+}
+
+var trans_on = false;
+var trans_overlay = $j('#translation_overlay');
+$j('#translation_overlay').mouseleave(function(){
+	transmenuHide(500);
+});
+$j('#translation_overlay').mouseenter(function(){
+	$j('#translation_overlay').clearQueue();
+});
+function transmenuHide(delay){
+	$j('#translation_overlay').delay(delay).fadeOut("fast");
+}
+
+function transpopup()
+{
+	if (trans_on)
+	{
+		trans_on = false;
+		trans_overlay.fadeOut("fast");
+	}
+	else
+	{
+		trans_on = true;
+		trans_overlay.fadeIn("fast");
+	}
+
+
+}
+
+</script>
+
+<!-- Google Analytics Code -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-274246-1");
+pageTracker._setDomainName('earthcam.com');
+//pageTracker._setAllowLinker(true);
+pageTracker._trackPageview();
+
+//-------------------
+function ECNClickTracker(cCategory, cAction, cLabel, cValue)
+{
+	try {
+		var pageTracker=_gat._getTracker("UA-274246-1");
+		pageTracker._trackEvent(cCategory, cAction, cLabel, cValue);
+	} catch(err){}
+}
+
+function gaRecordInternal(uLink, category, action, external)
+{
+	// function gaRecordLink(uLink, category, action, opt_label, opt_value, opt_noninteraction)
+	//	example: gaRecordInternal(this, 'Homepage', '/internal/homepage/live_webcam_network')
+	
+	// _trackEvent(category, action, opt_label, opt_value, opt_noninteraction)
+	// <a href="http://www.example.com" onClick="gaRecordInternal(this, 'Outbound Links', 'example.com');return false;">
+	
+	try {
+		var pageTracker=_gat._getTracker("UA-274246-1");
+		pageTracker._trackEvent(category, action);
+		
+		if (uLink == -1)
+			return(false);
+		else if (external == 1)
+			window.open(uLink,  '_blank');
+		else if (uLink.href)
+			setTimeout('document.location = "' + uLink.href + '"', 100)
+	} catch(err){}
+}
+
+function gaRecordPageView(linkPath)
+{
+	pageTracker._trackPageview(linkPath);
+}
+</script>
+<!-- backwards compat if anything is using urchin -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<!-- End Google Analytics Code -->
+
+
+<!-- Start Quantcast tag -->
+<!--
+<script type="text/javascript">
+_qoptions={
+qacct:"p-3da3lULkKt9Co"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<a href="http://www.quantcast.com/p-3da3lULkKt9Co" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-3da3lULkKt9Co.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+-->
+<!-- End Quantcast tag -->
+	</div>
+	<!--/footer region ***************************************************************************************************** -->
+	
+</div><!--/superWhiteWrapper -->
+
+
+
+
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+	// init the FB JS SDK
+	FB.init({
+	  appId	  : '153227104759826', // App ID from the App Dashboard
+	  channelUrl : '//www.earthcam.com/channel.php', // Channel File for x-domain communication
+	  status	 : true, // check the login status upon init?
+	  cookie	 : true, // set sessions cookies to allow your server to access the session?
+	  xfbml	  : true  // parse XFBML tags on this page?
+	});
+
+	// Additional initialization code such as adding Event Listeners goes here
+
+  };
+
+  // Load the SDK's source Asynchronously
+  // Note that the debug version is being actively developed and might 
+  // contain some type checks that are overly strict. 
+  // Please report such bugs using the bugs tool.
+  (function(d, debug){
+	 var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+	 if (d.getElementById(id)) {return;}
+	 js = d.createElement('script'); js.id = id; js.async = true;
+	 js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+	 ref.parentNode.insertBefore(js, ref);
+   }(document, /*debug*/ false));
+</script>
+
+<!--<iframe name="savenull" id="savenull" width="0" height="0" frameborder="0"></iframe>-->
+</body>
+</html>

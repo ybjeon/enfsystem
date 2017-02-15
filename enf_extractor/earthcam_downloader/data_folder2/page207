@@ -1,0 +1,170 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Space Needle 50 Year Camera</title>
+        <meta name="description" content="360 degrees panoramic views of Seattle">
+        <meta name="viewport" content="height = device-height, width = device-width, initial-scale = 1.0, minimum-scale = 1.0, maximum-scale = 1.0, user-scalable = no" />
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/50ycamera.css">
+
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+
+
+        <!-- Facebook Javascript -->
+        <script>
+        window.fbAsyncInit = function() {
+            FB.init({
+              appId      : '684248768386096',
+              xfbml      : true,
+              version    : 'v2.3'
+            });
+          };
+
+          (function(d, s, id){
+             var js, fjs = d.getElementsByTagName(s)[0];
+             if (d.getElementById(id)) {return;}
+             js = d.createElement(s); js.id = id;
+             js.src = "http://connect.facebook.net/en_US/sdk.js";
+             fjs.parentNode.insertBefore(js, fjs);
+           }(document, 'script', 'facebook-jssdk'));
+        </script>
+        <!-- Facebook Javascript END -->
+
+        <!-- Twitter Javascript -->
+        <script>
+            window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
+        </script>
+        <!-- Twitter Javascript END -->
+
+        <!-- Google+ Javascript  -->
+        <script src="https://apis.google.com/js/platform.js" async defer></script>
+        <!-- Google+ Javascript END -->
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <script src="js/plugins.js"></script>
+        <script src="js/vendor/greensock/TweenLite.min.js"></script>
+        <script src="js/vendor/greensock/plugins/CSSPlugin.min.js"></script>
+        <script src="js/main.js"></script>
+
+        <div id="intro">
+            <canvas id="introAnimation" width="540" height="540"></canvas>
+            <div id="introTextBlock">
+                <div id="introTitle">SPACE NEEDLE<br/>PANOCAM</div>
+                <div id="introSubhead">LOADING...</div>
+            </div>
+        </div>
+        
+        <div id="dateList"></div>
+        
+        <canvas id="panorama" moz-opaque="true"></canvas>
+        
+        <div id="dateSlider">            
+            <img src="img/viewselector_button.png" id="dateSliderViewSlider" />
+            <img src="img/viewselector_bestviews_default.png" id="dateSliderBestViews" />
+            <img src="img/viewselector_allviews_active.png" id="dateSliderAllViews" />
+            <img src="img/viewselector_outline.png" id="dateSliderViewOutline" />
+            <img src="img/dateslider_today.png" id="dateSliderToday" />
+            <img src="img/dateslider_jan2015.png" id="dateSliderJan2015" />
+            <div id="dateSliderIcons"></div>
+            <img src="img/dateslider_line.png" id="dateSliderLine" />
+            <img src="img/dateslider_button_default.png" id="dateSliderDragger" />
+        </div>
+
+        <div id="dateSelector">
+            <div id="dateSelectorLabel"><span id="dateSelectorDisplayDate">JANUARY 1, 2015</span> 
+            <img src="img/dateselector_arrow_default.png" id="dateSelectorArrow" /></div>
+            <div id="dateSelectorShowHide">
+                <img id="dateSelectorShowHideIcon" src="img/icon_hide_menu_default.png" />
+                <span id="dateSelectorShowHideText">HIDE MENUS</span>
+            </div>
+            <div id="dateSelectorShare">
+                <img id="dateSelectorShareIcon" src="img/icon_share_default.png" />
+                <span id="dateSelectorShareText">0 SHARES</span>
+            </div>
+
+
+            <div id="dateSelectorUI">
+                <img id="dateSelectorOutlines" src="img/dateselector_outlines.png" />
+                
+                <div id="dateSelectorMonthes">
+                    <div class="dateSelectorTop"></div>
+                    <div class="dateSelectorMiddle"></div>
+                    <div class="dateSelectorBottom"></div>
+                </div>
+                <div id="dateSelectorDays">
+                    <div class="dateSelectorTop"></div>
+                    <div class="dateSelectorMiddle"></div>
+                    <div class="dateSelectorBottom"></div>
+                </div>
+                <div id="dateSelectorYears">
+                    <div class="dateSelectorTop"></div>
+                    <div class="dateSelectorMiddle"></div>
+                    <div class="dateSelectorBottom"></div>
+                </div>
+                
+                <img id="dateSelectorSelect" src="img/btn_select_default.png" />
+            </div>                            
+        </div>
+
+
+
+        <img id="btnTimeline" src="img/btn_timeline_default.png" />
+        
+        <div id="compass">
+            <img src="img/compass_back.png" id="compassBack" />
+            <img src="img/compass_fov.png" id="compassFOV" />
+        </div>
+
+        <div id="zoom">
+            <img src="img/btn_zoom_in.png" id="zoomIn" />
+            <img src="img/btn_zoom_out.png" id="zoomOut" />
+        </div>
+        
+        <div id="timelapseDial">
+            <img src="img/timedial_back.png" id="timelapseDialBack" />
+            <img src="img/timedial_overlay.png" id="timelapseDialOverlay" />
+            <img src="img/timedial_icon_arrow.png" id="timelapseDialArrow" />
+            <div id="timelapseTime">12:00PM</div>
+            <img src="img/btn_playtimelapse_default.png" id="timelapseButton" />
+        </div>
+
+         <div id="social">
+            <img id="socialClose" src="img/btn_share_close_default.png" />
+            <div id="socialTitle">SHARE THIS VIEW</div>            
+            <div id="socialSeparator"></div>
+            <div id="socialButtons">
+                <img id="socialFacebook" src="img/share_facebook_default.png" />
+                <img id="socialGoogle" src="img/share_google_default.png" />
+                <img id="socialPinterest" src="img/share_pinterest_default.png" />
+                <img id="socialTwitter" src="img/share_twitter_default.png" />
+                <img id="socialEmail" src="img/share_email_default.png" />
+            </div>
+        </div>
+
+        <div id="email">
+            <img id="emailClose" src="img/btn_share_close_default.png" />
+            <img id="emailIcon" src="img/icon_email.png" />
+            <div id="emailTitle">EMAIL THIS VIEW</div>            
+            <div class="emailSeparator"></div>
+            <div id="emailDate">JANUARY 28 2015 AT 8:20PM</div>
+            <img id="emailPano" src="" />
+            <div id="emailError"></div>
+            <div class="emailSeparator"></div>
+            <label>YOUR NAME:</label>
+            <input type="text" id="emailName"/>
+            <label>RECIPIENT'S EMAIL ADDRESS:</label>
+            <input type="email" id="emailTo"/>
+            <div id="emailSend">SEND VIEW</div>
+        </div>
+
+    </body>
+</html>

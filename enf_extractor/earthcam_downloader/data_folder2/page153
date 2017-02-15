@@ -1,0 +1,1397 @@
+<!DOCTYPE html><html lang="en" data-cast-api-enabled="true"><head><style name="www-roboto">@font-face{font-family:'Roboto';font-style:italic;font-weight:400;src:local('Roboto Italic'),local('Roboto-Italic'),url(//fonts.gstatic.com/s/roboto/v15/W4wDsBUluyw0tK3tykhXEfesZW2xOQ-xsNqO47m55DA.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:italic;font-weight:500;src:local('Roboto Medium Italic'),local('Roboto-MediumItalic'),url(//fonts.gstatic.com/s/roboto/v15/OLffGBTaF0XFOW1gnuHF0Z0EAVxt0G0biEntp43Qt6E.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:local('Roboto Medium'),local('Roboto-Medium'),url(//fonts.gstatic.com/s/roboto/v15/RxZJdnzeo3R5zSexge8UUaCWcynf_cDxXwCLxiixG1c.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto Regular'),local('Roboto-Regular'),url(//fonts.gstatic.com/s/roboto/v15/zN7GBFwfMP4uA6AR0HCoLQ.ttf)format('truetype');}</style><script name="www-roboto">if (document.fonts && document.fonts.load) {document.fonts.load("400 10pt Roboto", "E");document.fonts.load("500 10pt Roboto", "E");}</script><script>__yt_experimental_now = __spf_experimental_now = true;</script><script>var ytcsi = {gt: function(n) {n = (n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},span: {},info: {}});},now: window.performance && window.performance.timing &&window.performance.now && window['__yt_experimental_now'] ? function() {return window.performance.timing.navigationStart + window.performance.now();} : function() {return (new Date()).getTime();},tick: function(l, t, n) {ytcsi.gt(n).tick[l] = t || ytcsi.now();},span: function(l, s, e, n) {ytcsi.gt(n).span[l] = (e ? e : ytcsi.now()) - ytcsi.gt(n).tick[s];},setSpan: function(l, s, n) {ytcsi.gt(n).span[l] = s;},info: function(k, v, n) {ytcsi.gt(n).info[k] = v;},setStart: function(s, t, n) {ytcsi.info('yt_sts', s, n);ytcsi.tick('_start', t, n);}};(function(w, d) {ytcsi.setStart('dhs', w.performance ? w.performance.timing.responseStart : null);var isPrerender = (d.visibilityState || d.webkitVisibilityState) == 'prerender';var vName = d.webkitVisibilityState ? 'webkitvisibilitychange' : 'visibilitychange';if (isPrerender) {ytcsi.info('prerender', 1);var startTick = function() {ytcsi.setStart('dhs');d.removeEventListener(vName, startTick);};d.addEventListener(vName, startTick, false);}if (d.addEventListener) {d.addEventListener(vName, function() {ytcsi.tick('vc');}, false);}})(window, document);</script><script>var ytcfg = {d: function() {return (window.yt && yt.config_) || ytcfg.data_ || (ytcfg.data_ = {});},get: function(k, o) {return (k in ytcfg.d()) ? ytcfg.d()[k] : o;},set: function() {var a = arguments;if (a.length > 1) {ytcfg.d()[a[0]] = a[1];} else {for (var k in a[0]) {ytcfg.d()[k] = a[0][k];}}}};</script>  <script>
+    ytcfg.set("ST_SHORT", true);
+    ytcfg.set("ST_BASE36", true);
+  </script>
+  <script>ytcfg.set("EXP_QUICK_FETCH_BISCOTTI", false);ytcfg.set("LACT", null);</script>
+  
+
+
+
+
+  <script>
+        (function(){var b={c:"content-snap-width-1",f:"content-snap-width-2",h:"content-snap-width-3"};function f(){var a=[],c;for(c in b)a.push(b[c]);return a}
+function g(a){var c=f().concat(["guide-pinned","show-guide"]),d=c.length,e=[];a.replace(/\S+/g,function(a){for(var k=0;k<d;k++)if(a==c[k])return;e.push(a)});
+return e}
+;function l(a,c,d){var e=document.getElementsByTagName("html")[0],h=g(e.className);a&&1251<=(window.innerWidth||document.documentElement.clientWidth)&&(h.push("guide-pinned"),c&&h.push("show-guide"));d&&(d=(window.innerWidth||document.documentElement.clientWidth)-21-50,1251<=(window.innerWidth||document.documentElement.clientWidth)&&a&&c&&(d-=230),h.push(1262<=d?"content-snap-width-3":1056<=d?"content-snap-width-2":"content-snap-width-1"));e.className=h.join(" ")}
+var m=["yt","www","masthead","sizing","runBeforeBodyIsReady"],n=this;m[0]in n||!n.execScript||n.execScript("var "+m[0]);for(var p;m.length&&(p=m.shift());)m.length||void 0===l?n[p]?n=n[p]:n=n[p]={}:n[p]=l;})();
+
+      try {window.ytbuffer = {};ytbuffer.handleClick = function(e) {var element = e.target || e.srcElement;while (element.parentElement) {if (/(^| )yt-can-buffer( |$)/.test(element.className)) {window.ytbuffer = {bufferedClick: e};element.className += ' yt-is-buffered';break;}element = element.parentElement;}};if (document.addEventListener) {document.addEventListener('click', ytbuffer.handleClick);} else {document.attachEvent('onclick', ytbuffer.handleClick);}} catch(e) {}
+
+    yt.www.masthead.sizing.runBeforeBodyIsReady(false,false,true);
+  </script>
+
+      <script src="//s.ytimg.com/yts/jsbin/scheduler-vflaG8xOH/scheduler.js" type="text/javascript" name="scheduler/scheduler"></script>
+
+
+    <script>var ytimg = {};ytimg.count = 1;ytimg.preload = function(src) {var img = new Image();var count = ++ytimg.count;ytimg[count] = img;img.onload = img.onerror = function() {delete ytimg[count];};img.src = src;};</script>
+
+
+          <script src="//s.ytimg.com/yts/jsbin/player-en_US-vfl9xTY8I/base.js" name="player/base"></script>
+
+
+
+  <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-core-vflwe9XuH.css" name="www-core">
+      <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-player-vflzrH8eR.css" name="www-player">
+
+  <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-pageframe-vflg3TncD.css" name="www-pageframe">
+      <script>ytimg.preload("https:\/\/r1---sn-3u-bh2e7.googlevideo.com\/crossdomain.xml");ytimg.preload("https:\/\/r1---sn-3u-bh2e7.googlevideo.com\/generate_204");</script>
+
+
+<title>Official Seaside Heights Boardwalk Construction Time-Lapse - YouTube</title><link rel="search" type="application/opensearchdescription+xml" href="https://www.youtube.com/opensearch?locale=en_US" title="YouTube Video Search"><link rel="shortcut icon" href="https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico" type="image/x-icon">     <link rel="icon" href="//s.ytimg.com/yts/img/favicon_32-vfl8NGn4k.png" sizes="32x32"><link rel="icon" href="//s.ytimg.com/yts/img/favicon_48-vfl1s0rGh.png" sizes="48x48"><link rel="icon" href="//s.ytimg.com/yts/img/favicon_96-vfldSA3ca.png" sizes="96x96"><link rel="icon" href="//s.ytimg.com/yts/img/favicon_144-vflWmzoXw.png" sizes="144x144"><meta name="theme-color" content="#e62117"><link rel="canonical" href="https://www.youtube.com/watch?v=ovliNBwTZrQ"><link rel="alternate" media="handheld" href="http://m.youtube.com/watch?v=ovliNBwTZrQ"><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.youtube.com/watch?v=ovliNBwTZrQ"><link rel="shortlink" href="https://youtu.be/ovliNBwTZrQ">      <meta name="title" content="Official Seaside Heights Boardwalk Construction Time-Lapse">
+
+      <meta name="description" content="Watch and share this time-lapse movie, documenting the rebuilding of the Seaside Heights, NJ boardwalk. Watch this post-Sandy Jersey Shore town come alive in...">
+
+      <meta name="keywords" content="Seaside Heights">
+
+        <link rel="alternate" href="android-app://com.google.android.youtube/http/www.youtube.com/watch?v=ovliNBwTZrQ">
+    <link rel="alternate" href="ios-app://544007664/vnd.youtube/www.youtube.com/watch?v=ovliNBwTZrQ">
+
+      <link rel="alternate" type="application/json+oembed" href="http://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DovliNBwTZrQ&amp;format=json" title="Official Seaside Heights Boardwalk Construction Time-Lapse">
+  <link rel="alternate" type="text/xml+oembed" href="http://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DovliNBwTZrQ&amp;format=xml" title="Official Seaside Heights Boardwalk Construction Time-Lapse">
+
+        <meta property="og:site_name" content="YouTube">
+      <meta property="og:url" content="https://www.youtube.com/watch?v=ovliNBwTZrQ">
+    <meta property="og:title" content="Official Seaside Heights Boardwalk Construction Time-Lapse">
+    <meta property="og:image" content="https://i.ytimg.com/vi/ovliNBwTZrQ/maxresdefault.jpg">
+
+      <meta property="og:description" content="Watch and share this time-lapse movie, documenting the rebuilding of the Seaside Heights, NJ boardwalk. Watch this post-Sandy Jersey Shore town come alive in...">
+
+    <meta property="al:ios:app_store_id" content="544007664">
+    <meta property="al:ios:app_name" content="YouTube">
+      <meta property="al:ios:url" content="vnd.youtube://www.youtube.com/watch?v=ovliNBwTZrQ&amp;feature=applinks">
+
+      <meta property="al:android:url" content="vnd.youtube://www.youtube.com/watch?v=ovliNBwTZrQ&amp;feature=applinks">
+    <meta property="al:android:app_name" content="YouTube">
+    <meta property="al:android:package" content="com.google.android.youtube">
+    <meta property="al:web:url" content="https://www.youtube.com/watch?v=ovliNBwTZrQ&amp;feature=applinks">
+
+    <meta property="og:type" content="video">
+        <meta property="og:video:url" content="https://www.youtube.com/embed/ovliNBwTZrQ">
+        <meta property="og:video:secure_url" content="https://www.youtube.com/embed/ovliNBwTZrQ">
+        <meta property="og:video:type" content="text/html">
+        <meta property="og:video:width" content="1280">
+        <meta property="og:video:height" content="720">
+        <meta property="og:video:url" content="http://www.youtube.com/v/ovliNBwTZrQ?version=3&amp;autohide=1">
+        <meta property="og:video:secure_url" content="https://www.youtube.com/v/ovliNBwTZrQ?version=3&amp;autohide=1">
+        <meta property="og:video:type" content="application/x-shockwave-flash">
+        <meta property="og:video:width" content="1280">
+        <meta property="og:video:height" content="720">
+
+        <meta property="og:video:tag" content="Seaside Heights">
+
+    <meta property="fb:app_id" content="87741124305">
+
+        <meta name="twitter:card" content="player">
+    <meta name="twitter:site" content="@youtube">
+    <meta name="twitter:url" content="https://www.youtube.com/watch?v=ovliNBwTZrQ">
+    <meta name="twitter:title" content="Official Seaside Heights Boardwalk Construction Time-Lapse">
+    <meta name="twitter:description" content="Watch and share this time-lapse movie, documenting the rebuilding of the Seaside Heights, NJ boardwalk. Watch this post-Sandy Jersey Shore town come alive in...">
+    <meta name="twitter:image" content="https://i.ytimg.com/vi/ovliNBwTZrQ/maxresdefault.jpg">
+    <meta name="twitter:app:name:iphone" content="YouTube">
+    <meta name="twitter:app:id:iphone" content="544007664">
+    <meta name="twitter:app:name:ipad" content="YouTube">
+    <meta name="twitter:app:id:ipad" content="544007664">
+      <meta name="twitter:app:url:iphone" content="vnd.youtube://www.youtube.com/watch?v=ovliNBwTZrQ&amp;feature=applinks">
+      <meta name="twitter:app:url:ipad" content="vnd.youtube://www.youtube.com/watch?v=ovliNBwTZrQ&amp;feature=applinks">
+    <meta name="twitter:app:name:googleplay" content="YouTube">
+    <meta name="twitter:app:id:googleplay" content="com.google.android.youtube">
+    <meta name="twitter:app:url:googleplay" content="https://www.youtube.com/watch?v=ovliNBwTZrQ">
+      <meta name="twitter:player" content="https://www.youtube.com/embed/ovliNBwTZrQ">
+      <meta name="twitter:player:width" content="1280">
+      <meta name="twitter:player:height" content="720">
+
+  
+</head>  <body dir="ltr" id="body" class="  ltr    exp-responsive exp-scrollable-guide   site-center-aligned site-as-giant-card appbar-hidden    visibility-logging-enabled   not-nirvana-dogfood  not-yt-legacy-css      flex-width-enabled      flex-width-enabled-snap    delayed-frame-styles-not-in  " data-spf-name="watch">
+<div id="early-body"></div><div id="body-container"><div id="a11y-announcements-container" role="alert"><div id="a11y-announcements-message"></div></div><form name="logoutForm" method="POST" action="/logout"><input type="hidden" name="action_logout" value="1"></form><div id="masthead-positioner">    
+  <div id="yt-masthead-container" class="clearfix yt-base-gutter">  <button id="a11y-skip-nav" class="skip-nav" data-target-id="main" tabindex="3">
+Skip navigation
+  </button>
+<div id="yt-masthead"><div class="yt-masthead-logo-container ">  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon appbar-guide-toggle appbar-guide-clickable-ancestor" type="button" onclick=";return false;" aria-label="Guide" aria-controls="appbar-guide-menu" id="appbar-guide-button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-appbar-guide yt-sprite"></span></span></button>
+  <div id="appbar-main-guide-notification-container"></div>
+<span id="yt-masthead-logo-fragment"><a href="/" class="yt-uix-sessionlink masthead-logo-renderer       spf-link " data-sessionlink="itct=CAUQsV4iEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0" id="logo-container" title="YouTube Home">  <span class="logo masthead-logo-renderer-logo yt-sprite" title="YouTube Home"></span>
+<span class="content-region">KR</span></a></span></div><div id="yt-masthead-signin"><a href="//www.youtube.com/upload" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=p68DV8v9B8Wu4AKI94rwBw&amp;feature=mhsb" id="upload-btn"><span class="yt-uix-button-content">Upload</span></a><div class="signin-container "><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary" type="button" onclick=";window.location.href=this.getAttribute(&#39;href&#39;);return false;" href="https://accounts.google.com/ServiceLogin?passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dsign_in_button%26hl%3Den%26next%3D%252Fwatch%253Fv%253DovliNBwTZrQ&amp;uilel=3&amp;service=youtube&amp;hl=en" role="link"><span class="yt-uix-button-content">Sign in</span></button></div></div><div id="yt-masthead-content"><form id="masthead-search" class="search-form consolidated-form" action="/results" onsubmit="if (document.getElementById(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false;" data-clicktracking="CAIQ7VAiEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default search-btn-component search-button" type="submit" onclick="if (document.getElementById(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false; document.getElementById(&#39;masthead-search&#39;).submit(); return false;;return true;" id="search-btn" dir="ltr" tabindex="2"><span class="yt-uix-button-content">Search</span></button><div id="masthead-search-terms" class="masthead-search-terms-border" dir="ltr"><input id="masthead-search-term" autocomplete="off"  onkeydown="if (!this.value &amp;&amp; (event.keyCode == 40 || event.keyCode == 32 || event.keyCode == 34)) {this.onkeydown = null; this.blur();}" class="search-term masthead-search-renderer-input yt-uix-form-input-bidi" name="search_query" value="" type="text" tabindex="1" placeholder="" title="Search" aria-label="Search"></div></form></div></div></div>
+    <div id="masthead-appbar-container" class="clearfix"><div id="masthead-appbar"><div id="appbar-content" class=""></div></div></div>
+
+</div><div id="masthead-positioner-height-offset"></div><div id="page-container"><div id="page" class="  watch        video-ovliNBwTZrQ clearfix"><div id="guide" class="yt-scrollbar">    <div id="appbar-guide-menu" class="appbar-menu appbar-guide-menu-layout appbar-guide-clickable-ancestor">
+    <div id="guide-container">
+      <div class="guide-module-content guide-module-loading">
+          <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+      </div>
+    </div>
+  </div>
+
+</div><div class="alerts-wrapper"><div id="alerts" class="content-alignment">    
+  <div id="editor-progress-alert-container"></div>
+  <div class="yt-alert yt-alert-default yt-alert-warn hid " id="editor-progress-alert-template">  <div class="yt-alert-icon">
+    <span class="icon master-sprite yt-sprite"></span>
+  </div>
+<div class="yt-alert-content" role="alert"></div><div class="yt-alert-buttons"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" type="button" onclick=";return false;" aria-label="Close" data-close-parent-class="yt-alert"><span class="yt-uix-button-content">Close</span></button></div></div>
+
+    <div id="edit-confirmation-alert"></div>
+  <div class="yt-alert yt-alert-actionable yt-alert-info hid " id="edit-confirmation-alert-template">  <div class="yt-alert-icon">
+    <span class="icon master-sprite yt-sprite"></span>
+  </div>
+<div class="yt-alert-content" role="alert">    <div class="yt-alert-message">
+    </div>
+</div><div class="yt-alert-buttons">  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-alert-info yt-uix-button-has-icon edit-confirmation-yes" type="button" onclick=";return false;"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-like-invert yt-sprite"></span></span><span class="yt-uix-button-content">Yeah, keep it</span></button>
+  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-alert-info yt-uix-button-has-icon edit-confirmation-no" type="button" onclick=";return false;"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-unlike-invert yt-sprite"></span></span><span class="yt-uix-button-content">Undo</span></button>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" type="button" onclick=";return false;" aria-label="Close" data-close-parent-class="yt-alert"><span class="yt-uix-button-content">Close</span></button></div></div>
+
+
+
+</div></div><div id="header"></div><div id="player" class="  content-alignment       watch-small  " role="complementary"><div id="theater-background" class="player-height"></div>  <div id="player-mole-container">
+    <div id="player-unavailable" class="    hid    player-width player-height    player-unavailable ">
+              <img class="icon meh" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-icon="//s.ytimg.com/yts/img/meh7-vflGevej7.png" alt="">
+  <div class="content">
+    <h1 id="unavailable-message" class="message">
+              This video is unavailable.
+
+    </h1>
+    <div id="unavailable-submessage" class="submessage">
+    </div>
+  </div>
+
+
+    </div>
+
+    <div id="player-api" class="player-width player-height off-screen-target player-api" tabIndex="-1"></div>
+        <script>if (window.ytcsi) {window.ytcsi.tick("cfg", null, '');}</script>
+    <script>var ytplayer = ytplayer || {};ytplayer.config = {"params":{"allowscriptaccess":"always","allowfullscreen":"true","bgcolor":"#000000"},"attrs":{"id":"movie_player"},"sts":16892,"url":"https:\/\/s.ytimg.com\/yts\/swfbin\/player-vflk7j8ow\/watch_as3.swf","url_v8":"https:\/\/s.ytimg.com\/yts\/swfbin\/player-vflk7j8ow\/cps.swf","url_v9as2":"https:\/\/s.ytimg.com\/yts\/swfbin\/player-vflk7j8ow\/cps.swf","min_version":"8.0.0","args":{"keywords":"Seaside Heights","allow_ratings":"1","ismb":"75130000","vm":"CAEQAA","iv_invideo_url":"https:\/\/www.youtube.com\/annotations_invideo?cap_hist=1\u0026video_id=ovliNBwTZrQ","timestamp":"1459859367","storyboard_spec":"https:\/\/i.ytimg.com\/sb\/ovliNBwTZrQ\/storyboard3_L$L\/$N.jpg|48#27#100#10#10#0#default#5T_LIhKVkO9HOZAnLz98Ifh-sb0|80#45#84#10#10#2000#M$M#TF4SjQEXL_aTBYcdgZB3S8IUges|160#90#84#5#5#2000#M$M#P8ocPBiYtEHpEGtuZ2KXW69rBSA","iurlmq":"https:\/\/i.ytimg.com\/vi\/ovliNBwTZrQ\/mqdefault.jpg","adaptive_fmts":"index=711-1078\u0026init=0-710\u0026fps=10\u0026lmt=1407354163754503\u0026projection_type=1\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d401f%22\u0026url=https%3A%2F%2Fr1---sn-3u-bh2e7.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26mn%3Dsn-3u-bh2e7%26id%3Do-AAp_RzI6vb6TmwsXz7MYNr6eaidMHTacPXJfJp0YPLud%26keepalive%3Dyes%26ip%3D163.152.26.40%26pl%3D20%26mt%3D1459859212%26mv%3Dm%26ms%3Dau%26ipbits%3D0%26initcwndbps%3D9391250%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cupn%252Cexpire%26mime%3Dvideo%252Fmp4%26clen%3D35167903%26fexp%3D9406994%252C9412776%252C9416126%252C9416891%252C9419452%252C9420452%252C9422596%252C9423662%252C9425006%252C9426927%252C9427902%252C9428399%252C9428606%252C9428660%252C9430021%252C9431285%252C9431476%252C9431865%252C9432651%252C9433119%26gir%3Dyes%26key%3Dyt6%26signature%3D9DADB1F15C4F5AEF93452905926BE0DC6AFF33CB.D19A814D3FC4E45F6C164C6D56ECEC9F652DFEEF%26requiressl%3Dyes%26source%3Dyoutube%26dur%3D165.301%26lmt%3D1407354163754503%26upn%3DxnBbVtMUxWM%26expire%3D1459880967%26sver%3D3%26itag%3D136\u0026bitrate=2223296\u0026quality_label=720p\u0026clen=35167903\u0026itag=136\u0026size=1280x720,index=235-712\u0026init=0-234\u0026fps=1\u0026lmt=1399928608163573\u0026projection_type=1\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026url=https%3A%2F%2Fr1---sn-3u-bh2e7.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26mn%3Dsn-3u-bh2e7%26id%3Do-AAp_RzI6vb6TmwsXz7MYNr6eaidMHTacPXJfJp0YPLud%26keepalive%3Dyes%26ip%3D163.152.26.40%26pl%3D20%26mt%3D1459859212%26mv%3Dm%26ms%3Dau%26ipbits%3D0%26initcwndbps%3D9391250%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cupn%252Cexpire%26mime%3Dvideo%252Fwebm%26clen%3D23297998%26fexp%3D9406994%252C9412776%252C9416126%252C9416891%252C9419452%252C9420452%252C9422596%252C9423662%252C9425006%252C9426927%252C9427902%252C9428399%252C9428606%252C9428660%252C9430021%252C9431285%252C9431476%252C9431865%252C9432651%252C9433119%26gir%3Dyes%26key%3Dyt6%26signature%3D2B39339EDEF6064E51FF81C85B88A7808D9DD37C.54A601E7F3FA8882B4844345254AE8140592E80C%26requiressl%3Dyes%26source%3Dyoutube%26dur%3D165.400%26lmt%3D1399928608163573%26upn%3DxnBbVtMUxWM%26expire%3D1459880967%26sver%3D3%26itag%3D247\u0026bitrate=1325521\u0026quality_label=720p\u0026clen=23297998\u0026itag=247\u0026size=1280x720,index=710-1077\u0026init=0-709\u0026fps=10\u0026lmt=1407354150048739\u0026projection_type=1\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d4016%22\u0026url=https%3A%2F%2Fr1---sn-3u-bh2e7.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26mn%3Dsn-3u-bh2e7%26id%3Do-AAp_RzI6vb6TmwsXz7MYNr6eaidMHTacPXJfJp0YPLud%26keepalive%3Dyes%26ip%3D163.152.26.40%26pl%3D20%26mt%3D1459859212%26mv%3Dm%26ms%3Dau%26ipbits%3D0%26initcwndbps%3D9391250%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cupn%252Cexpire%26mime%3Dvideo%252Fmp4%26clen%3D17603167%26fexp%3D9406994%252C9412776%252C9416126%252C9416891%252C9419452%252C9420452%252C9422596%252C9423662%252C9425006%252C9426927%252C9427902%252C9428399%252C9428606%252C9428660%252C9430021%252C9431285%252C9431476%252C9431865%252C9432651%252C9433119%26gir%3Dyes%26key%3Dyt6%26signature%3DE06182D3B96442544FA886A6C2200E56F5773C32.DCD6543C0B59AC822A9073E44C52D61A721FB7D9%26requiressl%3Dyes%26source%3Dyoutube%26dur%3D165.301%26lmt%3D1407354150048739%26upn%3DxnBbVtMUxWM%26expire%3D1459880967%26sver%3D3%26itag%3D135\u0026bitrate=1108582\u0026quality_label=480p\u0026clen=17603167\u0026itag=135\u0026size=854x480,index=235-703\u0026init=0-234\u0026fps=1\u0026lmt=1399928637629788\u0026projection_type=1\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026url=https%3A%2F%2Fr1---sn-3u-bh2e7.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26mn%3Dsn-3u-bh2e7%26id%3Do-AAp_RzI6vb6TmwsXz7MYNr6eaidMHTacPXJfJp0YPLud%26keepalive%3Dyes%26ip%3D163.152.26.40%26pl%3D20%26mt%3D1459859212%26mv%3Dm%26ms%3Dau%26ipbits%3D0%26initcwndbps%3D9391250%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cupn%252Cexpire%26mime%3Dvideo%252Fwebm%26clen%3D12245821%26fexp%3D9406994%252C9412776%252C9416126%252C9416891%252C9419452%252C9420452%252C9422596%252C9423662%252C9425006%252C9426927%252C9427902%252C9428399%252C9428606%252C9428660%252C9430021%252C9431285%252C9431476%252C9431865%252C9432651%252C9433119%26gir%3Dyes%26key%3Dyt6%26signature%3D979B06FC8BBB215AF4CFD6FE4E00B185461123F0.8257F212C004FE1D216FEBB4AE2C8F4D8CD29F59%26requiressl%3Dyes%26source%3Dyoutube%26dur%3D165.400%26lmt%3D1399928637629788%26upn%3DxnBbVtMUxWM%26expire%3D1459880967%26sver%3D3%26itag%3D244\u0026bitrate=684800\u0026quality_label=480p\u0026clen=12245821\u0026itag=244\u0026size=854x480,index=710-1077\u0026init=0-709\u0026fps=10\u0026lmt=1407354146846288\u0026projection_type=1\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d4016%22\u0026url=https%3A%2F%2Fr1---sn-3u-bh2e7.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26mn%3Dsn-3u-bh2e7%26id%3Do-AAp_RzI6vb6TmwsXz7MYNr6eaidMHTacPXJfJp0YPLud%26keepalive%3Dyes%26ip%3D163.152.26.40%26pl%3D20%26mt%3D1459859212%26mv%3Dm%26ms%3Dau%26ipbits%3D0%26initcwndbps%3D9391250%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cupn%252Cexpire%26mime%3Dvideo%252Fmp4%26clen%3D9100838%26fexp%3D9406994%252C9412776%252C9416126%252C9416891%252C9419452%252C9420452%252C9422596%252C9423662%252C9425006%252C9426927%252C9427902%252C9428399%252C9428606%252C9428660%252C9430021%252C9431285%252C9431476%252C9431865%252C9432651%252C9433119%26gir%3Dyes%26key%3Dyt6%26signature%3D07DA27903EB7189B667EE306606199DB289FDB9B.4812E6DCEEDC37B9C562CC6748C1A017A3B59925%26requiressl%3Dyes%26source%3Dyoutube%26dur%3D165.301%26lmt%3D1407354146846288%26upn%3DxnBbVtMUxWM%26expire%3D1459880967%26sver%3D3%26itag%3D134\u0026bitrate=619510\u0026quality_label=360p\u0026clen=9100838\u0026itag=134\u0026size=640x360,index=235-703\u0026init=0-234\u0026fps=1\u0026lmt=1399928574145403\u0026projection_type=1\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026url=https%3A%2F%2Fr1---sn-3u-bh2e7.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26mn%3Dsn-3u-bh2e7%26id%3Do-AAp_RzI6vb6TmwsXz7MYNr6eaidMHTacPXJfJp0YPLud%26keepalive%3Dyes%26ip%3D163.152.26.40%26pl%3D20%26mt%3D1459859212%26mv%3Dm%26ms%3Dau%26ipbits%3D0%26initcwndbps%3D9391250%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cupn%252Cexpire%26mime%3Dvideo%252Fwebm%26clen%3D6486930%26fexp%3D9406994%252C9412776%252C9416126%252C9416891%252C9419452%252C9420452%252C9422596%252C9423662%252C9425006%252C9426927%252C9427902%252C9428399%252C9428606%252C9428660%252C9430021%252C9431285%252C9431476%252C9431865%252C9432651%252C9433119%26gir%3Dyes%26key%3Dyt6%26signature%3DA2D8E2FC17C4D5DBC7C3636ED30056CE72538A05.7FE7B70F471B370EC0672A75489AC85D1B56DD7A%26requiressl%3Dyes%26source%3Dyoutube%26dur%3D165.400%26lmt%3D1399928574145403%26upn%3DxnBbVtMUxWM%26expire%3D1459880967%26sver%3D3%26itag%3D243\u0026bitrate=386761\u0026quality_label=360p\u0026clen=6486930\u0026itag=243\u0026size=640x360,index=675-1042\u0026init=0-674\u0026fps=10\u0026lmt=1407354141533657\u0026projection_type=1\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d4015%22\u0026url=https%3A%2F%2Fr1---sn-3u-bh2e7.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26mn%3Dsn-3u-bh2e7%26id%3Do-AAp_RzI6vb6TmwsXz7MYNr6eaidMHTacPXJfJp0YPLud%26keepalive%3Dyes%26ip%3D163.152.26.40%26pl%3D20%26mt%3D1459859212%26mv%3Dm%26ms%3Dau%26ipbits%3D0%26initcwndbps%3D9391250%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cupn%252Cexpire%26mime%3Dvideo%252Fmp4%26clen%3D4897293%26fexp%3D9406994%252C9412776%252C9416126%252C9416891%252C9419452%252C9420452%252C9422596%252C9423662%252C9425006%252C9426927%252C9427902%252C9428399%252C9428606%252C9428660%252C9430021%252C9431285%252C9431476%252C9431865%252C9432651%252C9433119%26gir%3Dyes%26key%3Dyt6%26signature%3D041B29B089D4D55D1BB42B3A53CF06DC1AD0437F.1D82C7A74C451722F5C626864B2DA908F61626F0%26requiressl%3Dyes%26source%3Dyoutube%26dur%3D165.301%26lmt%3D1407354141533657%26upn%3DxnBbVtMUxWM%26expire%3D1459880967%26sver%3D3%26itag%3D133\u0026bitrate=250966\u0026quality_label=240p\u0026clen=4897293\u0026itag=133\u0026size=426x240,index=234-702\u0026init=0-233\u0026fps=1\u0026lmt=1399928571166360\u0026projection_type=1\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026url=https%3A%2F%2Fr1---sn-3u-bh2e7.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26mn%3Dsn-3u-bh2e7%26id%3Do-AAp_RzI6vb6TmwsXz7MYNr6eaidMHTacPXJfJp0YPLud%26keepalive%3Dyes%26ip%3D163.152.26.40%26pl%3D20%26mt%3D1459859212%26mv%3Dm%26ms%3Dau%26ipbits%3D0%26initcwndbps%3D9391250%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cupn%252Cexpire%26mime%3Dvideo%252Fwebm%26clen%3D3481026%26fexp%3D9406994%252C9412776%252C9416126%252C9416891%252C9419452%252C9420452%252C9422596%252C9423662%252C9425006%252C9426927%252C9427902%252C9428399%252C9428606%252C9428660%252C9430021%252C9431285%252C9431476%252C9431865%252C9432651%252C9433119%26gir%3Dyes%26key%3Dyt6%26signature%3D2B3CFB6A4B76B28447867C18A85DCF9BFC3BD50A.C4191E62B3F02B50107B219F5C8C3E586C313C75%26requiressl%3Dyes%26source%3Dyoutube%26dur%3D165.400%26lmt%3D1399928571166360%26upn%3DxnBbVtMUxWM%26expire%3D1459880967%26sver%3D3%26itag%3D242\u0026bitrate=210150\u0026quality_label=240p\u0026clen=3481026\u0026itag=242\u0026size=426x240,index=672-1039\u0026init=0-671\u0026fps=10\u0026lmt=1407354141024292\u0026projection_type=1\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d400c%22\u0026url=https%3A%2F%2Fr1---sn-3u-bh2e7.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26mn%3Dsn-3u-bh2e7%26id%3Do-AAp_RzI6vb6TmwsXz7MYNr6eaidMHTacPXJfJp0YPLud%26keepalive%3Dyes%26ip%3D163.152.26.40%26pl%3D20%26mt%3D1459859212%26mv%3Dm%26ms%3Dau%26ipbits%3D0%26initcwndbps%3D9391250%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cupn%252Cexpire%26mime%3Dvideo%252Fmp4%26clen%3D2186680%26fexp%3D9406994%252C9412776%252C9416126%252C9416891%252C9419452%252C9420452%252C9422596%252C9423662%252C9425006%252C9426927%252C9427902%252C9428399%252C9428606%252C9428660%252C9430021%252C9431285%252C9431476%252C9431865%252C9432651%252C9433119%26gir%3Dyes%26key%3Dyt6%26signature%3D80F1EB9B3057FF757C979D113D0D027508B14CB5.764D54F211BFEFA7BF973DB654B1F3DF7A753736%26requiressl%3Dyes%26source%3Dyoutube%26dur%3D165.301%26lmt%3D1407354141024292%26upn%3DxnBbVtMUxWM%26expire%3D1459880967%26sver%3D3%26itag%3D160\u0026bitrate=110522\u0026quality_label=144p\u0026clen=2186680\u0026itag=160\u0026size=256x144,index=234-701\u0026init=0-233\u0026fps=1\u0026lmt=1399928577379860\u0026projection_type=1\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026url=https%3A%2F%2Fr1---sn-3u-bh2e7.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26mn%3Dsn-3u-bh2e7%26id%3Do-AAp_RzI6vb6TmwsXz7MYNr6eaidMHTacPXJfJp0YPLud%26keepalive%3Dyes%26ip%3D163.152.26.40%26pl%3D20%26mt%3D1459859212%26mv%3Dm%26ms%3Dau%26ipbits%3D0%26initcwndbps%3D9391250%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cupn%252Cexpire%26mime%3Dvideo%252Fwebm%26clen%3D1652409%26fexp%3D9406994%252C9412776%252C9416126%252C9416891%252C9419452%252C9420452%252C9422596%252C9423662%252C9425006%252C9426927%252C9427902%252C9428399%252C9428606%252C9428660%252C9430021%252C9431285%252C9431476%252C9431865%252C9432651%252C9433119%26gir%3Dyes%26key%3Dyt6%26signature%3D6B63E87658367D70672FDFFD3D1FCECEE5343EAD.0F43320D23DDE5791D13D4A295E7EE4A9749FE8B%26requiressl%3Dyes%26source%3Dyoutube%26dur%3D165.400%26lmt%3D1399928577379860%26upn%3DxnBbVtMUxWM%26expire%3D1459880967%26sver%3D3%26itag%3D278\u0026bitrate=108984\u0026quality_label=144p\u0026clen=1652409\u0026itag=278\u0026size=256x144,lmt=1407354138949403\u0026index=592-827\u0026init=0-591\u0026bitrate=129404\u0026url=https%3A%2F%2Fr1---sn-3u-bh2e7.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26mn%3Dsn-3u-bh2e7%26id%3Do-AAp_RzI6vb6TmwsXz7MYNr6eaidMHTacPXJfJp0YPLud%26keepalive%3Dyes%26ip%3D163.152.26.40%26pl%3D20%26mt%3D1459859212%26mv%3Dm%26ms%3Dau%26ipbits%3D0%26initcwndbps%3D9391250%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cupn%252Cexpire%26mime%3Daudio%252Fmp4%26clen%3D2658522%26fexp%3D9406994%252C9412776%252C9416126%252C9416891%252C9419452%252C9420452%252C9422596%252C9423662%252C9425006%252C9426927%252C9427902%252C9428399%252C9428606%252C9428660%252C9430021%252C9431285%252C9431476%252C9431865%252C9432651%252C9433119%26gir%3Dyes%26key%3Dyt6%26signature%3D2944737EA97E582092E20289E4D1FFD87F37AFD3.DC39F0DA86D10B36CF3C994B588A19E8EDF5DDFB%26requiressl%3Dyes%26source%3Dyoutube%26dur%3D165.557%26lmt%3D1407354138949403%26upn%3DxnBbVtMUxWM%26expire%3D1459880967%26sver%3D3%26itag%3D140\u0026type=audio%2Fmp4%3B+codecs%3D%22mp4a.40.2%22\u0026clen=2658522\u0026projection_type=1\u0026itag=140,lmt=1399928547795548\u0026index=4452-4737\u0026init=0-4451\u0026bitrate=148065\u0026fps=1\u0026url=https%3A%2F%2Fr1---sn-3u-bh2e7.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26mn%3Dsn-3u-bh2e7%26id%3Do-AAp_RzI6vb6TmwsXz7MYNr6eaidMHTacPXJfJp0YPLud%26keepalive%3Dyes%26ip%3D163.152.26.40%26pl%3D20%26mt%3D1459859212%26mv%3Dm%26ms%3Dau%26ipbits%3D0%26initcwndbps%3D9391250%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cupn%252Cexpire%26mime%3Daudio%252Fwebm%26clen%3D2920152%26fexp%3D9406994%252C9412776%252C9416126%252C9416891%252C9419452%252C9420452%252C9422596%252C9423662%252C9425006%252C9426927%252C9427902%252C9428399%252C9428606%252C9428660%252C9430021%252C9431285%252C9431476%252C9431865%252C9432651%252C9433119%26gir%3Dyes%26key%3Dyt6%26signature%3D35D8A29C5AF4BEF38538E8790F23D583F7F47A50.B8458A00F8345F58B70DC28657A72CF4AC07A415%26requiressl%3Dyes%26source%3Dyoutube%26dur%3D165.478%26lmt%3D1399928547795548%26upn%3DxnBbVtMUxWM%26expire%3D1459880967%26sver%3D3%26itag%3D171\u0026type=audio%2Fwebm%3B+codecs%3D%22vorbis%22\u0026clen=2920152\u0026projection_type=1\u0026itag=171","thumbnail_url":"https:\/\/i.ytimg.com\/vi\/ovliNBwTZrQ\/default.jpg","url_encoded_fmt_stream_map":"url=https%3A%2F%2Fr1---sn-3u-bh2e7.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26mn%3Dsn-3u-bh2e7%26id%3Do-AAp_RzI6vb6TmwsXz7MYNr6eaidMHTacPXJfJp0YPLud%26ip%3D163.152.26.40%26pl%3D20%26mt%3D1459859212%26mv%3Dm%26ms%3Dau%26ipbits%3D0%26initcwndbps%3D9391250%26sparams%3Ddur%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Cratebypass%252Crequiressl%252Csource%252Cupn%252Cexpire%26mime%3Dvideo%252Fmp4%26fexp%3D9406994%252C9412776%252C9416126%252C9416891%252C9419452%252C9420452%252C9422596%252C9423662%252C9425006%252C9426927%252C9427902%252C9428399%252C9428606%252C9428660%252C9430021%252C9431285%252C9431476%252C9431865%252C9432651%252C9433119%26key%3Dyt6%26signature%3D9A438762CB9D2437791190F7B87C0011442ED1EB.83A53A9493EAB110574D29579A91EF1148C58F83%26requiressl%3Dyes%26source%3Dyoutube%26dur%3D165.558%26lmt%3D1407354163777344%26ratebypass%3Dyes%26upn%3DxnBbVtMUxWM%26expire%3D1459880967%26sver%3D3%26itag%3D22\u0026quality=hd720\u0026fallback_host=tc.v9.cache6.googlevideo.com\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.64001F%2C+mp4a.40.2%22\u0026itag=22,url=https%3A%2F%2Fr1---sn-3u-bh2e7.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26mn%3Dsn-3u-bh2e7%26id%3Do-AAp_RzI6vb6TmwsXz7MYNr6eaidMHTacPXJfJp0YPLud%26ip%3D163.152.26.40%26pl%3D20%26mt%3D1459859212%26mv%3Dm%26ms%3Dau%26ipbits%3D0%26initcwndbps%3D9391250%26sparams%3Ddur%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Cratebypass%252Crequiressl%252Csource%252Cupn%252Cexpire%26mime%3Dvideo%252Fwebm%26fexp%3D9406994%252C9412776%252C9416126%252C9416891%252C9419452%252C9420452%252C9422596%252C9423662%252C9425006%252C9426927%252C9427902%252C9428399%252C9428606%252C9428660%252C9430021%252C9431285%252C9431476%252C9431865%252C9432651%252C9433119%26key%3Dyt6%26signature%3D4A6DFC7BDF4EE835BA861A03D07C99BFB5D3FB2B.9C0E15B5FE61C4BA5976E0627ABF78836E2FDA69%26requiressl%3Dyes%26source%3Dyoutube%26dur%3D0.000%26lmt%3D1369259240209749%26ratebypass%3Dyes%26upn%3DxnBbVtMUxWM%26expire%3D1459880967%26sver%3D3%26itag%3D43\u0026quality=medium\u0026fallback_host=tc.v11.cache8.googlevideo.com\u0026type=video%2Fwebm%3B+codecs%3D%22vp8.0%2C+vorbis%22\u0026itag=43,url=https%3A%2F%2Fr1---sn-3u-bh2e7.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26mn%3Dsn-3u-bh2e7%26id%3Do-AAp_RzI6vb6TmwsXz7MYNr6eaidMHTacPXJfJp0YPLud%26ip%3D163.152.26.40%26pl%3D20%26mt%3D1459859212%26mv%3Dm%26ms%3Dau%26ipbits%3D0%26initcwndbps%3D9391250%26sparams%3Ddur%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Cratebypass%252Crequiressl%252Csource%252Cupn%252Cexpire%26mime%3Dvideo%252Fmp4%26fexp%3D9406994%252C9412776%252C9416126%252C9416891%252C9419452%252C9420452%252C9422596%252C9423662%252C9425006%252C9426927%252C9427902%252C9428399%252C9428606%252C9428660%252C9430021%252C9431285%252C9431476%252C9431865%252C9432651%252C9433119%26key%3Dyt6%26signature%3DD5BA8373E139DB8AC4CE2DB84927E5B143E80A47.7CADFB443BA8F8BF49C12A66A82C8DA811CFFAAB%26requiressl%3Dyes%26source%3Dyoutube%26dur%3D165.558%26lmt%3D1407354146882832%26ratebypass%3Dyes%26upn%3DxnBbVtMUxWM%26expire%3D1459880967%26sver%3D3%26itag%3D18\u0026quality=medium\u0026fallback_host=tc.v22.cache7.googlevideo.com\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.42001E%2C+mp4a.40.2%22\u0026itag=18,url=https%3A%2F%2Fr1---sn-3u-bh2e7.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26mn%3Dsn-3u-bh2e7%26id%3Do-AAp_RzI6vb6TmwsXz7MYNr6eaidMHTacPXJfJp0YPLud%26key%3Dyt6%26signature%3DB433CD068CB18516EA87B7C2033D76F0B5509686.77878776F9CC9A2E6B0749CFCADA0B5E18497066%26ip%3D163.152.26.40%26requiressl%3Dyes%26pl%3D20%26mt%3D1459859212%26source%3Dyoutube%26dur%3D165.538%26mv%3Dm%26lmt%3D1389285020576043%26ms%3Dau%26ipbits%3D0%26fexp%3D9406994%252C9412776%252C9416126%252C9416891%252C9419452%252C9420452%252C9422596%252C9423662%252C9425006%252C9426927%252C9427902%252C9428399%252C9428606%252C9428660%252C9430021%252C9431285%252C9431476%252C9431865%252C9432651%252C9433119%26initcwndbps%3D9391250%26upn%3DxnBbVtMUxWM%26sparams%3Ddur%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cupn%252Cexpire%26expire%3D1459880967%26mime%3Dvideo%252Fx-flv%26sver%3D3%26itag%3D5\u0026quality=small\u0026fallback_host=tc.v17.cache5.googlevideo.com\u0026type=video%2Fx-flv\u0026itag=5,url=https%3A%2F%2Fr1---sn-3u-bh2e7.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26mn%3Dsn-3u-bh2e7%26id%3Do-AAp_RzI6vb6TmwsXz7MYNr6eaidMHTacPXJfJp0YPLud%26key%3Dyt6%26signature%3D470101315DCB6178BB67166705991184D98A81B8.3FEB9561D36476D5C869728163D7680C60ED80FF%26ip%3D163.152.26.40%26requiressl%3Dyes%26pl%3D20%26mt%3D1459859212%26source%3Dyoutube%26dur%3D165.651%26mv%3Dm%26lmt%3D1389285036580305%26ms%3Dau%26ipbits%3D0%26fexp%3D9406994%252C9412776%252C9416126%252C9416891%252C9419452%252C9420452%252C9422596%252C9423662%252C9425006%252C9426927%252C9427902%252C9428399%252C9428606%252C9428660%252C9430021%252C9431285%252C9431476%252C9431865%252C9432651%252C9433119%26initcwndbps%3D9391250%26upn%3DxnBbVtMUxWM%26sparams%3Ddur%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cupn%252Cexpire%26expire%3D1459880967%26mime%3Dvideo%252F3gpp%26sver%3D3%26itag%3D36\u0026quality=small\u0026fallback_host=tc.v7.cache3.googlevideo.com\u0026type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22\u0026itag=36,url=https%3A%2F%2Fr1---sn-3u-bh2e7.googlevideo.com%2Fvideoplayback%3Fmm%3D31%26mn%3Dsn-3u-bh2e7%26id%3Do-AAp_RzI6vb6TmwsXz7MYNr6eaidMHTacPXJfJp0YPLud%26key%3Dyt6%26signature%3DDE4C9462DA2FCFBB252E592F521738397F98CA47.9B172914256C023B662FA9F97687D83D8F136BD5%26ip%3D163.152.26.40%26requiressl%3Dyes%26pl%3D20%26mt%3D1459859212%26source%3Dyoutube%26dur%3D165.651%26mv%3Dm%26lmt%3D1389285040573945%26ms%3Dau%26ipbits%3D0%26fexp%3D9406994%252C9412776%252C9416126%252C9416891%252C9419452%252C9420452%252C9422596%252C9423662%252C9425006%252C9426927%252C9427902%252C9428399%252C9428606%252C9428660%252C9430021%252C9431285%252C9431476%252C9431865%252C9432651%252C9433119%26initcwndbps%3D9391250%26upn%3DxnBbVtMUxWM%26sparams%3Ddur%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cupn%252Cexpire%26expire%3D1459880967%26mime%3Dvideo%252F3gpp%26sver%3D3%26itag%3D17\u0026quality=small\u0026fallback_host=tc.v13.cache7.googlevideo.com\u0026type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22\u0026itag=17","videostats_playback_base_url":"https:\/\/s.youtube.com\/api\/stats\/playback?of=Erj_lmf8RnhO3anRIxpOeA\u0026fexp=9406994%2C9412776%2C9416126%2C9416891%2C9419452%2C9420452%2C9422596%2C9423662%2C9425006%2C9426927%2C9427902%2C9428399%2C9428606%2C9428660%2C9430021%2C9431285%2C9431476%2C9431865%2C9432651%2C9433119\u0026ei=p68DV8v9B8Wu4AKI94rwBw\u0026vm=CAEQAA\u0026len=166\u0026cl=118961317\u0026el=detailpage\u0026plid=AAUvu_8ELboWFMN0\u0026ns=yt\u0026docid=ovliNBwTZrQ","c":"WEB","video_id":"ovliNBwTZrQ","is_listed":"1","player_error_log_fraction":"1.0","probe_url":"https:\/\/r5---sn-vgqsenlk.googlevideo.com\/videogoodput?id=o-AGlUuKePdG425_eYbsnC1Z-NV-d5NI2NO6qZax6-epx0\u0026source=goodput\u0026range=0-4999\u0026expire=1459862967\u0026ip=163.152.26.40\u0026ms=pm\u0026mm=35\u0026pl=24\u0026nh=IgpwcjAyLm9yZDEyKgkxMjcuMC4wLjE\u0026sparams=id,source,range,expire,ip,ms,mm,pl,nh\u0026signature=452B753C27A52BB304C3B4D2EE82BABF4FD8A42A.1D216AC9D2231A3DD7DCC710AFDA7BD4BDEBF05D\u0026key=cms1","t":"1","fexp":"9406994,9412776,9416126,9416891,9419452,9420452,9422596,9423662,9425006,9426927,9427902,9428399,9428606,9428660,9430021,9431285,9431476,9431865,9432651,9433119","plid":"AAUvu_8ELboWFMN0","iurl":"https:\/\/i.ytimg.com\/vi\/ovliNBwTZrQ\/hqdefault.jpg","enablejsapi":"1","iurlhq":"https:\/\/i.ytimg.com\/vi\/ovliNBwTZrQ\/hqdefault.jpg","iv_module":"https:\/\/s.ytimg.com\/yts\/swfbin\/player-vflk7j8ow\/iv_module.swf","iurlsd":"https:\/\/i.ytimg.com\/vi\/ovliNBwTZrQ\/sddefault.jpg","avg_rating":"4.93079566956","idpj":"-5","tmi":"1","pyv_ad_channel":"","host_language":"en","title":"Official Seaside Heights Boardwalk Construction Time-Lapse","innertube_context_client_version":"1.20160404","token":"1","iv_load_policy":"1","pltype":"contentugc","vmap":"\u003c?xml version=\"1.0\" encoding=\"UTF-8\"?\u003e\u003cvmap:VMAP xmlns:vmap=\"http:\/\/www.iab.net\/videosuite\/vmap\" xmlns:yt=\"http:\/\/youtube.com\" version=\"1.0\"\u003e\u003c\/vmap:VMAP\u003e","of":"Erj_lmf8RnhO3anRIxpOeA","cver":"1.20160404","eventid":"p68DV8v9B8Wu4AKI94rwBw","ssl":"1","no_get_video_log":"1","iurlmaxres":"https:\/\/i.ytimg.com\/vi\/ovliNBwTZrQ\/maxresdefault.jpg","show_pyv_in_related":false,"view_count":"93862","fmt_list":"22\/1280x720\/9\/0\/115,43\/640x360\/99\/0\/0,18\/640x360\/9\/0\/115,5\/426x240\/7\/0\/0,36\/320x180\/99\/1\/0,17\/176x144\/99\/1\/0","cl":"118961317","cr":"KR","apiary_host":"","atc":"a=3\u0026b=A66iW8K-NUh_7tLAugBBwK50QWs\u0026c=1459859367\u0026d=1\u0026e=ovliNBwTZrQ\u0026c3a=28\u0026c1a=1\u0026c6a=1\u0026hh=C5tF5crb6nbmBXLfJglaEyCkUTI","author":"EarthCam","account_playback_token":"QUFFLUhqbU5pckVOaDBBSXcxUG03NXo2ejVTMUl6ZnhiZ3xBQ3Jtc0ttcEJST2FwbDBuYXhXWThSYjh0bkxCclpKcVNqcm1yVnF3M2lTVXBmeVVhZjBiR21Tb1Z2aEZJVERiSzdEeDJab3c4QmZ3WS03QUxzVm9PRk14aEdmQWRJVDB4dmxWd0xRdzhMZmVXZl9PdlVVc2ZJUQ==","length_seconds":"166","innertube_api_key":"AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8","iv3_module":"1","innertube_api_version":"v1","hl":"en_US","ldpj":"-30","ptk":"youtube_none","enablecsi":"1","apiary_host_firstparty":"","watermark":",https:\/\/s.ytimg.com\/yts\/img\/watermark\/youtube_watermark-vflHX6b6E.png,https:\/\/s.ytimg.com\/yts\/img\/watermark\/youtube_hd_watermark-vflAzLcD6.png","gapi_hint_params":"m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.1MqgDU3zZ20.O\/m=__features__\/rt=j\/d=1\/rs=AHpOoo_KZf1llAl4VsToQWFFf6-n5A3H0g","itct":"CAMQu2kiEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0=","loaderUrl":"https:\/\/www.youtube.com\/watch?v=ovliNBwTZrQ","csi_page_type":"watch,watch7_html5","fflags":"enable_endscreen_moving_thumbnails_flag_check=false\u0026launch_new_wallet_api=true\u0026enable_yt_music_lp=true\u0026april_fools_search_enabled=false\u0026html5_force_play_on_suspend_event=false\u0026dynamic_ad_break_seek_threshold_sec=0\u0026generate_shopping_companions_on_desktop=false\u0026tv_player_heartbeats=true\u0026html5_always_underrun_on_empty_buffer=false\u0026dash_html5_refresh_mapping_interval=0\u0026high_res_timestamps=true\u0026autonav_notifications=false\u0026cards_drawer_auto_open_duration=-1\u0026enable_html5_spherical_direction_logging=true\u0026enable_spherical3d_firefox_opera=false\u0026fix_backfill_mpu_api_stats_ads=false\u0026use_html5_ad_break_renderer_for_mweb=false\u0026enable_0s_skip_for_surveys=false\u0026teaser_on_button_hover=false\u0026log_backfill_requests=true\u0026flex_theater_mode=false\u0026april_fools_service_name=SnoopaVision\u0026yto_enable_unlimited_landing_page_yto_features=true\u0026player_scaling_360p_to_720p=false\u0026edge_nonprefixed_eme=false\u0026enable_why_this_ad_for_desktop=false\u0026yto_feature_hub_channel=false\u0026shopping_card_icon_with_teaser=false\u0026related_menu=false\u0026html5_bandwidth_window_size=0\u0026enable_ad_video_end_renderers=false\u0026html5_live_only_stick_to_head=true\u0026use_cougar_ads_ui=false\u0026desktop_send_instream_ad_complete_ping=false\u0026fill_endscreen_moving_thumbnails=false\u0026april_fools_watch_player_button_enabled=false\u0026moving_thumbnails_autonav=false\u0026doubleclick_gpt_retagging=false\u0026hover_card_for_video_card_teaser=false\u0026ad_info_icon_in_card=false\u0026video_wall_moving_thumbnails_first=false\u0026enable_stereo3d_ie_firefox_opera=true\u0026html5_strip_emsg_lite=false\u0026html5_multicam=true\u0026video_wall_pagination=false\u0026shopping_card_icon_hover_blue=false\u0026big_buffers_for_anchovy=false\u0026html5_force_play_on_suspend_event_limited=false\u0026html5_use_tight_max_buffer_depth=false\u0026probability_to_change_skip=0.0\u0026html5_firefox_always_vp9=false\u0026always_request_animation_frame=false\u0026native_controls_assume_media_volume=true\u0026disable_new_pause_state3=true\u0026tote_otf_inline_hls_manifests=true\u0026shopping_card_icon_without_teaser=false\u0026html5_use_server_bandwidth_estimate=true\u0026cleanup_text_overlay_spam_signals=false\u0026april_fools_enabled=true\u0026april_fools_watch_related_enabled=false\u0026dynamic_ad_break_pause_threshold_sec=0\u0026html5_streaming_xhr=false\u0026yto_enable_ytr_promo_refresh_assets=true\u0026april_fools_360_video_id_list=8awqtaD3LAI:PkiImnukZAw,98LoiMZ59Jw:M3l6mM3qVzk,MX0D4oZwCsA:F_nBHsBZusc,1v1RR8vCbnI:aOLTUYTkCCU,NMbM-ERy2Lk:ClgB_hmSMoM,KK67kaMWN-8:BiuEOSQU-WU,hmQN95ROBcI:jTiYCw6OhZE,2vcJibyBRAM:nh3jD2Oddmg,FcN08Tg3PWw:V47pFY9K4eg,1ZLN9AzxVa8:wmi_ve62hu0\u0026html5_tight_max_buffer_allowed_bandwidth_stddevs=0.0\u0026fix_afc_mpu_api_stats_ads=true\u0026html5_clear_on_invalid_state=true\u0026use_html5_ad_break_renderer_for_web_gaming=false\u0026use_smaller_session_tempdata_cookie_name=true\u0026html5_deadzone_multiplier=1.0\u0026legacy_autoplay_flag=true\u0026product_listing_ads_cards_drawer_auto_open=false\u0026better_mobile_in_player=false\u0026sidebar_renderers=true\u0026white_noise_with_interval=false\u0026disable_monetization_on_indisplay_playbacks=false\u0026live_chunk_readahead=3\u0026drawer_peek=false\u0026html5_playing_event_buffer_underrun=true\u0026enable_dynamic_ad_break=false\u0026use_fake_html5_ad_renderer=false\u0026mweb_cougar=false\u0026legacy_poster_behavior=true\u0026hover_card_on_button_hover=false\u0026ios_path_probe_enabled=true\u0026html5_dash_mpd_version=3\u0026cards_drawer_auto_open_offset=0\u0026april_fools_country_blacklist=element:'AE',element:'AF',element:'AR',element:'BH',element:'CL',element:'CU',element:'DZ',element:'EG',element:'ID',element:'IQ',element:'IR',element:'JO',element:'JP',element:'KP',element:'KR',element:'KW',element:'LB',element:'LY',element:'MA',element:'MY',element:'OM',element:'PE',element:'PK',element:'PS',element:'QA',element:'SA',element:'SY',element:'TH',element:'TN',element:'TW',element:'YE'\u0026desktop_block_progress_events_after_ad_skip=false\u0026html5_request_sizing_multiplier=0.8\u0026log_it_display_tree=true\u0026enable_probabilistic_show_nonskip_as_skip=false\u0026video_wall_storyboards_mouse_x=false\u0026enable_audio_cast=true\u0026video_wall_redesign=false\u0026use_html5_ad_break_renderer_for_embed=false\u0026mweb_generate_cpn_on_page=false\u0026html5_tight_max_buffer_allowed_impaired_time=0.0\u0026april_fools_watch_redirect_enabled=false\u0026enable_probabilistic_show_skip_as_nonskip=false\u0026ad_video_end_disable_auto_open_drawer=false\u0026html5_nonfatal_invalid_state=true\u0026cards_drawer_auto_open=false\u0026enable_spherical3d_ie=true\u0026html5_live_disable_dg_pacing=true\u0026april_fools_landing_page_redirect_url=\/playlist?list=PLbpi6ZahtOH4TalzBzHHczrUgJL7vsDdG\u0026html5_live_nonzero_first_segment_start_time=false\u0026mweb_uniplayer_disable_adaptation=false\u0026log_teaser_hover=false\u0026merge_button_with_teaser=false\u0026shopping_card_icon_always_visible=false\u0026ui_logging=false\u0026april_fools_hero_video_id=DPEJB-FCItk\u0026yto_enable_watch_offer_module=true\u0026dash_html5_refresh_mapping_min_buffer=0\u0026html5_keep_dash_mpd_origin=false\u0026use_html5_ad_break_renderer=false\u0026video_wall_moving_thumbnails_autoplay=false\u0026combined_teaser_link=false\u0026new_ended_replay=false\u0026remove_survey_nota_line=false\u0026send_presence_signal_vis_desktop=true\u0026kids_enable_latam_lp=true\u0026mweb_cougar_big_controls=false\u0026html5_crossorigin_video=false\u0026video_wall_moving_thumbnails_hover=false\u0026endscreen_204_logging=false\u0026html5_enable_aac_51_clear=false\u0026html5_strip_emsg=true\u0026shopping_card_badge_enabled=false","allow_embed":"1","ucid":"UC6qrG3W8SMK0jior2olka3g"},"html5":true,"messages":{"player_fallback":["Adobe Flash Player or an HTML5 supported browser is required for video playback.\u003cbr\u003e\u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eGet the latest Flash Player \u003c\/a\u003e\u003cbr\u003e\u003ca href=\"\/html5\"\u003eLearn more about upgrading to an HTML5 browser\u003c\/a\u003e"]},"assets":{"css":"\/\/s.ytimg.com\/yts\/cssbin\/www-player-vflzrH8eR.css","js":"\/\/s.ytimg.com\/yts\/jsbin\/player-en_US-vfl9xTY8I\/base.js"}};ytplayer.load = function() {yt.player.Application.create("player-api", ytplayer.config);ytplayer.config.loaded = true;};(function() {if (!!window.yt && yt.player && yt.player.Application) {ytplayer.load();}}());</script>
+
+
+    <div id="watch-queue-mole" class="video-mole mole-collapsed hid"><div id="watch-queue" class="watch-playlist player-height"><div class="main-content"><div class="watch-queue-header"><div class="watch-queue-info"><div class="watch-queue-info-icon"><span class="tv-queue-list-icon yt-sprite"></span></div><h3 class="watch-queue-title">Watch Queue</h3><h3 class="tv-queue-title">Queue</h3><span class="tv-queue-details"></span></div><div class="watch-queue-control-bar control-bar-button"><div class="watch-queue-mole-info"><div class="watch-queue-control-bar-icon"><span class="watch-queue-icon yt-sprite"></span></div><div class="watch-queue-title-container"><span class="watch-queue-count"></span><span class="watch-queue-title">Watch Queue</span><span class="tv-queue-title">Queue</span></div></div>  <span class="dark-overflow-action-menu">
+    
+    
+    <button aria-haspopup="true" type="button" class="flip control-bar-button yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" aria-expanded="false" aria-label="Actions for the queue" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid" role="menu" aria-haspopup="true"><li role="menuitem"><span data-action="remove-all" class="watch-queue-menu-choice overflow-menu-choice yt-uix-button-menu-item" onclick=";return false;" >Remove all</span></li><li role="menuitem"><span data-action="disconnect" class="watch-queue-menu-choice overflow-menu-choice yt-uix-button-menu-item" onclick=";return false;" >Disconnect</span></li></ul></button>
+  </span>
+  <div class="watch-queue-controls">
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button prev-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Previous video"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-prev yt-sprite"></span></span></button>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button play-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Play"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-play yt-sprite"></span></span></button>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button pause-watch-queue-button yt-uix-button-opacity yt-uix-tooltip hid yt-uix-tooltip" type="button" onclick=";return false;" title="Pause"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-pause yt-sprite"></span></span></button>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button next-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Next video"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-next yt-sprite"></span></span></button>
+  </div>
+</div></div><div class="watch-queue-items-container yt-scrollbar-dark yt-scrollbar"><ol class="watch-queue-items-list playlist-videos-list yt-uix-scroller" data-scroll-action="yt.www.watchqueue.loadThumbnails">  <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+</ol></div></div>  <div class="hid">
+    <div id="watch-queue-title-msg">
+Watch Queue
+    </div>
+
+    <div id="tv-queue-title-msg">Queue</div>
+
+    <div id="watch-queue-count-msg">
+__count__/__total__
+    </div>
+
+    <div id="watch-queue-loading-template">
+      <!--
+          <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+      -->
+    </div>
+  </div>
+</div></div>
+    <div id="player-playlist" class="  content-alignment    watch-player-playlist  ">
+          
+
+    </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div><div id="content" class="  content-alignment" role="main">      <div id="placeholder-player">
+    <div class="player-api player-width player-height"></div>
+  </div>
+
+  <div id="watch7-container" class="">
+      <div id="watch7-main-container">
+    <div id="watch7-main" class="clearfix">
+      <div id="watch7-preview" class="player-width player-height hid">
+      </div>
+      <div id="watch7-content" class="watch-main-col " itemscope itemid="" itemtype="http://schema.org/VideoObject"
+      >
+            <link itemprop="url" href="https://www.youtube.com/watch?v=ovliNBwTZrQ">
+    <meta itemprop="name" content="Official Seaside Heights Boardwalk Construction Time-Lapse">
+    <meta itemprop="description" content="Watch and share this time-lapse movie, documenting the rebuilding of the Seaside Heights, NJ boardwalk. Watch this post-Sandy Jersey Shore town come alive in...">
+    <meta itemprop="paid" content="False">
+
+      <meta itemprop="channelId" content="UC6qrG3W8SMK0jior2olka3g">
+      <meta itemprop="videoId" content="ovliNBwTZrQ">
+
+      <meta itemprop="duration" content="PT2M46S">
+      <meta itemprop="unlisted" content="False">
+
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <link itemprop="url" href="http://www.youtube.com/user/earthcam">
+        </span>
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <link itemprop="url" href="https://plus.google.com/110327045314723427895">
+        </span>
+
+    <link itemprop="thumbnailUrl" href="https://i.ytimg.com/vi/ovliNBwTZrQ/maxresdefault.jpg">
+    <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject">
+      <link itemprop="url" href="https://i.ytimg.com/vi/ovliNBwTZrQ/maxresdefault.jpg">
+      <meta itemprop="width" content="1280">
+      <meta itemprop="height" content="720">
+    </span>
+
+      <link itemprop="embedURL" href="https://www.youtube.com/embed/ovliNBwTZrQ">
+      <meta itemprop="playerType" content="HTML5 Flash">
+      <meta itemprop="width" content="1280">
+      <meta itemprop="height" content="720">
+
+      <meta itemprop="isFamilyFriendly" content="True">
+      <meta itemprop="regionsAllowed" content="AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW">
+      <meta itemprop="interactionCount" content="93862">
+      <meta itemprop="datePublished" content="2013-05-22">
+      <meta itemprop="genre" content="Entertainment">
+
+              <div id="watch7-speedyg-area">
+      <div class="yt-alert yt-alert-actionable yt-alert-info hid " id="speedyg-template">  <div class="yt-alert-icon">
+    <span class="icon master-sprite yt-sprite"></span>
+  </div>
+<div class="yt-alert-content" role="alert">    <div class="yt-alert-message">
+    </div>
+</div><div class="yt-alert-buttons"><a href="https://www.google.com/get/videoqualityreport/?v=ovliNBwTZrQ" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-alert-info yt-uix-button-size-small" data-sessionlink="ei=p68DV8v9B8Wu4AKI94rwBw" id="speedyg-link" target="_blank"><span class="yt-uix-button-content">Find out why</span></a><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" type="button" onclick=";return false;" aria-label="Close" data-close-parent-class="yt-alert"><span class="yt-uix-button-content">Close</span></button></div></div>
+    </div>
+
+        <div id="watch-header" class="yt-card yt-card-has-padding">
+      <div id="watch7-headline" class="clearfix">
+    <div id="watch-headline-title">
+      <h1 class="yt watch-title-container" >
+        
+
+  <span id="eow-title" class="watch-title " dir="ltr" title="Official Seaside Heights Boardwalk Construction Time-Lapse">
+    Official Seaside Heights Boardwalk Construction Time-Lapse
+  </span>
+
+      </h1>
+    </div>
+  </div>
+
+    <div id="watch7-user-header" class=" spf-link ">  <a href="/user/earthcam" class="yt-uix-sessionlink yt-user-photo g-hovercard      spf-link " data-ytid="UC6qrG3W8SMK0jior2olka3g" data-sessionlink="itct=CDEQ4TkiEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0">
+      <span class="video-thumb  yt-thumb yt-thumb-48 g-hovercard"
+      data-ytid="UC6qrG3W8SMK0jior2olka3g"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="EarthCam" data-thumb="https://yt3.ggpht.com/-LB9Z66LKb5I/AAAAAAAAAAI/AAAAAAAAAAA/TnroNv0L2cY/s88-c-k-no-rj-c0xffffff/photo.jpg" width="48" height="48" >
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+
+  </a>
+  <div class="yt-user-info">
+    <a href="/channel/UC6qrG3W8SMK0jior2olka3g" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UC6qrG3W8SMK0jior2olka3g" data-sessionlink="itct=CDEQ4TkiEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0" >EarthCam</a>
+  </div>
+<span id="watch7-subscription-container"><span class=" yt-uix-button-subscription-container"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-subscribe-branded yt-uix-button-has-icon no-icon-markup yt-uix-subscription-button yt-can-buffer" type="button" onclick=";return false;" aria-busy="false" aria-live="polite" data-channel-external-id="UC6qrG3W8SMK0jior2olka3g" data-style-type="branded" data-href="https://accounts.google.com/ServiceLogin?passive=true&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dsubscribe%26hl%3Den%26next%3D%252Fchannel%252FUC6qrG3W8SMK0jior2olka3g%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqa3JvZVRYcDdRcGZqOHBaeGo3RFdSZzBHd2NWUXxBQ3Jtc0tuVkRXTG1KMFBidFRkSzlobi1pei1lSnZESDFUWVYtLVZPQk1PVmpMdW84Wngtb19QZDlTb2hzR0VrN2UyRVI3d24zS0szM3hwWmY5MWJaZ1JGd24wUUVubDhrSFNPV2RMcjkzajVNQ3ZOOFpyc3pmclJDcGtSUWEwZm4xNDNQaTZ4UE5OMXZheTBXWnNWakktLURLNjNaUHJzV0hRNFV2SXctdlNCU0txX1FTUUVGZVRTR3VXUnFrazRMSXpxeUYwdTBFSjR3Q2E5LWxhUDhocUEtVzZYdUtLemN3%26app%3Ddesktop&amp;uilel=3&amp;service=youtube&amp;hl=en" data-clicktracking="itct=CDIQmysiEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0yBXdhdGNo"><span class="yt-uix-button-content"><span class="subscribe-label" aria-label="Subscribe">Subscribe</span><span class="subscribed-label" aria-label="Unsubscribe">Subscribed</span><span class="unsubscribe-label" aria-label="Unsubscribe">Unsubscribe</span></span></button><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon yt-uix-subscription-preferences-button" type="button" onclick=";return false;" aria-label="Subscription preferences" aria-role="button" aria-busy="false" aria-live="polite" data-channel-external-id="UC6qrG3W8SMK0jior2olka3g"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-subscription-preferences yt-sprite"></span></span></button><span class="yt-subscription-button-subscriber-count-branded-horizontal yt-subscriber-count" title="21,682" aria-label="21,682" tabindex="0">21,682</span><span class="yt-subscription-button-subscriber-count-branded-horizontal yt-short-subscriber-count" title="21K" aria-label="21K" tabindex="0">21K</span>  
+  <div class="yt-uix-overlay "  data-overlay-style="primary" data-overlay-shape="tiny">
+    
+        <div class="yt-dialog hid ">
+    <div class="yt-dialog-base">
+      <span class="yt-dialog-align"></span>
+      <div class="yt-dialog-fg" role="dialog">
+        <div class="yt-dialog-fg-content">
+          <div class="yt-dialog-loading">
+              <div class="yt-dialog-waiting-content">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+          </div>
+          <div class="yt-dialog-content">
+              <div class="subscription-preferences-overlay-content-container">
+    <div class="subscription-preferences-overlay-loading ">
+        <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+    <div class="subscription-preferences-overlay-content">
+    </div>
+  </div>
+
+          </div>
+          <div class="yt-dialog-working">
+              <div class="yt-dialog-working-overlay"></div>
+  <div class="yt-dialog-working-bubble">
+    <div class="yt-dialog-waiting-content">
+        <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+        Working...
+    </span>
+  </p>
+
+      </div>
+  </div>
+
+          </div>
+        </div>
+        <div class="yt-dialog-focus-trap" tabindex="0"></div>
+      </div>
+    </div>
+  </div>
+
+
+  </div>
+
+</span></span></div>
+    <div id="watch8-action-buttons" class="watch-action-buttons clearfix"><div id="watch8-secondary-actions" class="watch-secondary-actions yt-uix-button-group" data-button-toggle-group="optional">    <span class="yt-uix-clickcard">
+      <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup yt-uix-clickcard-target addto-button pause-resume-autoplay yt-uix-tooltip" type="button" onclick=";return false;" title="Add to" data-position="bottomleft" data-orientation="vertical"><span class="yt-uix-button-content">Add to</span></button>
+        <div class="signin-clickcard yt-uix-clickcard-content">
+    <h3 class="signin-clickcard-header">Want to watch this again later?</h3>
+    <div class="signin-clickcard-message">
+      Sign in to add this video to a playlist.
+    </div>
+    <a href="https://accounts.google.com/ServiceLogin?passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3D__FEATURE__%26hl%3Den%26next%3D%252Fwatch%253Fv%253DovliNBwTZrQ&amp;uilel=3&amp;service=youtube&amp;hl=en" class="yt-uix-button  signin-button yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=p68DV8v9B8Wu4AKI94rwBw"><span class="yt-uix-button-content">Sign in</span></a>
+  </div>
+
+    </span>
+  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup pause-resume-autoplay action-panel-trigger action-panel-trigger-share   yt-uix-tooltip" type="button" onclick=";return false;" title="Share
+" data-trigger-for="action-panel-share" data-button-toggle="true"><span class="yt-uix-button-content">Share
+</span></button>
+<div class="yt-uix-menu " >  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup pause-resume-autoplay yt-uix-menu-trigger yt-uix-tooltip" type="button" onclick=";return false;" aria-haspopup="true" aria-pressed="false" role="button" title="More actions" aria-label="Action menu." id="action-panel-overflow-button"><span class="yt-uix-button-content">More</span></button>
+<div class="yt-uix-menu-content yt-ui-menu-content yt-uix-menu-content-hidden" role="menu"><ul id="action-panel-overflow-menu">  <li>
+      <span class="yt-uix-clickcard" data-card-class=report-card>
+          <button type="button" class="yt-ui-menu-item has-icon action-panel-trigger action-panel-trigger-report report-button yt-uix-clickcard-target"
+ data-position="topright" data-orientation="horizontal">
+    <span class="yt-ui-menu-item-label">Report</span>
+  </button>
+
+          <div class="signin-clickcard yt-uix-clickcard-content">
+    <h3 class="signin-clickcard-header">Need to report the video?</h3>
+    <div class="signin-clickcard-message">
+      Sign in to report inappropriate content.
+    </div>
+    <a href="https://accounts.google.com/ServiceLogin?passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3D__FEATURE__%26hl%3Den%26next%3D%252Fwatch%253Fv%253DovliNBwTZrQ&amp;uilel=3&amp;service=youtube&amp;hl=en" class="yt-uix-button  signin-button yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=p68DV8v9B8Wu4AKI94rwBw"><span class="yt-uix-button-content">Sign in</span></a>
+  </div>
+
+      </span>
+  </li>
+  <li>
+        <button type="button" class="yt-ui-menu-item has-icon yt-uix-menu-close-on-select action-panel-trigger action-panel-trigger-stats"
+ data-trigger-for="action-panel-stats">
+    <span class="yt-ui-menu-item-label">Statistics</span>
+  </button>
+
+  </li>
+</ul></div></div></div><div id="watch8-sentiment-actions"><div id="watch7-views-info"><div class="watch-view-count">93,862</div>
+  <div class="video-extras-sparkbars">
+    <div class="video-extras-sparkbar-likes" style="width: 98.2698961938%"></div>
+    <div class="video-extras-sparkbar-dislikes" style="width: 1.73010380623%"></div>
+  </div>
+</div>
+
+
+
+
+
+  <span class="like-button-renderer " data-button-toggle-group="optional" >
+    <span class="yt-uix-clickcard">
+      <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup like-button-renderer-like-button like-button-renderer-like-button-unclicked yt-uix-clickcard-target   yt-uix-tooltip" type="button" onclick=";return false;" aria-label="like this video along with 284 other people" title="I like this" data-force-position="true" data-orientation="vertical" data-position="bottomright"><span class="yt-uix-button-content">284</span></button>
+          <div class="signin-clickcard yt-uix-clickcard-content">
+    <h3 class="signin-clickcard-header">Like this video?</h3>
+    <div class="signin-clickcard-message">
+      Sign in to make your opinion count.
+    </div>
+    <a href="https://accounts.google.com/ServiceLogin?passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3D__FEATURE__%26hl%3Den%26next%3D%252Fwatch%253Fv%253DovliNBwTZrQ&amp;uilel=3&amp;service=youtube&amp;hl=en" class="yt-uix-button  signin-button yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=p68DV8v9B8Wu4AKI94rwBw"><span class="yt-uix-button-content">Sign in</span></a>
+  </div>
+
+    </span>
+    <span class="yt-uix-clickcard">
+      <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup like-button-renderer-like-button like-button-renderer-like-button-clicked yt-uix-button-toggled  hid yt-uix-tooltip" type="button" onclick=";return false;" aria-label="like this video along with 284 other people" title="Unlike" data-force-position="true" data-orientation="vertical" data-position="bottomright"><span class="yt-uix-button-content">285</span></button>
+    </span>
+    <span class="yt-uix-clickcard">
+      <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup like-button-renderer-dislike-button like-button-renderer-dislike-button-unclicked yt-uix-clickcard-target   yt-uix-tooltip" type="button" onclick=";return false;" aria-label="dislike this video along with 5 other people" title="I dislike this" data-force-position="true" data-orientation="vertical" data-position="bottomright"><span class="yt-uix-button-content">5</span></button>
+          <div class="signin-clickcard yt-uix-clickcard-content">
+    <h3 class="signin-clickcard-header">Don't like this video?</h3>
+    <div class="signin-clickcard-message">
+      Sign in to make your opinion count.
+    </div>
+    <a href="https://accounts.google.com/ServiceLogin?passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3D__FEATURE__%26hl%3Den%26next%3D%252Fwatch%253Fv%253DovliNBwTZrQ&amp;uilel=3&amp;service=youtube&amp;hl=en" class="yt-uix-button  signin-button yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=p68DV8v9B8Wu4AKI94rwBw"><span class="yt-uix-button-content">Sign in</span></a>
+  </div>
+
+    </span>
+    <span class="yt-uix-clickcard">
+      <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup like-button-renderer-dislike-button like-button-renderer-dislike-button-clicked yt-uix-button-toggled  hid yt-uix-tooltip" type="button" onclick=";return false;" aria-label="dislike this video along with 5 other people" title="I dislike this" data-force-position="true" data-orientation="vertical" data-position="bottomright"><span class="yt-uix-button-content">6</span></button>
+    </span>
+  </span>
+</div></div>
+  </div>
+
+
+
+      <div id="watch-action-panels" class="watch-action-panels yt-uix-button-panel hid yt-card yt-card-has-padding">
+      <div id="action-panel-share" class="action-panel-content hid">
+      <div id="watch-actions-share-loading">
+    <div class="action-panel-loading">
+        <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+  </div>
+  <div id="watch-actions-share-panel"></div>
+
+  </div>
+
+      <div id="action-panel-stats" class="action-panel-content hid">
+    <div class="action-panel-loading">
+        <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+      <div id="action-panel-report" class="action-panel-content hid"
+      data-auth-required="true"
+  >
+    <div class="action-panel-loading">
+        <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+    </div>
+  </div>
+
+    
+  <div id="action-panel-rental-required" class="action-panel-content hid">
+      <div id="watch-actions-rental-required">
+    <strong>Rating is available when the video has been rented.</strong>
+  </div>
+
+  </div>
+
+  <div id="action-panel-error" class="action-panel-content hid">
+    <div class="action-panel-error">
+      This feature is not available right now. Please try again later.
+    </div>
+  </div>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup yt-uix-button-opacity yt-uix-close" type="button" onclick=";return false;" aria-label="Close" id="action-panel-dismiss" data-close-parent-id="watch8-action-panels"></button>
+  </div>
+
+  <div id="action-panel-details" class="action-panel-content yt-uix-expander yt-card yt-card-has-padding yt-uix-expander-collapsed"><div id="watch-description" class="yt-uix-button-panel"><div id="watch-description-content"><div id="watch-description-clip"><div id="watch-uploader-info"><strong class="watch-time-text">Published on May 22, 2013</strong></div><div id="watch-description-text" class=""><p id="eow-description" >Watch and share this time-lapse movie, documenting the rebuilding of the Seaside Heights, NJ boardwalk. Watch this post-Sandy Jersey Shore town come alive in this movie, complete with thematic music. Progress was captured from March 18-May 21, 2013 by EarthCam's construction camera.</p></div>  <div id="watch-description-extras" >
+    <ul class="watch-extras-section">
+            <li class="watch-meta-item yt-uix-expander-body">
+    <h4 class="title">
+      Category
+    </h4>
+    <ul class="content watch-info-tag-list">
+        <li><a href="/channel/UCi-g4cjqGV7jvU8aeSuj0jQ" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UCi-g4cjqGV7jvU8aeSuj0jQ" data-sessionlink="ei=p68DV8v9B8Wu4AKI94rwBw" >Entertainment</a></li>
+    </ul>
+  </li>
+
+            <li class="watch-meta-item yt-uix-expander-body">
+    <h4 class="title">
+      License
+    </h4>
+    <ul class="content watch-info-tag-list">
+        <li>Standard YouTube License</li>
+    </ul>
+  </li>
+
+    </ul>
+  </div>
+</div></div></div>  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-expander yt-uix-expander-head yt-uix-expander-collapsed-body yt-uix-gen204" type="button" onclick=";return false;" data-gen204="feature=watch-show-more-metadata"><span class="yt-uix-button-content">Show more</span></button>
+  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-expander yt-uix-expander-head yt-uix-expander-body" type="button" onclick=";return false;"><span class="yt-uix-button-content">Show less</span></button>
+</div>
+
+        <div id="watch-discussion" class="branded-page-box yt-card">
+      <div id="comment-section-renderer"
+          class="comment-section-renderer vve-check comment-section-renderer-il"
+          data-visibility-tracking="CC0Quy8iEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0=">
+          <div class="action-panel-loading">
+              <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+          </div>
+      </div>
+  </div>
+
+
+      </div>
+      <div id="watch7-sidebar" class="watch-sidebar">
+            <div id="placeholder-playlist" class="watch-playlist player-height  hid"></div>
+
+
+  <div id="watch7-sidebar-contents" class="watch-sidebar-gutter   yt-card yt-card-has-padding    yt-uix-expander yt-uix-expander-collapsed">
+      <div id="watch7-sidebar-offer">
+        
+      </div>
+
+    <div id="watch7-sidebar-ads">
+      
+    </div>
+    <div id="watch7-sidebar-modules">
+          <div class="watch-sidebar-section">
+    <div class="autoplay-bar">
+      <div class="checkbox-on-off">
+       <label for="autoplay-checkbox">Autoplay</label>
+       <span class="autoplay-hovercard yt-uix-hovercard">
+          <span class="autoplay-info-icon yt-uix-button-opacity yt-uix-hovercard-target yt-sprite" data-position="topright" data-orientation="vertical"></span>
+<span class="yt-uix-hovercard-content">When autoplay is enabled, a suggested video will automatically play next.</span>        </span>
+          <span class="yt-uix-checkbox-on-off ">
+<input id="autoplay-checkbox" class="" type="checkbox"  checked><label for="autoplay-checkbox" id="autoplay-checkbox-label"><span class="checked"></span><span class="toggle"></span><span class="unchecked"></span></label>  </span>
+
+      </div>
+      <h4 class="watch-sidebar-head">
+          Up next
+      </h4>
+            <div class="watch-sidebar-body">
+      <ul class="video-list">
+        <li class="video-list-item related-list-item show-video-time">
+          
+
+    <div class="content-wrapper">
+    <a href="/watch?v=0S0awbKvspk" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CBcQpDAYACITCIvt__e_98sCFUUXWAodiLsCfij4HTIHYXV0b25hdki0zc3gwcbY_KIB" rel="spf-prefetch" title="Urban Exploration: Seaside Heights Pier Wreckage from Sandy - NJ" data-visibility-tracking="CBcQpDAYACITCIvt__e_98sCFUUXWAodiLsCfij4HUCZ5b6Vm9jGltEB" >
+  <span dir="ltr" class="title" aria-describedby="description-id-741060">
+    Urban Exploration: Seaside Heights Pier Wreckage from Sandy - NJ
+  </span>
+  <span class="accessible-description" id="description-id-741060">
+     - Duration: 17:51.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UCKqd8571wN5hD0-odzr9jgg" data-name="autonav">TheUnknownCameraman</span></span>
+  <span class="stat view-count">135,194 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=0S0awbKvspk" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CBcQpDAYACITCIvt__e_98sCFUUXWAodiLsCfij4HTIHYXV0b25hdki0zc3gwcbY_KIB" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CBcQpDAYACITCIvt__e_98sCFUUXWAodiLsCfij4HUCZ5b6Vm9jGltEB" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="0S0awbKvspk"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/0S0awbKvspk/default.jpg" ></span></a>
+        <span class="video-time">
+      17:51
+    </span>
+
+  </div>
+
+
+        </li>
+      </ul>
+    </div>
+
+    </div>
+  </div>
+
+        
+          <div class="watch-sidebar-section">
+      <hr class="watch-sidebar-separation-line">
+    <div class="watch-sidebar-body">
+      <ul id="watch-related" class="video-list">
+            <li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=5XnGtvvuk0Y" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CCsQpDAYACITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" title="Hurricane Sandy Super Storm - During &amp; After - Monmouth Beach NJ 2012" data-visibility-tracking="CCsQpDAYACITCIvt__e_98sCFUUXWAodiLsCfij4HUDGprrf79bxvOUB" >
+  <span dir="ltr" class="title" aria-describedby="description-id-725100">
+    Hurricane Sandy Super Storm - During &amp; After - Monmouth Beach NJ 2012
+  </span>
+  <span class="accessible-description" id="description-id-725100">
+     - Duration: 17:19.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UCB2NLUl35E-3cZEIxb70fpQ" data-name="related">jonnyfury</span></span>
+  <span class="stat view-count">173,771 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=5XnGtvvuk0Y" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CCsQpDAYACITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CCsQpDAYACITCIvt__e_98sCFUUXWAodiLsCfij4HUDGprrf79bxvOUB" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="5XnGtvvuk0Y"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/5XnGtvvuk0Y/default.jpg" ></span></a>
+        <span class="video-time">
+      17:19
+    </span>
+
+  </div>
+
+</li><li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=6DoH6X1Fa-I" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CCoQpDAYASITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" title="The Seaside Boardwalk Fire on 9-12-2013 in NJ - Raw HD Footage of Funtown Pier" data-visibility-tracking="CCoQpDAYASITCIvt__e_98sCFUUXWAodiLsCfij4HUDi15Xql_2BnegB" >
+  <span dir="ltr" class="title" aria-describedby="description-id-291031">
+    The Seaside Boardwalk Fire on 9-12-2013 in NJ - Raw HD Footage of Funtown Pier
+  </span>
+  <span class="accessible-description" id="description-id-291031">
+     - Duration: 55:59.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UCHXxWNXKg00V9J_iI0tatZw" data-name="related">greenrosetv</span></span>
+  <span class="stat view-count">27,974 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=6DoH6X1Fa-I" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CCoQpDAYASITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CCoQpDAYASITCIvt__e_98sCFUUXWAodiLsCfij4HUDi15Xql_2BnegB" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="6DoH6X1Fa-I"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/6DoH6X1Fa-I/default.jpg" ></span></a>
+        <span class="video-time">
+      55:59
+    </span>
+
+  </div>
+
+</li><li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=-dAzmsfrp2c" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CCkQpDAYAiITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" title="Vanishing America: Jersey Shore Boardwalks Washed Away" data-visibility-tracking="CCkQpDAYAiITCIvt__e_98sCFUUXWAodiLsCfij4HUDnzq6_rPOM6PkB" >
+  <span dir="ltr" class="title" aria-describedby="description-id-983286">
+    Vanishing America: Jersey Shore Boardwalks Washed Away
+  </span>
+  <span class="accessible-description" id="description-id-983286">
+     - Duration: 4:30.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UCBi2mrWuNuyYy4gbM6fU18Q" data-name="related">ABC News</span></span>
+  <span class="stat view-count">218,111 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=-dAzmsfrp2c" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CCkQpDAYAiITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CCkQpDAYAiITCIvt__e_98sCFUUXWAodiLsCfij4HUDnzq6_rPOM6PkB" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="-dAzmsfrp2c"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/-dAzmsfrp2c/default.jpg" ></span></a>
+        <span class="video-time">
+      4:30
+    </span>
+
+  </div>
+
+</li><li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=_G-hVZ0rIf4" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CCgQpDAYAyITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" title="Seaside Heights Sun and Fun Promo Tourism Film 1960" data-visibility-tracking="CCgQpDAYAyITCIvt__e_98sCFUUXWAodiLsCfij4HUD-w6zp2arot_wB" >
+  <span dir="ltr" class="title" aria-describedby="description-id-580972">
+    Seaside Heights Sun and Fun Promo Tourism Film 1960
+  </span>
+  <span class="accessible-description" id="description-id-580972">
+     - Duration: 16:45.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UCDXL9Ps4loHpzTua54ys-SQ" data-name="related">Peter James Smith</span></span>
+  <span class="stat view-count">265,156 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=_G-hVZ0rIf4" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CCgQpDAYAyITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CCgQpDAYAyITCIvt__e_98sCFUUXWAodiLsCfij4HUD-w6zp2arot_wB" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="_G-hVZ0rIf4"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/_G-hVZ0rIf4/default.jpg" ></span></a>
+        <span class="video-time">
+      16:45
+    </span>
+
+  </div>
+
+</li><li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=6DLrqtV7Gfo" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CCcQpDAYBCITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" title="Seaside Heights 2015: Part One" data-visibility-tracking="CCcQpDAYBCITCIvt__e_98sCFUUXWAodiLsCfij4HUD6s-yrrfW6megB" >
+  <span dir="ltr" class="title" aria-describedby="description-id-456655">
+    Seaside Heights 2015: Part One
+  </span>
+  <span class="accessible-description" id="description-id-456655">
+     - Duration: 1:15:44.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UCTikFhzCiIXfOMS7D29dvYg" data-name="related">David Di Franco</span></span>
+  <span class="stat view-count">44,170 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=6DLrqtV7Gfo" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CCcQpDAYBCITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CCcQpDAYBCITCIvt__e_98sCFUUXWAodiLsCfij4HUD6s-yrrfW6megB" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="6DLrqtV7Gfo"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/6DLrqtV7Gfo/default.jpg" ></span></a>
+        <span class="video-time">
+      1:15:44
+    </span>
+
+  </div>
+
+</li><li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=b3yeD25_sT4" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CCYQpDAYBSITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" title="Looping Roller Coaster POV Funtown Pier Seaside Heights New Jersey Shore" data-visibility-tracking="CCYQpDAYBSITCIvt__e_98sCFUUXWAodiLsCfij4HUC-4v7z9sGnvm8=" >
+  <span dir="ltr" class="title" aria-describedby="description-id-220030">
+    Looping Roller Coaster POV Funtown Pier Seaside Heights New Jersey Shore
+  </span>
+  <span class="accessible-description" id="description-id-220030">
+     - Duration: 2:44.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UCT-LpxQVr4JlrC_mYwJGJ3Q" data-name="related">Theme Park Review</span></span>
+  <span class="stat view-count">200,194 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=b3yeD25_sT4" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CCYQpDAYBSITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CCYQpDAYBSITCIvt__e_98sCFUUXWAodiLsCfij4HUC-4v7z9sGnvm8=" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="b3yeD25_sT4"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/b3yeD25_sT4/default.jpg" ></span></a>
+        <span class="video-time">
+      2:44
+    </span>
+
+  </div>
+
+</li><li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=s7_5vPTCtEI" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CCUQpDAYBiITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" title="Seaside Heights 2014: Part One" data-visibility-tracking="CCUQpDAYBiITCIvt__e_98sCFUUXWAodiLsCfij4HUDC6Iqmz7f-37MB" >
+  <span dir="ltr" class="title" aria-describedby="description-id-659062">
+    Seaside Heights 2014: Part One
+  </span>
+  <span class="accessible-description" id="description-id-659062">
+     - Duration: 56:06.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UCTikFhzCiIXfOMS7D29dvYg" data-name="related">David Di Franco</span></span>
+  <span class="stat view-count">40,185 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=s7_5vPTCtEI" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CCUQpDAYBiITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CCUQpDAYBiITCIvt__e_98sCFUUXWAodiLsCfij4HUDC6Iqmz7f-37MB" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="s7_5vPTCtEI"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/s7_5vPTCtEI/default.jpg" ></span></a>
+        <span class="video-time">
+      56:06
+    </span>
+
+  </div>
+
+</li><li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=y6Xsdx0KGfI" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CCQQpDAYByITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" title="Hurricane Sandy Seaside Heights  &quot;The Day After&quot;" data-visibility-tracking="CCQQpDAYByITCIvt__e_98sCFUUXWAodiLsCfij4HUDys6jo8Y770ssB" >
+  <span dir="ltr" class="title" aria-describedby="description-id-131913">
+    Hurricane Sandy Seaside Heights  &quot;The Day After&quot;
+  </span>
+  <span class="accessible-description" id="description-id-131913">
+     - Duration: 8:43.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UCNV1f02_496KaGSjvmQyCBg" data-name="related">theVazfamily</span></span>
+  <span class="stat view-count">21,042 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=y6Xsdx0KGfI" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CCQQpDAYByITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CCQQpDAYByITCIvt__e_98sCFUUXWAodiLsCfij4HUDys6jo8Y770ssB" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="y6Xsdx0KGfI"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/y6Xsdx0KGfI/default.jpg" ></span></a>
+        <span class="video-time">
+      8:43
+    </span>
+
+  </div>
+
+</li><li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=xE6T8dVNHWM" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CCMQpDAYCCITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" title="Seaside Heights 2015: Part Two" data-visibility-tracking="CCMQpDAYCCITCIvt__e_98sCFUUXWAodiLsCfij4HUDjurSqnf6kp8QB" >
+  <span dir="ltr" class="title" aria-describedby="description-id-945922">
+    Seaside Heights 2015: Part Two
+  </span>
+  <span class="accessible-description" id="description-id-945922">
+     - Duration: 1:14:50.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UCTikFhzCiIXfOMS7D29dvYg" data-name="related">David Di Franco</span></span>
+  <span class="stat view-count">17,300 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=xE6T8dVNHWM" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CCMQpDAYCCITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CCMQpDAYCCITCIvt__e_98sCFUUXWAodiLsCfij4HUDjurSqnf6kp8QB" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="xE6T8dVNHWM"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/xE6T8dVNHWM/default.jpg" ></span></a>
+        <span class="video-time">
+      1:14:50
+    </span>
+
+  </div>
+
+</li><li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=QRDXw0KMERE" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CCIQpDAYCSITCIvt__e_98sCFUUXWAodiLsCfij4HTIGcmVsbWZ1SLTNzeDBxtj8ogE" rel="spf-prefetch" title="Giraffe born live on EarthCam Greenville Zoo" data-visibility-tracking="CCIQpDAYCSITCIvt__e_98sCFUUXWAodiLsCfij4HUCRorCUtPi1iEE=" >
+  <span dir="ltr" class="title" aria-describedby="description-id-680505">
+    Giraffe born live on EarthCam Greenville Zoo
+  </span>
+  <span class="accessible-description" id="description-id-680505">
+     - Duration: 9:35.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UC6qrG3W8SMK0jior2olka3g" data-name="relmfu">EarthCam</span></span>
+  <span class="stat view-count">10,033 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=QRDXw0KMERE" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CCIQpDAYCSITCIvt__e_98sCFUUXWAodiLsCfij4HTIGcmVsbWZ1SLTNzeDBxtj8ogE" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CCIQpDAYCSITCIvt__e_98sCFUUXWAodiLsCfij4HUCRorCUtPi1iEE=" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="QRDXw0KMERE"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/QRDXw0KMERE/default.jpg" ></span></a>
+        <span class="video-time">
+      9:35
+    </span>
+
+  </div>
+
+</li><li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=35nlEc1F-5o" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CCEQpDAYCiITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" title="hurricane sandy sea bright NJ (live)" data-visibility-tracking="CCEQpDAYCiITCIvt__e_98sCFUUXWAodiLsCfij4HUCa95fqnKL5zN8B" >
+  <span dir="ltr" class="title" aria-describedby="description-id-403748">
+    hurricane sandy sea bright NJ (live)
+  </span>
+  <span class="accessible-description" id="description-id-403748">
+     - Duration: 16:50.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UCN-rxHAo-YBj7eGXxL3vnzw" data-name="related">Jr Janosko</span></span>
+  <span class="stat view-count">45,225 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=35nlEc1F-5o" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CCEQpDAYCiITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CCEQpDAYCiITCIvt__e_98sCFUUXWAodiLsCfij4HUCa95fqnKL5zN8B" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="35nlEc1F-5o"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/35nlEc1F-5o/default.jpg" ></span></a>
+        <span class="video-time">
+      16:50
+    </span>
+
+  </div>
+
+</li><li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=uGTrGHND6bs" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CCAQpDAYCyITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" title="Hurricane Sandy Waves Hitting Beachfront House" data-visibility-tracking="CCAQpDAYCyITCIvt__e_98sCFUUXWAodiLsCfij4HUC704-ah-O6srgB" >
+  <span dir="ltr" class="title" aria-describedby="description-id-308049">
+    Hurricane Sandy Waves Hitting Beachfront House
+  </span>
+  <span class="accessible-description" id="description-id-308049">
+     - Duration: 1:05.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UC0LKzPzCaxEWJ6JzRsXWIYw" data-name="related">Jeremy Sciarappa</span></span>
+  <span class="stat view-count">212,085 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=uGTrGHND6bs" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CCAQpDAYCyITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CCAQpDAYCyITCIvt__e_98sCFUUXWAodiLsCfij4HUC704-ah-O6srgB" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="uGTrGHND6bs"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/uGTrGHND6bs/default.jpg" ></span></a>
+        <span class="video-time">
+      1:05
+    </span>
+
+  </div>
+
+</li><li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=Ksmdrr3Yc-c" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CB8QpDAYDCITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" title="Seaside Heights 2013: Part One" data-visibility-tracking="CB8QpDAYDCITCIvt__e_98sCFUUXWAodiLsCfij4HUDn5-Hu67Xn5Co=" >
+  <span dir="ltr" class="title" aria-describedby="description-id-598400">
+    Seaside Heights 2013: Part One
+  </span>
+  <span class="accessible-description" id="description-id-598400">
+     - Duration: 1:04:23.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UCTikFhzCiIXfOMS7D29dvYg" data-name="related">David Di Franco</span></span>
+  <span class="stat view-count">47,031 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=Ksmdrr3Yc-c" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CB8QpDAYDCITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CB8QpDAYDCITCIvt__e_98sCFUUXWAodiLsCfij4HUDn5-Hu67Xn5Co=" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="Ksmdrr3Yc-c"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/Ksmdrr3Yc-c/default.jpg" ></span></a>
+        <span class="video-time">
+      1:04:23
+    </span>
+
+  </div>
+
+</li><li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=Nn11DWH_LEA" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CB4QpDAYDSITCIvt__e_98sCFUUXWAodiLsCfij4HTIGcmVsbWZ1SLTNzeDBxtj8ogE" rel="spf-prefetch" title="Official One World Trade Center Time-Lapse 2004-2013" data-visibility-tracking="CB4QpDAYDSITCIvt__e_98sCFUUXWAodiLsCfij4HUDA2PyP1qHdvjY=" >
+  <span dir="ltr" class="title" aria-describedby="description-id-616769">
+    Official One World Trade Center Time-Lapse 2004-2013
+  </span>
+  <span class="accessible-description" id="description-id-616769">
+     - Duration: 1:59.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UC6qrG3W8SMK0jior2olka3g" data-name="relmfu">EarthCam</span></span>
+  <span class="stat view-count">3,439,002 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=Nn11DWH_LEA" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CB4QpDAYDSITCIvt__e_98sCFUUXWAodiLsCfij4HTIGcmVsbWZ1SLTNzeDBxtj8ogE" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CB4QpDAYDSITCIvt__e_98sCFUUXWAodiLsCfij4HUDA2PyP1qHdvjY=" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="Nn11DWH_LEA"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/Nn11DWH_LEA/default.jpg" ></span></a>
+        <span class="video-time">
+      1:59
+    </span>
+
+  </div>
+
+</li><li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=oxjOVES1knA" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CB0QpDAYDiITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" title="Seaside Heights 1985 TV Commercial and 30+ minutes of raw footage" data-visibility-tracking="CB0QpDAYDiITCIvt__e_98sCFUUXWAodiLsCfij4HUDwpNalxMqzjKMB" >
+  <span dir="ltr" class="title" aria-describedby="description-id-160446">
+    Seaside Heights 1985 TV Commercial and 30+ minutes of raw footage
+  </span>
+  <span class="accessible-description" id="description-id-160446">
+     - Duration: 31:49.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UCHXxWNXKg00V9J_iI0tatZw" data-name="related">greenrosetv</span></span>
+  <span class="stat view-count">12,289 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=oxjOVES1knA" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CB0QpDAYDiITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CB0QpDAYDiITCIvt__e_98sCFUUXWAodiLsCfij4HUDwpNalxMqzjKMB" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="oxjOVES1knA"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/oxjOVES1knA/default.jpg" ></span></a>
+        <span class="video-time">
+      31:49
+    </span>
+
+  </div>
+
+</li><li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=xrSI9AqCnq0" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CBwQpDAYDyITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" title="Walking the new Seaside Heights Boardwalk after Hurricane Sandy" data-visibility-tracking="CBwQpDAYDyITCIvt__e_98sCFUUXWAodiLsCfij4HUCtvYrUwJ6i2sYB" >
+  <span dir="ltr" class="title" aria-describedby="description-id-873119">
+    Walking the new Seaside Heights Boardwalk after Hurricane Sandy
+  </span>
+  <span class="accessible-description" id="description-id-873119">
+     - Duration: 5:00.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UCJLmPCUgwZzYolRxIOmCQeg" data-name="related">AboutNewJerseyCom</span></span>
+  <span class="stat view-count">15,044 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=xrSI9AqCnq0" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CBwQpDAYDyITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CBwQpDAYDyITCIvt__e_98sCFUUXWAodiLsCfij4HUCtvYrUwJ6i2sYB" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="xrSI9AqCnq0"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/xrSI9AqCnq0/default.jpg" ></span></a>
+        <span class="video-time">
+      5:00
+    </span>
+
+  </div>
+
+</li><li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=S3Kf9e6JgF4" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CBsQpDAYECITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" title="Bridge construction - Incremental Launching - 3D Animation" data-visibility-tracking="CBsQpDAYECITCIvt__e_98sCFUUXWAodiLsCfij4HUDegKb03v6nuUs=" >
+  <span dir="ltr" class="title" aria-describedby="description-id-436193">
+    Bridge construction - Incremental Launching - 3D Animation
+  </span>
+  <span class="accessible-description" id="description-id-436193">
+     - Duration: 6:52.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UCKCQHPA0qt1aEOluw7rubJg" data-name="related">wvolf</span></span>
+  <span class="stat view-count">785,443 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=S3Kf9e6JgF4" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CBsQpDAYECITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CBsQpDAYECITCIvt__e_98sCFUUXWAodiLsCfij4HUDegKb03v6nuUs=" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="S3Kf9e6JgF4"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/S3Kf9e6JgF4/default.jpg" ></span></a>
+        <span class="video-time">
+      6:52
+    </span>
+
+  </div>
+
+</li><li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=RtF8EaDGHsA" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CBoQpDAYESITCIvt__e_98sCFUUXWAodiLsCfij4HTIGcmVsbWZ1SLTNzeDBxtj8ogE" rel="spf-prefetch" title="Houston Airport Hobby International Terminal Construction Time-Lapse" data-visibility-tracking="CBoQpDAYESITCIvt__e_98sCFUUXWAodiLsCfij4HUDAvZiGmoLf6EY=" >
+  <span dir="ltr" class="title" aria-describedby="description-id-181073">
+    Houston Airport Hobby International Terminal Construction Time-Lapse
+  </span>
+  <span class="accessible-description" id="description-id-181073">
+     - Duration: 1:44.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UC6qrG3W8SMK0jior2olka3g" data-name="relmfu">EarthCam</span></span>
+  <span class="stat view-count">6,493 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=RtF8EaDGHsA" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CBoQpDAYESITCIvt__e_98sCFUUXWAodiLsCfij4HTIGcmVsbWZ1SLTNzeDBxtj8ogE" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CBoQpDAYESITCIvt__e_98sCFUUXWAodiLsCfij4HUDAvZiGmoLf6EY=" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="RtF8EaDGHsA"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/RtF8EaDGHsA/default.jpg" ></span></a>
+        <span class="video-time">
+      1:44
+    </span>
+
+  </div>
+
+</li><li class="video-list-item related-list-item  show-video-time related-list-item-compact-video">
+
+    <div class="content-wrapper">
+    <a href="/watch?v=32zAR8qOwGQ" class="yt-uix-sessionlink  content-link spf-link        spf-link " data-sessionlink="itct=CBkQpDAYEiITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" title="Seaside Heights      March 22, 2015" data-visibility-tracking="CBkQpDAYEiITCIvt__e_98sCFUUXWAodiLsCfij4HUDkgLvU_Iiwtt8B" >
+  <span dir="ltr" class="title" aria-describedby="description-id-995274">
+    Seaside Heights      March 22, 2015
+  </span>
+  <span class="accessible-description" id="description-id-995274">
+     - Duration: 5:15.
+  </span>
+  <span class="stat attribution"><span class="g-hovercard" data-ytid="UCwcLlsU3hxLOei5k80TtiGQ" data-name="related">PR Aerial Video &amp; Photography</span></span>
+  <span class="stat view-count">2,944 views</span>
+</a>
+  </div>
+  <div class="thumb-wrapper">
+
+    <a href="/watch?v=32zAR8qOwGQ" class="yt-uix-sessionlink  vve-check thumb-link spf-link        spf-link " data-sessionlink="itct=CBkQpDAYEiITCIvt__e_98sCFUUXWAodiLsCfij4HTIHcmVsYXRlZEi0zc3gwcbY_KIB" rel="spf-prefetch" tabindex="-1" data-visibility-tracking="CBkQpDAYEiITCIvt__e_98sCFUUXWAodiLsCfij4HUDkgLvU_Iiwtt8B" aria-hidden="true"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" tabindex="0" data-vid="32zAR8qOwGQ"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="90" width="120" style="top: -12px" aria-hidden="true" alt="" data-thumb="//i.ytimg.com/vi/32zAR8qOwGQ/default.jpg" ></span></a>
+        <span class="video-time">
+      5:15
+    </span>
+
+  </div>
+
+</li>
+                  <div id="watch-more-related" class="hid">
+    <li id="watch-more-related-loading">
+Loading more suggestions...
+    </li>
+  </div>
+  <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-expander" type="button" onclick=";return false;" id="watch-more-related-button" data-continuation="CBQSFhILb3ZsaU5Cd1RaclHAAQDIAQDgAQEYAA%3D%3D" data-button-action="yt.www.watch.related.loadMore"><span class="yt-uix-button-content">Show more</span></button>
+
+      </ul>
+    </div>
+  </div>
+
+    </div>
+  </div>
+
+      </div>
+    </div>
+  </div>
+
+  <div id="watch7-hidden-extras">
+      <div style="visibility: hidden; height: 0px; padding: 0px; overflow: hidden;">
+  </div>
+
+  </div>
+
+
+  </div>
+
+</div></div></div></div>  <div id="footer-container" class="yt-base-gutter force-layer"><div id="footer"><div id="footer-main"><div id="footer-logo"><a href="/" id="footer-logo-link" title="YouTube home" data-sessionlink="ei=p68DV8v9B8Wu4AKI94rwBw&amp;ved=CAEQpmEiEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0" class="yt-uix-sessionlink"><span class="footer-logo-icon yt-sprite"></span></a></div>  <ul class="pickers yt-uix-button-group" data-button-toggle-group="optional">
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon" type="button" onclick=";return false;" id="yt-picker-language-button" data-picker-position="footer" data-button-menu-id="arrow-display" data-picker-key="language" data-button-action="yt.www.picker.load" data-button-toggle="true"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-footer-language yt-sprite"></span></span><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Language:
+  </span>
+  English
+</span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+
+      </li>
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-country-button" data-picker-position="footer" data-button-menu-id="arrow-display" data-picker-key="country" data-button-action="yt.www.picker.load" data-button-toggle="true"><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Country:
+  </span>
+  South Korea
+</span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+
+      </li>
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-safetymode-button" data-picker-position="footer" data-button-menu-id="arrow-display" data-picker-key="safetymode" data-button-action="yt.www.picker.load" data-button-toggle="true"><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Restricted Mode:
+  </span>
+Off
+</span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+
+      </li>
+  </ul>
+<a href="/feed/history" class="yt-uix-button  footer-history yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default yt-uix-button-has-icon" data-sessionlink="ei=p68DV8v9B8Wu4AKI94rwBw"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-footer-history yt-sprite"></span></span><span class="yt-uix-button-content">History</span></a>    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon yt-uix-button-reverse yt-google-help-link inq-no-click " type="button" onclick=";return false;" data-ghelp-anchor="google-help" data-ghelp-tracking-param="" id="google-help" data-feedback-product-id="59" data-load-chat-support=""><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-questionmark yt-sprite"></span></span><span class="yt-uix-button-content">Help
+</span></button>
+      <div id="yt-picker-language-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+      <div id="yt-picker-country-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+      <div id="yt-picker-safetymode-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+</div><div id="footer-links"><ul id="footer-links-primary">  <li><a href="//www.youtube.com/yt/about/">About</a></li>
+  <li><a href="//www.youtube.com/yt/press/">
+Press
+  </a></li>
+  <li><a href="//www.youtube.com/yt/copyright/">Copyright</a></li>
+  <li><a href="//www.youtube.com/yt/creators/">
+Creators
+  </a></li>
+  <li><a href="//www.youtube.com/yt/advertise/">
+Advertise
+  </a></li>
+  <li><a href="//www.youtube.com/yt/dev/">Developers</a></li>
+  <li><a href="https://plus.google.com/+youtube" dir="ltr">+YouTube</a></li>
+</ul><ul id="footer-links-secondary">  <li><a href="/t/terms">Terms</a></li>
+  <li><a href="https://www.google.com/intl/en/policies/privacy/">Privacy</a></li>
+  <li><a href="//www.youtube.com/yt/policyandsafety/">
+Policy &amp; Safety
+  </a></li>
+  <li><a href="//support.google.com/youtube/?hl=en" onclick="return yt.www.feedback.start(59);" class="reportbug">Send feedback</a></li>
+  <li><a href="/testtube">Try something new!</a></li>
+  <li></li>
+</ul></div></div></div>
+
+
+      <div class="yt-dialog hid " id="feed-privacy-lb">
+    <div class="yt-dialog-base">
+      <span class="yt-dialog-align"></span>
+      <div class="yt-dialog-fg" role="dialog">
+        <div class="yt-dialog-fg-content">
+          <div class="yt-dialog-loading">
+              <div class="yt-dialog-waiting-content">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+  </div>
+
+          </div>
+          <div class="yt-dialog-content">
+              <div id="feed-privacy-dialog">
+  </div>
+
+          </div>
+          <div class="yt-dialog-working">
+              <div class="yt-dialog-working-overlay"></div>
+  <div class="yt-dialog-working-bubble">
+    <div class="yt-dialog-waiting-content">
+        <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+        Working...
+    </span>
+  </p>
+
+      </div>
+  </div>
+
+          </div>
+        </div>
+        <div class="yt-dialog-focus-trap" tabindex="0"></div>
+      </div>
+    </div>
+  </div>
+
+
+<div id="hidden-component-template-wrapper" class="hid">    <div id="shared-addto-watch-later-login" class="hid">
+      <a href="https://accounts.google.com/ServiceLogin?passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dplaylist%26hl%3Den%26next%3D%252Fwatch%253Fv%253DovliNBwTZrQ&amp;uilel=3&amp;service=youtube&amp;hl=en" class="sign-in-link">Sign in</a> to add this to Watch Later
+
+    </div>
+  <div id="yt-uix-videoactionmenu-menu" class="yt-ui-menu-content">
+      <div class="hide-on-create-pl-panel">
+    <h3>
+Add to
+    </h3>
+  </div>
+  <div class="add-to-widget">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+        Loading playlists...
+    </span>
+  </p>
+
+  </div>
+
+  </div>
+</div>    <script>var ytspf = ytspf || {};ytspf.enabled = true;ytspf.config = {'reload-identifier': 'spfreload'};ytspf.config['experimental-request-headers'] = {'X-YouTube-Identity-Token': null};ytspf.config['cache-max'] = 50;ytspf.config['navigate-limit'] = 50;ytspf.config['navigate-lifetime'] = 64800000;ytspf.config['animation-duration'] = 0;</script>
+  <script src="//s.ytimg.com/yts/jsbin/spf-vfldNIm25/spf.js" type="text/javascript" name="spf/spf"></script>
+  <script src="//s.ytimg.com/yts/jsbin/www-en_US-vfltkMLBG/base.js" name="www/base"></script>
+<script>spf.script.path({'www/': '//s.ytimg.com/yts/jsbin/www-en_US-vfltkMLBG/'});var ytdepmap = {"www/base": null, "www/common": "www/base", "www/angular_base": "www/common", "www/channels_accountupload": "www/common", "www/channels": "www/common", "www/dashboard": "www/common", "www/debugpolymer": "www/common", "www/downloadreports": "www/common", "www/experiments": "www/common", "www/feed": "www/common", "www/innertube": "www/common", "www/instant": "www/common", "www/legomap": "www/common", "www/live_chat": "www/common", "www/live_chat_moderation": "www/common", "www/promo_join_network": "www/common", "www/results_harlemshake": "www/common", "www/results": "www/common", "www/results_starwars": "www/common", "www/subscriptionmanager": "www/common", "www/unlimited": "www/common", "www/watch": "www/common", "www/ypc_bootstrap": "www/common", "www/ypc_core": "www/common", "www/ytstyles": "www/common", "www/channels_edit": "www/channels", "www/innertube_watchnext": "www/innertube", "www/live_broadcasts": "www/angular_base", "www/live_dashboard": "www/angular_base", "www/videomanager": "www/angular_base", "www/watch_autoplayrenderer": "www/watch", "www/watch_edit": "www/watch", "www/watch_editor": "www/watch", "www/watch_live": "www/watch", "www/watch_missilecommand": "www/watch", "www/watch_promos": "www/watch", "www/watch_speedyg": "www/watch", "www/watch_transcript": "www/watch", "www/watch_videoshelf": "www/watch", "www/ct_advancedsearch": "www/videomanager", "www/my_videos": "www/videomanager"};spf.script.declare(ytdepmap);</script><script>if (window.ytcsi) {window.ytcsi.tick("je", null, '');}</script>      <script>
+    yt.setConfig({
+      'VIDEO_ID': "ovliNBwTZrQ",
+      'THUMB_LOADER_PAUSE_MS': 0,
+      'THUMB_LOADER_GROUP_PX': 400,
+      'THUMB_LOADER_IGNORE_FOLD': false,
+      'WAIT_TO_DELAYLOAD_FRAME_CSS': true,
+      'IS_UNAVAILABLE_PAGE': false,
+      'DROPDOWN_ARROW_URL': "https:\/\/s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif",
+      'AUTONAV_EXTRA_CHECK': false,
+
+      'JS_PAGE_MODULES': [
+        'www/watch',
+        'www/ypc_bootstrap',
+          'www/watch_speedyg',
+          'www/watch_autoplayrenderer',
+        ''       ],
+
+
+      'REPORTVIDEO_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-reportvideo-vflaq3ExG\/www-reportvideo.js",
+      'REPORTVIDEO_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-watch-reportvideo-vflRB259u.css",
+
+
+      'TIMING_AFT_KEYS': ['pbp', 'pbs'],
+      'YPC_CAN_RATE_VIDEO': true,
+
+
+        'RELATED_PLAYER_ARGS': {"rvs":"length_seconds=1071\u0026id=0S0awbKvspk\u0026session_data=itct%3DCBUQvU4iEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0yCWVuZHNjcmVlbki0zc3gwcbY_KIB\u0026endscreen_autoplay_session_data=feature%3Drelated-auto%26playnext%3D1%26autonav%3D1\u0026title=Urban+Exploration%3A+Seaside+Heights+Pier+Wreckage+from+Sandy+-+NJ\u0026author=TheUnknownCameraman\u0026short_view_count_text=,length_seconds=1039\u0026id=5XnGtvvuk0Y\u0026session_data=itct%3DCBQQvU4iEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0yCWVuZHNjcmVlbki0zc3gwcbY_KIB\u0026title=Hurricane+Sandy+Super+Storm+-+During+%26+After+-+Monmouth+Beach+NJ+2012\u0026author=jonnyfury\u0026short_view_count_text=,length_seconds=3359\u0026id=6DoH6X1Fa-I\u0026session_data=itct%3DCBMQvU4iEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0yCWVuZHNjcmVlbki0zc3gwcbY_KIB\u0026title=The+Seaside+Boardwalk+Fire+on+9-12-2013+in+NJ+-+Raw+HD+Footage+of+Funtown+Pier\u0026author=greenrosetv\u0026short_view_count_text=,length_seconds=270\u0026id=-dAzmsfrp2c\u0026session_data=itct%3DCBIQvU4iEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0yCWVuZHNjcmVlbki0zc3gwcbY_KIB\u0026title=Vanishing+America%3A+Jersey+Shore+Boardwalks+Washed+Away\u0026author=ABC+News\u0026short_view_count_text=,length_seconds=1005\u0026id=_G-hVZ0rIf4\u0026session_data=itct%3DCBEQvU4iEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0yCWVuZHNjcmVlbki0zc3gwcbY_KIB\u0026title=Seaside+Heights+Sun+and+Fun+Promo+Tourism+Film+1960\u0026author=Peter+James+Smith\u0026short_view_count_text=,length_seconds=4544\u0026id=6DLrqtV7Gfo\u0026session_data=itct%3DCBAQvU4iEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0yCWVuZHNjcmVlbki0zc3gwcbY_KIB\u0026title=Seaside+Heights+2015%3A+Part+One\u0026author=David+Di+Franco\u0026short_view_count_text=,length_seconds=164\u0026id=b3yeD25_sT4\u0026session_data=itct%3DCA8QvU4iEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0yCWVuZHNjcmVlbki0zc3gwcbY_KIB\u0026title=Looping+Roller+Coaster+POV+Funtown+Pier+Seaside+Heights+New+Jersey+Shore\u0026author=Theme+Park+Review\u0026short_view_count_text=,length_seconds=3366\u0026id=s7_5vPTCtEI\u0026session_data=itct%3DCA4QvU4iEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0yCWVuZHNjcmVlbki0zc3gwcbY_KIB\u0026title=Seaside+Heights+2014%3A+Part+One\u0026author=David+Di+Franco\u0026short_view_count_text=,length_seconds=523\u0026id=y6Xsdx0KGfI\u0026session_data=itct%3DCA0QvU4iEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0yCWVuZHNjcmVlbki0zc3gwcbY_KIB\u0026title=Hurricane+Sandy+Seaside+Heights++%22The+Day+After%22\u0026author=theVazfamily\u0026short_view_count_text=,length_seconds=4490\u0026id=xE6T8dVNHWM\u0026session_data=itct%3DCAwQvU4iEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0yCWVuZHNjcmVlbki0zc3gwcbY_KIB\u0026title=Seaside+Heights+2015%3A+Part+Two\u0026author=David+Di+Franco\u0026short_view_count_text=,length_seconds=575\u0026id=QRDXw0KMERE\u0026session_data=itct%3DCAsQvU4iEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0yCWVuZHNjcmVlbki0zc3gwcbY_KIB\u0026title=Giraffe+born+live+on+EarthCam+Greenville+Zoo\u0026author=EarthCam\u0026short_view_count_text=,length_seconds=1010\u0026id=35nlEc1F-5o\u0026session_data=itct%3DCAoQvU4iEwiL7f_3v_fLAhVFF1gKHYi7An4o-B0yCWVuZHNjcmVlbki0zc3gwcbY_KIB\u0026title=hurricane+sandy+sea+bright+NJ+%28live%29\u0026author=Jr+Janosko\u0026short_view_count_text="},
+
+
+
+          'BG_P': "jc5MvMdckkZ3JWwGKdJrqoNFv1zHMxRFNrROLNQUbEC3fJ3GDs7taLjspYYZ5AI3nz+Nb+x2e8il6T1gkAPykp2LRSXKdrjSMvc7ioEJcs7EdmcNDAG7pNrCeq9fUPsDe05Y1DvWC8MH1U4hfCv4g4XWd6oeZHwQEU3dpkr4q\/GqYoe+MuL40OZ2HXzLs\/tgXDYNPA05U9kTuzhSzzdjtBMxqlB3ECOZg3Qn2pAwhzhKUOATmJZfefXUqZYzisvROubtbTXHlVsW6XtCV\/0eLI4O6tZCLCBX74VeVgPKaMS2HUbCC+aOxGcMJuJNEW\/yONUj9C1zZbr8U3Jil1RSwZS16ZbfTbjG6zgSfLdXziBIXKPX9++sgdp7YxVv7TVaOssGF+ZKIpk9IKIAWEXOfOVdoupz0crC8Edo+ZqbH4xUwGFslfKs6ncl5MDgIXVzQsJOihfCyr6PFbFfU7Z6iuN7QUIUCvVYOhl0jaVc\/3UwSoVNJ\/OtFOMMrOUxf1EuBrfZq5J5PBnu3h7OZFoSjsyQKJZ2Xzc9QQFtRVmL\/DG9cUb5\/QODvv2ABA9whpp+tI\/9mNQjgFp7wdRPIJ4uzxTUH5oDE8+AEbauhXbu2lVHjMVbUA47br1yTBKim+Av7WMNbIA3JvstAgAZrGDtKteotGpozaoAwn9JE6JwAeQr6ZXSmPJK41PYy90FRAh7kpdLH+m5i7tVULtk7h2\/8ScxOEEkNlxvIvyFNyGGIjGiSo3dh9e8M6dd9oInQoHWEB5Cf4DLGnlxSea4SJan9ilZBnhULzwB63N9r0h1JFajd1JHdMz7HTVugmp6O8jZHBFkXtnpqVfRcm5Bris\/ucR1EtAE4vxWeprGGxwh\/pV3HpTCi2cWvknp3EHcHWK5cVIMV4nAstmUm5qwFOjlEJChM3nkdhiVFuzN40DdFXrXG7LcJRBa4zCOYWO8mRO8Phhk\/lBvP0bhe6Uiq9dw\/mJg4oQnlaYVPnNpudCYbC5hhKiY\/hAnzr8lH1Tnoh\/anmD91nkut3\/8VzWnFsQbFJcoC+1bDfSeqeuv6IdWieFOFujYMZnu0Et5Qja9Mvhb2MfCn5zqQgOb8O0RRvaUpe\/CUwrH6gUI0M7IdZtwuYqjOro1BM05o8APwQMYcvwkN9U\/CnkvWh6GzN0nQodY61jAoeW8DCl6LO\/Dk2qWuyv2Yh6PKM9tgfErHGynSOm4lRP5p8zBialsNVxzswh7Yx0uWzg8ScR0CuTDgzOAGAwlPtb1kUmKVRkWsfJuXPqebWys58PWLSmGKVUiINKexFndEzM9yWYMyNvSpXHH1vcOYkjjg8W4s41M2CijkaGaTKbnnD\/+7RJNo8f\/0m6e123Qpj0Q2p+WRwJhBmmZxmV+cDoWsT37GBDu+29N5xaR2U34ALF4zmmShEw0v6V5ucM15GEee7lXIRQhguJzxTRkDCYMe4Mkf42cK5zPfV6nHKgeZAQDML5ffFsJ55U1NcGQT7PLk8oe4\/9c6DMi4GPzPuTvZB4Nksm0NOveQ0gWRQSLdZ8oXt80RzCIToNtl\/kxjX\/sNu76zUt5597GIN5PpcGfo0k\/gG6FHUPxez\/zeDjDBMDrQJ53iWHqXUdOemFPeJXGrPHduJWh+KAPb\/67T24MAmpLyzgKeu4kd5KvZoa+6N79II\/Nvu\/Rv7nMwjq+tM64eyqxHBVrwZOIm4fdqmyxOHKJ9Xh5IqvqxROtlqm2+c\/mJBrxXbKCS7h3ZQDxJcz8Osyyk1UJpG9DmnhvRZX6jewLlBWjidd+yglduFKWn9zJ05ck5s9Ap7c0WcWY4N8Xhx1sO0Acs7BGPGE5JEWWJCvS\/bGzUx0J+sKB5dyVs90QCkW\/1BB6TJe4nFFAsqGKcFIk58EFQlTlVb8S8fBtatLqgha39tqCwQSaa5E0PTfTMSoDujwGRnak262lOnooWRRQ+8Ixs+wF0k9Klm42MEQwVEEdKRCgsuzgV+OB9PVpewueygus+CyftE7ITJhWR5vzzv0XsZs+hHkg2tXzLYRwgXYOd\/Djh2aHXnFmbMJePNhpV4fbfre5PYg23I3XJgOMYFHXEtK+bJAJWlyeGxWTHFAszSXK5e2rffFS3wsthkymnANdeCPdmNdTvQ8hoRsmMivEodcZqSRz0OWschoh2nqcfTp2ILf6l7iD4hCVFyT16me7eM2jTGyIr8TO4V8QAcww7L10SRexHBEPAe\/EG22fj0yFoPqI6czQ0ozLkx\/8mUi6Np3D9flpdRdS2No8AjzJ5oFEw0\/lbHr4ibm7xL\/2zpZ\/vwOAgySNjmjQyxtapsc3ciTvCRrHs6yhhyJMNXdHO7K+bwZCEX6D\/yqi0P8BFBU\/2hURJHLaIiVcDiStDH1q4D+Sb6PYBXwAkIpS4+od7MV8VsqnqkwOXvbQ6DRVEdUCaBXTt7XS8jUa7X\/DZiSV+nnUJmwPUYeZkBfnkOJ\/MFkmydFP9b+VU+IZvzubkyr7G+7kVRZZJFiHA1+YBfix7bppMRbfSc5vvcZqjyqMjYRavB+tU0e4f9nPQsH8PXF5y6kUVFO5131g9lIQjw\/yW6wUlWRnBILv+0yHalMAiOavmu4FyzIuJd+H91Q5i7ln0cpxq23L46LhvVNfPbwoF65+z3jZEzWKSiAHhZ8VeH+YsyXleeOB2TAmoR\/Kz3wBms1eL51Ugp1CNqJtOvkcPF6xwyjs\/0Y5hBXy8U2AbRZMn4gcTndwVCL+NifbINVqW1AAQERJL1Milsys46ZXtqYhgTnjVNpgrMLdefF1LkBJ75ThY39lJm8kkEVwH9OqWAq\/\/pEqdUaklndgDNCRH8Wr\/eFSnCqwo1mrOrIDPeTH\/ZFSp6geb9sdSkMH13QkxMGCSMdHA\/DpVmuG0f6ZSkgvlED+\/YZvMv690PzMIu5b5kqhS47s6nbXrh7GW4d8oajOT+9XbLTj\/poF3BNHfe0f6xc\/E8ZJgmypmgKeOK6HhEOCQrjBs560e4llZ9K8HsyVnDJLRvlL0ZKFBrkXlhh\/RyswSQVDt1o0bL2K1+eSdjiphHx0p7lxB5yY9D7K7C35NTJw2KKJr+YZ+mZZqodkhNR5VYquFrp7yl9PJtyhXU8QYoMqQMULN1cYs6RgmU30j2sZodDizOvdDZIHlaQIPfsP16mDUfJHI0YZAqbSovcEpnDOblOfY9c93nra1rUfz+SSZvUr+o1gONeIa0iwyd60OzD7PPbLE9NkSSMrunuxiKukVpLquw91\/rK1brp\/bGs5nibQzNjnBQdpo83Dvd7QpcIcrS1Sbfy8McKYGBOHwtEqLYft3t5KIEpYaGofbNmRvDTlvepH9ReWzuBpKCjsKpde25ehR69BcVEi65ARJMOilL1m7fLDmmvF6Lz\/XgHgzSyAvY9A5ZmmdxYXT8OJaw8kG7pUgK3hrpAt6nwhWDFeV8CUfh\/CB1st8yXpvgl1CNG2BSrEpOQsUmMzDyEHXvnBw7VMKHUSkmVIR7\/DeNb\/z07VJAG2QeXZ8npgekqoRnfYVV16LeQFVE\/+uA7de9n2edbfiOsP9dvbbyRImJpDcbvr0gkaeMzTNd10csNEMRJhlWwvAIFVzSjIRt80DOaFIMP3wcxyulPhibcQ80AHlLinjBZb50Y0MHY2TJAGlSSviZ5sQ0C6p+MrA0fwThY8fVEK71zcvFPc7N63LaAzqLEay\/ub5nvlArBz9VMebiOCuYCwahSJXmenETYGhAK6x5y0tDgWmAAJM55KZ9CTAtv\/yBBbYbNyf3DqFwPLwD2ezPPyLmAWfLiBgag5bBY+Qz+uxaGzzk2SXUaLdGlGTiE7MmeRYvT4oqHpAUA3XO+YWpJm5pZl1EP10e8TR+MrZTXlQAe428sGWU6AQqE9ywSOeMm2f2yyPV4aoRIv4UYhZpvyzmEdPOHNk43q8nruEvH9buJLMWoKa0KdGEvJMQeZVGNJA8CiY7KqA+rModGCLWxZXb4XlL3uPIDWsrBQh7v4mDUKINdnC8MyZROB\/KuhTytGIkvO3Rat2ZYbC9xjhFNJATHqlzDPqc9RAHtT40wd\/xl4nE3UbRH3jxJsUAxtl+WBY5Bc4b09oaknRO0Vthlm6M9vRtzmBMDbE4HHj\/mNCpibbezAm4\/RoT2P8axK14AVjwqPQTS+r9XVbdWwHrEs3kJ4fyUPtB1rafElJUzg+90f+sT6gGyuvUtw23fJuPTYe+xROKm0g+AHprkMp1mTYEt+K4d+SIbTccOXhKPGXy5D+qhe1YH+ngAfBCwBNxT97aST6eRav8ywv7lPPpakrb0dODHzmoTQ576v7KhCxMdGExCh9GgmHtNfyH2ykXsO7dYJ5jSlgOTWvMSbjXP8Vp3N8t\/GtK+z7QcZrWCJfqQcfLkiH5ejkaGaVS23NP3BMP4rQiBpWS2Il9ys8\/mdmarW\/W4\/cXD9lfjNGCtrwfJ8C7gmGzZIbLGm2C1+Gg9z5Oq7ZPvJbdEiwgpw6JJnu4WyHBR\/77MhBYFZ\/FvmGuiWobUsQQGQt8oBs\/QtSfouLpvXheREx9Fi9WKxXhyw9a4UYYKj9Eo\/yYkaLiDxdrvnsCJghS+8LTC5NeSJhxh6ACDVPNTgBqJRDjReT7lAR3DeUxS\/eUp5rvkjdcP4PA12936+CrkkT6PyBdvjnNLYprXNd9E8df\/qkRDVcRmyOZ3yq2BkDLgEZ5uDHZYhEHQwTTzpy8Yt8AquQXqpRcR8h2UJiZKiWGxI1bdI2Zu9mPl3bSupS1kDMhbDCg3ifdkri+xoddYHsct69hNTOfrVkmWBpd2AZyGPWJt\/uKCU5wBRRCTCly20tBXWlkreO56I51+5TQCNRSK9wL8M6zE8NmEg7ptcx7NNtfD3\/7keAxXuRdU4B\/IoF0To0BurGS6fIxW4oVXEt5kl8YNFnNjPYM5AMB+VmAOn8shZg2Hc\/rcNSRW4mB5hSMcUVf1CBvi7e1JEOipPjW+G4yjNJvkf+Al2l6NS3DCvLK7Ohi9P7k0SVLQSo75YfLdHblvU+frH5t2BbaVlzuAXO4AGu6ujHtY8vysyWt8bQHiYbTAPz4l\/sSwFuy\/OB2GiV4aBsyQy\/IEB0Vj9S2rYKkoow1Z+kq9en3xZnXBm+ObaqSAI4jMFETeTkmM\/48pMDEUEn5BxtGN98LYaoCfESAu7zxQ3StUsym49IPN+V5Qhl6uLvpwNXerkUeEpQgA3iGHqrM39u5NCev6fVS4YRl4ElzQvmjgNo9qVPzaf7ALDaIfbIGULJrjptehTMhYmoL3gcCNSoPlW\/eLTrvrzbbwIM+8oUb67CUVNMQ98iw2Ko3BBRioAiog4+gEdsYutqY7I0d\/Fng\/VC5hJohIamZMEcqgYq4LL0A1ewvFIhxYie3fOROeSC5F\/JDFx2pDbZUxVsOJ\/xIOGPcDtDEBXfN9nAQHWxy+FPp1VEGx21+0PsSn1Yb6alNXZGKsVTVJmIdqiKu\/Ep+SyHhMu3\/z2rnqWObwCXFq8GMLox7Dry2ICW6pknDLOb+7zTDtUgl7FqIJKvQG1wINvICR3ezSJd5IGaR6l5hE5BUodH5c5GlNWLvyK4PJwSBXr9\/7KPVZgbriJhpUy7bkKeie90oXuo3nQejelR9q8Yver4POuJpHiUMM8JJa8VsmD9Wtr2njLv9Gr9M0bm38Aupnbu42ItaiXua0dCWEqqd4GyuK44ShF4RRbQKQPyhpRYroQth03xICkyvxRTohc+MKU+ooWxoIrjK98fEBzLb\/OK+mQ8xGpTOgSrrhqK9bMp6iBCEvCo76Jzu+8KqznzhewUdNQsmX7xMCEbdY2KfXwZuZTsjjdS7XVAIcevIGHx\/Tbyq+FzEfcSOflZ9sduIdUA8jlEuiueFQWvrFhhT83UOL5wSYEfH9ji0KTZKrPW+8ObT4fp5SNDpZuhUXxA8ydcV\/uw2HLkf8icIq4CBU208DvetHd86Y203tm5xZKkPECMilDUIMCM1x92NflR8rsf+6gUGNdWRsP77Ft6xhbTnxo+8kFjiSPgHIGuT6rTz0ooNR+tBCAg0W4WGQxk9ItoNKg8OjUkniTf9GDa0agiJ+En18OZjQbIoR7VGVwqWvl7sK5FL2KpGerz3DbQx4gcjsmHoqjgbnfWCE5DdB03zNOnJgsZBi5LaWHjDAUybzGXtOxVwD7FUSeeSDRz61XlENSm3R1njvD46k+3U7LXHDCk+IwZtjfWkPlqKGKR422TfJ+jo3wlrrimXPfMz367Q4T2GYmFOAKRUdgRyh3feCY8mMWNB7hZM\/816yfZ4\/Ztf9Ckyfem\/sa3b+3M9awG8la+Q1Wygr1uJK4cp3G3oPzaPoQaQcangUOZamWJvHKKU1HMQ6bCjXiomuDHhj8SmRuGR2ltjI1OJAXhTXCuP+JwbXM18MHUh6jUc3lYFBrSpA9WV+JiIwzjJjskAi+xzGMIDOr5nSQOh8T3hW2ZbzM4eoii2YiGrAeJWnL5jD44zgKKObNoXZHydW+v\/tgXpxAOdUoT4wjOFiXxyM6zwYvFDPpWxFo1NCGhMCAsH5KKIR3synFD8mEofL5\/ZQNfHaZLI12ixvJtJsPXQ0uxPKGU\/29zat\/vYgOBhIvYe4t+D\/8SZ8sint5EdfpAfxEblzkkIlt1msmu0XVyLrpcGOODGxhbBxfvGTfAJxRBsqU2skobcArYIhK0\/OGebf3QnGBy\/vFgJn2sYu2YbHL9wCIEwWjLrMqHB3IVir+zKK4Dxcz8pE20aSwF5bI95wnKbryt2l9gsAc191k\/uV1UkHLxrOiRD7aM38SaQaRwgy7VXGNFcR7JigkBunJy4zio+INaEd1c8D6gq9xt3\/kbbydksypU5pJ4zG85B2sbPXjlXmIO1AvbLPwrEbq58o140n4nqG8zUtY9jOC8g9ypb7VvobOV8DOAE9oosWdE03IGTxUb6B3cLGlzahFV0bJO+CW2Dvq0uvAJ2gS5mNW98QRmuCIP4UjPw\/26YCq2+GsL7nhyHi6AJ\/GQ30M+yt+urjzhCjLlGFdaut3gZt0loFdXoERXroQtT26IY9dil3mV\/TCYRP91\/7ku3i6zqMzhYNt\/4P\/WIQgk5NnxISOR8xbtPC1ks32FBWc4mdXsms\/M3ZxzPc=",
+          'BG_IU': "\/\/www.google.com\/js\/bg\/veBs87dwiCXgZb9CwomBYiW1hyWXgp0ohA3Vj3gnbUg.js",
+
+
+
+        'COMMENTS_TOKEN': "EhYSC292bGlOQndUWnJRwAEAyAEA4AEBGAY%3D",
+
+
+
+
+
+
+      'GET_PLAYER_EVENT_ID': "p68DV8v9B8Wu4AKI94rwBw",
+      'HL_LOCALE': "en_US",
+      'TTS_URL': "",
+      'JS_DELAY_LOAD': 0,
+      'LIST_AUTO_PLAY_VALUE': 1,
+      'SHUFFLE_VALUE': 0,
+      'SKIP_RELATED_ADS': false,
+      'SKIP_TO_NEXT_VIDEO': false,
+      'RESUME_COOKIE_NAME': null,
+      'CONVERSION_CONFIG_DICT': {},
+      'RESOLUTION_TRACKING_ENABLED': false,
+      'MEMORY_TRACKING_ENABLED': false,
+      'NAVIGATION_TRACKING_ENABLED': false,
+      'WATCH_LEGAL_TEXT_ENABLE_AUTOSCROLL': false,
+      'SHARE_ON_VIDEO_END': true,
+      'SHARE_ON_VIDEO_START': false,
+      'ADS_DATA': {"afc_vars":{"video_doc_id":"","alternate_ad_url":"https:\/\/www.youtube.com\/ad_frame?id=watch-channel-brand-div","ad_block":"","core_dbp":"","eids":[],"ad_client":"","ad_type":"","ad_channel":"","language":"","format":"","ad_host_tier_id":"","tag_for_child_directed_treatment":"","lact":"","loeid":"","ad_host":""},"show_afv":false,"afv_vars":{"google_ad_host":"","google_eids":[],"google_ad_block":"","google_lact":"","google_targeting":"","google_tag_for_child_directed_treatment":"","google_core_dbp":"","google_alternate_ad_url":"https:\/\/www.youtube.com\/ad_frame?id=watch-channel-brand-div","google_ad_type":"","google_ad_height":"","google_yt_pt":"","google_loeid":"","google_video_doc_id":"","google_page_url":"","google_ad_channel":"","google_language":"","google_ad_format":"","google_cust_age":"","google_ad_client":"","google_cust_gender":"","google_ad_host_tier_id":"","google_scs":""},"gut_vars":{"tag":""},"show_pyv":false,"pyv_vars":{"iframe_json":"{\"google_language\":\"\",\"google_lact\":\"\",\"google_ad_host\":\"\",\"google_loeid\":\"\",\"google_tag_for_child_directed_treatment\":\"\",\"google_cust_age\":\"\",\"google_ad_client\":\"\",\"google_video_doc_id\":\"\",\"google_yt_pt\":\"\",\"google_ad_output\":\"\",\"google_page_url\":\"\",\"google_cust_gender\":\"\",\"google_eids\":\"\",\"google_ad_host_tier_id\":\"\",\"google_ad_type\":\"\",\"google_max_num_ads\":0,\"google_only_pyv_ads\":false,\"google_ad_channel\":\"\",\"google_core_dbp\":\"\",\"google_ad_block\":\"\",\"google_video_url_to_fetch\":\"\"}"},"check_status":false,"show_instream":false,"show_afc":false,"use_gut":false},
+      'PLAYBACK_ID': "AAUvu_8ELboWFMN0",
+      'IS_DISTILLER': true,
+      'SHARE_CAPTION': null,
+      'SHARE_REFERER': "",
+      'PLAYLIST_INDEX': null
+    });
+
+    yt.setMsg({
+      'EDITOR_AJAX_REQUEST_FAILED': "Something went wrong trying to get data from the server. Try again, or reload the page.",
+      'EDITOR_AJAX_REQUEST_503': "This functionality is not available right now. Please try again later.",
+      'LOADING': "Loading..."    });
+
+      yt.setMsg('SPEEDYG_INFO', "Experiencing interruptions?");
+
+      yt.setMsg({
+    'UNBLOCK_USER': "Are you sure you want to unblock this user?",
+    'BLOCK_USER': "Are you sure you want to block this user?"
+  });
+  yt.setConfig('BLOCK_USER_AJAX_XSRF', 'QUFFLUhqbWVRZkpBSWYwMjlyUzRYUlBuX05uWUYwNUI1QXxBQ3Jtc0trUklUVDlBZjZWVFg4ek5nb2NMNHRpZ3U1TFRRWktxVlRnZDBfUm1BOGNOSXJHWHBYdFE3ektWOExfOTU4QkRpWGFpZHZJaU82QV9keFNYRXNObDB6QkR1LVVWS3Y5T1lucEpyX1MwLUxPdlNEcUNQcDJrRURHS2xpZjljYVhTMlRRNU0tMFpKR05Kekc0dktyTjEtV1pRMk4xb3c=');
+
+
+    
+
+
+
+
+
+
+
+    
+
+      yt.setConfig({
+    'GUIDED_HELP_LOCALE': "en_US",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+
+
+  </script>
+
+
+<script>yt.setConfig({GAPI_HINT_PARAMS: "m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.1MqgDU3zZ20.O\/m=__features__\/rt=j\/d=1\/rs=AHpOoo_KZf1llAl4VsToQWFFf6-n5A3H0g",INNERTUBE_API_KEY: "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",INNERTUBE_API_VERSION: "v1",APIARY_HOST: "",INNERTUBE_CONTEXT_CLIENT_VERSION: "1.20160404",APIARY_HOST_FIRSTPARTY: "",'VISITOR_DATA': "CgtDQ3o3MDl5bVRBbw%3D%3D",'GAPI_HOST': "https:\/\/apis.google.com",'GAPI_LOCALE': "en_US",'INNERTUBE_CONTEXT_HL': "en",'INNERTUBE_CONTEXT_GL': "KR"});yt.setConfig({"MENDEL_FLAG_CONSENT_URL_OVERRIDE":"","MENDEL_FLAG_GAME_METADATA_BOX_ART":false,"MENDEL_FLAG_GAME_METADATA_ON_WATCH":false,"MENDEL_FLAG_OVERHAUL_CHAT_LOADING":true,"MENDEL_FLAG_PLAYER_SWFCFG_CLEANUP":true});yt.setConfig({'EVENT_ID': "p68DV8v9B8Wu4AKI94rwBw",'PAGE_NAME': "watch",'LOGGED_IN': false,'SESSION_INDEX': null,'VALID_SESSION_TEMPDATA_DOMAINS': ["www.youtube.com","gaming.youtube.com"],'PARENT_TRACKING_PARAMS': "",'FORMATS_FILE_SIZE_JS': ["%s B","%s KB","%s MB","%s GB","%s TB"],'DELEGATED_SESSION_ID': null,'ONE_PICK_URL': "",'UNIVERSAL_HOVERCARDS': true,'GOOGLEPLUS_HOST': "https:\/\/plus.google.com",'PAGEFRAME_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-pageframe-vflkw8mLX\/www-pageframe.js",'JS_COMMON_MODULE': "\/\/s.ytimg.com\/yts\/jsbin\/www-en_US-vfltkMLBG\/common.js",'PAGE_FRAME_DELAYLOADED_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-pageframedelayloaded-vfl93QsDL.css",'EXPERIMENT_FLAGS': {"gfeedback_for_signed_out_users_enabled":true},'GUIDE_DELAY_LOAD': true,'GUIDE_DELAYLOADED_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-guide-vflmYVKfq.css",'HIGH_CONTRAST_MODE_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-highcontrastmode-vfljy8U4g.css",'PREFETCH_CSS_RESOURCES' : ["\/\/s.ytimg.com\/yts\/cssbin\/www-player-vflzrH8eR.css"],'PREFETCH_JS_RESOURCES': ["\/\/s.ytimg.com\/yts\/jsbin\/player-en_US-vfl9xTY8I\/base.js",''         ],'PREFETCH_LINKS': false,'PREFETCH_LINKS_MAX': 1,'PREFETCH_AUTOPLAY': false,'PREFETCH_AUTOPLAY_TIME': 0,'PREFETCH_AUTONAV': false,'PREBUFFER_MAX': 1,'PREBUFFER_LINKS': false,'PREBUFFER_AUTOPLAY': false,'PREBUFFER_AUTONAV': false,'WATCH_LATER_BUTTON': "\n\n  \u003cbutton class=\"yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip\" type=\"button\" onclick=\";return false;\" role=\"button\" title=\"Watch Later\" data-button-menu-id=\"shared-addto-watch-later-login\" data-video-ids=\"__VIDEO_ID__\"\u003e\u003cspan class=\"yt-uix-button-arrow yt-sprite\"\u003e\u003c\/span\u003e\u003c\/button\u003e\n",'WATCH_QUEUE_BUTTON': "  \u003cbutton class=\"yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip\" type=\"button\" onclick=\";return false;\" title=\"Queue\" data-style=\"tv-queue\" data-video-ids=\"__VIDEO_ID__\"\u003e\u003c\/button\u003e\n",'WATCH_QUEUE_MENU': "  \u003cspan class=\"thumb-menu dark-overflow-action-menu video-actions\"\u003e\n    \u003cbutton aria-expanded=\"false\" aria-haspopup=\"true\" type=\"button\" class=\"yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty\" onclick=\";return false;\" \u003e\u003cspan class=\"yt-uix-button-arrow yt-sprite\"\u003e\u003c\/span\u003e\u003cul class=\"watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid\"\u003e\u003cli role=\"menuitem\" class=\"overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item\" data-action=\"play-next\" onclick=\";return false;\"  data-video-ids=\"__VIDEO_ID__\"\u003e\u003cspan class=\"addto-watch-queue-menu-text\"\u003ePlay next\u003c\/span\u003e\u003c\/li\u003e\u003cli role=\"menuitem\" class=\"overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item\" data-action=\"play-now\" onclick=\";return false;\"  data-video-ids=\"__VIDEO_ID__\"\u003e\u003cspan class=\"addto-watch-queue-menu-text\"\u003ePlay now\u003c\/span\u003e\u003c\/li\u003e\u003c\/ul\u003e\u003c\/button\u003e\n  \u003c\/span\u003e\n",'SAFETY_MODE_PENDING': false,'LOCAL_DATE_TIME_CONFIG': {"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"amPms":["AM","PM"],"formatShortTime":"h:mm a","shortWeekdays":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"firstWeekCutoffDay":3,"dateFormats":["MMMM d, yyyy h:mm a","MMMM d, yyyy","MMM d, yyyy","MMM d, yyyy"],"formatShortDate":"MMM d, yyyy","shortMonths":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"formatLongDateOnly":"MMMM d, yyyy","formatWeekdayShortTime":"EE h:mm a","formatLongDate":"MMMM d, yyyy h:mm a","weekendRange":[6,5],"firstDayOfWeek":0,"months":["January","February","March","April","May","June","July","August","September","October","November","December"]},'PAGE_CL': 118961317,'PAGE_BUILD_LABEL': "youtube_20160404_RC4",'VARIANTS_CHECKSUM': "c567d80e37fe41961d7018d9fab0a5a1",'ROOT_VE_TYPE': 3832,'CSI_MORE': true,'CLIENT_PROTOCOL': "HTTP\/1.1",'CLIENT_TRANSPORT': "tcp",'MDX_ENABLE_CASTV2': true,'MDX_ENABLE_QUEUE': true,'FEEDBACK_BUCKET_ID': "Watch",'FEEDBACK_LOCALE_LANGUAGE': "en",'FEEDBACK_LOCALE_EXTRAS': {"logged_in":false,"experiments":"9406994,9412776,9412901,9415398,9415575,9416038,9416126,9416475,9416866,9416891,9417035,9417482,9417664,9418543,9419452,9419979,9420289,9420409,9420452,9420790,9420951,9421041,9421394,9421404,9421625,9422152,9422250,9422376,9422523,9422575,9422596,9422849,9422852,9422928,9422972,9423155,9423465,9423552,9423555,9423649,9423662,9423911,9424159,9424225,9424678,9424701,9424785,9424795,9424954,9425006,9425413,9425552,9425931,9426070,9426542,9426927,9426994,9427018,9427068,9427175,9427202,9427221,9427294,9427441,9427491,9427493,9427515,9427654,9427902,9428150,9428399,9428606,9428660,9428662,9428948,9428958,9428971,9429580,9430021,9430083,9430878,9431001,9431017,9431024,9431083,9431285,9431458,9431471,9431476,9431540,9431668,9431865,9432079,9432443,9432651,9432932,9432995,9433119","accept_language":"en","is_partner":""}});   yt.setConfig({
+    'GUIDED_HELP_LOCALE': "en_US",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+yt.setConfig('SPF_SEARCH_BOX', true);yt.setMsg({'ADDTO_CREATE_NEW_PLAYLIST': "Create new playlist\n",'ADDTO_CREATE_PLAYLIST_DYNAMIC_TITLE': "  $dynamic_title_placeholder (create new)\n",'ADDTO_WATCH_LATER': "Watch Later",'ADDTO_WATCH_LATER_ADDED': "Added",'ADDTO_WATCH_LATER_ERROR': "Error",'ADDTO_WATCH_QUEUE': "Watch Queue",'ADDTO_WATCH_QUEUE_ADDED': "Added",'ADDTO_WATCH_QUEUE_ERROR': "Error",'ADDTO_TV_QUEUE': "Queue",'ADS_INSTREAM_FIRST_PLAY': "A video ad is playing.",'ADS_INSTREAM_SKIPPABLE': "Video ad can be skipped.",'ADS_OVERLAY_IMPRESSION': "Ad displayed.",'MASTHEAD_NOTIFICATIONS_LABEL': {"case1": "1 unread notification.", "case0": "0 unread notifications.", "other": "# unread notifications."},'MASTHEAD_NOTIFICATIONS_COUNT_99PLUS': "99+"});    yt.setConfig({
+    'XSRF_TOKEN': "QUFFLUhqbWVRZkpBSWYwMjlyUzRYUlBuX05uWUYwNUI1QXxBQ3Jtc0trUklUVDlBZjZWVFg4ek5nb2NMNHRpZ3U1TFRRWktxVlRnZDBfUm1BOGNOSXJHWHBYdFE3ektWOExfOTU4QkRpWGFpZHZJaU82QV9keFNYRXNObDB6QkR1LVVWS3Y5T1lucEpyX1MwLUxPdlNEcUNQcDJrRURHS2xpZjljYVhTMlRRNU0tMFpKR05Kekc0dktyTjEtV1pRMk4xb3c=",
+    'XSRF_REDIRECT_TOKEN': "aa8qltvdI6DYDFbqfIvcrz8nT_t8MTQ1OTk0NTc2N0AxNDU5ODU5MzY3",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+
+  yt.setConfig('FEED_PRIVACY_CSS_URL', "\/\/s.ytimg.com\/yts\/cssbin\/www-feedprivacydialog-vflJOlJu4.css");
+
+  yt.setConfig('FEED_PRIVACY_LIGHTBOX_ENABLED', true);
+yt.setConfig({'SBOX_JS_URL': "\/\/s.ytimg.com\/yts\/jsbin\/www-searchbox-legacy-vfl9fwD7B\/www-searchbox-legacy.js",'SBOX_SETTINGS': {"PSUGGEST_TOKEN":null,"HAS_ON_SCREEN_KEYBOARD":false,"EXPERIMENT_ID":-1,"SESSION_INDEX":null,"PQ":"","EXPERIMENT_STR":"","REQUEST_LANGUAGE":"en","REQUEST_DOMAIN":"kr","IS_FUSION":false},'SBOX_LABELS': {"SUGGESTION_DISMISS_LABEL":"Remove","SUGGESTION_DISMISSED_LABEL":"Suggestion dismissed"}});  yt.setConfig({
+    'YPC_LOADER_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-ypc-vfljnYUNS\/www-ypc.js",
+    'YPC_LOADER_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-ypc-vflQF5yB7.css",
+    'YPC_SIGNIN_URL': "https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F\u0026uilel=3\u0026service=youtube\u0026hl=en",
+    'DBLCLK_ADVERTISER_ID': "2542116",
+    'DBLCLK_YPC_ACTIVITY_GROUP': "youtu444",
+    'SUBSCRIPTION_URL': "\/subscription_ajax",
+    'YPC_SWITCH_URL': "\/signin?action_handle_signin=true\u0026skip_identity_prompt=True\u0026feature=purchases\u0026next=%2F",
+    'YPC_GB_LANGUAGE': "en_US",
+    'YPC_GB_URL': "https:\/\/checkout.google.com\/inapp\/lib\/buy.js",
+    'YPC_MB_URL': "https:\/\/payments.google.com\/payments\/v4\/js\/integrator.js?ss=md",
+    'YPC_TRANSACTION_URL': "\/transaction_handler",
+    'YPC_SUBSCRIPTION_URL': "\/ypc_subscription_ajax",
+    'YPC_POST_PURCHASE_URL': "\/ypc_post_purchase_ajax",
+    'YTO_GTM_DATA': {"purchaseStatus":"success","event":"purchased"}
+  });
+  yt.setMsg({
+    'YPC_OFFER_OVERLAY': "  \n",
+    'YPC_UNSUBSCRIBE_OVERLAY': "  \n"
+  });
+  yt.setConfig('GOOGLE_HELP_CONTEXT', "watch");
+ytcsi.setSpan('st', 387);yt.setConfig({'CSI_LOG_WITH_YT': true,'CSI_SERVICE_NAME': "youtube",'TIMING_ACTION': "watch,watch7_html5",'TIMING_INFO': {"c":"WEB","e":"9406994,9412776,9416126,9416891,9419452,9420452,9422596,9423662,9425006,9426927,9427902,9428399,9428606,9428660,9430021,9431285,9431476,9431865,9432651,9433119","cver":"1.20160404","yt_ad":0,"yt_li":0,"yt_spf":0,"yt_err":0,"yt_pl":0,"ei":"p68DV8v9B8Wu4AKI94rwBw","yt_lt":"cold"}});  yt.setConfig({
+    'XSRF_TOKEN': "QUFFLUhqbWVRZkpBSWYwMjlyUzRYUlBuX05uWUYwNUI1QXxBQ3Jtc0trUklUVDlBZjZWVFg4ek5nb2NMNHRpZ3U1TFRRWktxVlRnZDBfUm1BOGNOSXJHWHBYdFE3ektWOExfOTU4QkRpWGFpZHZJaU82QV9keFNYRXNObDB6QkR1LVVWS3Y5T1lucEpyX1MwLUxPdlNEcUNQcDJrRURHS2xpZjljYVhTMlRRNU0tMFpKR05Kekc0dktyTjEtV1pRMk4xb3c=",
+    'XSRF_REDIRECT_TOKEN': "aa8qltvdI6DYDFbqfIvcrz8nT_t8MTQ1OTk0NTc2N0AxNDU5ODU5MzY3",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+  yt.setConfig('THUMB_DELAY_LOAD_BUFFER', 0);
+if (window.ytcsi) {window.ytcsi.tick("jl", null, '');}</script>
+</body></html>

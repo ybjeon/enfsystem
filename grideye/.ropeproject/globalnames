@@ -1,6 +1,6 @@
 €}q(U
-datelocale]qUdtqaU
-find_point]q(Uunder_dtqUarrqUitemqUabove_dtqeUdb]q	(U	DBSessionq
-UsessionqUis_existqeUsample]Uinput_nodes]q(UahUbUgroupqUuidqhUurlqUsoupqUrUnUtimesqeUcrawling]q(hhhUcntqhUihhUcur_dtqUaUbhUvalueqUnhUrUteU	db_schema]q(UengineqUBaseqUDB_NAMEqU
-TABLE_UNITqUDataqU
-TABLE_DATAqUUnitqeUmil_to_date]q(Umil_to_dateq Uunix_time_millisq!eUcrawl]u.
+datelocale]qUdtqaUcrawling_KDD]q(UarrqUtime_idxqUvsqUurlqU	last_timeq	Uheadersq
+UfinqU	value_idxqhUlastqUiUlinesqUgetValueqUsoupqUrUtUuaqeUcrawl]Udb]q(U	DBSessionqUsessionqUis_existqeUsample]Uinput_nodes]q(UahUbUgroupqUuidqUitemqhhUrUnUtimesqeUcrawling]q(hhhUcntqhUihhUcur_dtqUaUbhUvalueqUnhUrUteU	db_schema]q(Uengineq UBaseq!UDB_NAMEq"U
+TABLE_UNITq#UDataq$U
+TABLE_DATAq%UUnitq&eUmil_to_date]q'(Umil_to_dateq(Udate_to_milq)eU
+find_point]q*(Uunder_dtq+hhUabove_dtq,eu.

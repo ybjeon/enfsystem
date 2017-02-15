@@ -1,0 +1,198 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<!-- FONT -->
+<link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500' rel='stylesheet' type='text/css'>
+<!-- Stylesheets -->
+<link rel="stylesheet" type="text/css" href="css/reset.css">
+<link rel="stylesheet" type="text/css" href="css/site.css">
+<!-- Scripts -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.visitjordan.com/earthcam/js/jquery.transit.js"></script>
+
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-38235173-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+ <!-- Add jQuery library -->
+	<script type="text/javascript" src="lib/jquery-1.8.2.min.js"></script>
+
+	<!-- Add mousewheel plugin (this is optional) -->
+	<script type="text/javascript" src="lib/jquery.mousewheel-3.0.6.pack.js"></script>
+
+	<!-- Add fancyBox main JS and CSS files -->
+	<script type="text/javascript" src="source/jquery.fancybox.js?v=2.1.3"></script>
+	<link rel="stylesheet" type="text/css" href="source/jquery.fancybox.css?v=2.1.2" media="screen" />
+
+	<!-- Add Button helper (this is optional) -->
+	<link rel="stylesheet" type="text/css" href="source/helpers/jquery.fancybox-buttons.css?v=1.0.5" />
+	<script type="text/javascript" src="source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+
+	<!-- Add Thumbnail helper (this is optional) -->
+	<link rel="stylesheet" type="text/css" href="source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" />
+	<script type="text/javascript" src="source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+
+	<!-- Add Media helper (this is optional) -->
+	<script type="text/javascript" src="source/helpers/jquery.fancybox-media.js?v=1.0.5"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+			 *  Simple image gallery. Uses default settings
+			 */
+
+			$('.fancybox').fancybox();
+
+			
+			$("#fancybox-manual-b").click(function() {
+				$.fancybox.open({
+					href : 'amman1.html',
+					width:'970px',
+					height:'580px',
+					type : 'iframe',
+					padding : 5
+				});
+			});
+
+			
+			$("#fancybox-manual-b2").click(function() {
+				$.fancybox.open({
+					href : 'amman2.html',
+					width:'970px',
+					height:'580px',					
+					type : 'iframe',
+					padding : 5
+				});
+			});
+
+$("#fancybox-manual-b3").click(function() {
+				$.fancybox.open({
+					href : 'deadsea.html',
+					width:'970px',
+					height:'580px',
+					type : 'iframe',
+					padding : 5
+				});
+			});
+
+
+$("#fancybox-manual-b4").click(function() {
+				$.fancybox.open({
+					href : 'petra.html',
+					width:'970px',
+					height:'580px',
+					type : 'iframe',
+					padding : 5
+				});
+			});
+
+
+$("#fancybox-manual-b5").click(function() {
+				$.fancybox.open({
+					href : 'aqaba.html',
+					width:'970px',
+					height:'580px',
+					type : 'iframe',
+					padding : 5
+				});
+			});
+			
+			$("#fancybox-manual-b6").click(function() {
+				$.fancybox.open({
+					href : 'main.html',
+					width:'970px',
+					height:'580px',
+					type : 'iframe',
+					padding : 5
+				});
+			});
+
+$("#fancybox-manual-b7").click(function() {
+				$.fancybox.open({
+					href : 'images/cs2_.jpg',
+					type : 'image',
+					padding : 5
+				});
+			});
+
+
+
+		});
+	</script>
+	<style type="text/css">
+		.fancybox-custom .fancybox-skin {
+			box-shadow: 0 0 50px #222;
+		}
+	</style>
+        
+</head>
+
+<body>
+    
+
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-38224043-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+</script>
+
+
+    <div id="Container">
+        
+    	<div id="logo"><img src="images/logo2.png" alt="" />
+    	</div>
+        
+        <div id="places">
+        
+        	<p class="text1">Choose one of the places below :</p>
+
+                <ul >
+                    <li ><a id="fancybox-manual-b2" href="javascript:;"><img src="images/amman1.png" alt="" width="164" height="145" /></a></li>
+                    <li id="amman2"><a id="fancybox-manual-b" href="javascript:;"><img src="images/amman2.png" alt="" width="164" height="145" /></a></li>
+                    <li id="deadsea"><a id="fancybox-manual-b3" href="javascript:;"><img src="images/deadsea.png" alt="" width="164" height="145" /></a></li>
+                    <li id="main"><a id="fancybox-manual-b6" href="javascript:;"><img src="images/main.png" alt="" width="164" height="145" /></a></li>
+                    <li id="petra"><a id="fancybox-manual-b4" href="javascript:;"><img src="images/petra.png" alt="" width="164" height="145" /></a></li>
+                    <li id="aqaba"><a id="fancybox-manual-b5" href="javascript:;"><img src="images/aqaba.png" alt="" width="164" height="145" /></a></li>
+                </ul>
+            
+        </div><!-- End Places -->
+        
+        <div id="welcometext">
+        
+        	<h1 class="head">WELCOME TO JORDAN</h1>
+            <p class="text2">Travel to Jordan with EarthCam's and the Jordan Tourism Board's collection of live streaming cameras! Jordan is a land of mesmerizing beauty and offers so much for the modern traveller. From the beautiful city of Amman to the amazing Dead Sea, experience views of this historic country that has become a must-see for people from all over the world.
+            <br><br><img src="images/zain1.jpg" border=0>
+            <a href="http://www.earthcam.com/top25/2013/" style="margin:0px 0px 0px 20px;"><img src="http://www.earthcam.com/top25/2013/images/awards/AwardRound2.png" alt="Winner EarthCam's 25 Most Interesting Webcams 2013" title="Winner EarthCam's 25 Most Interesting Webcams 2013" border="0" /></a>
+
+                        </p>
+        
+        </div><!-- End Welcome -->
+        
+    </div><!-- End Container -->
+    
+    <div id="background"></div>       
+    <div id="bottom"></div>
+    <div id="right"></div>
+    <div id="left"></div>
+</body>
+</html>

@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Bellagio Conservatory & Botanical Gardens Cam - Las Vegas</title>
+
+<style type="text/css">
+
+body{
+	background: #000 url('images/MainBackground-Full.jpg') top center no-repeat;
+	margin: 0;
+	padding: 0;
+}
+
+#container{
+	background: transparent url('images/Header-Drop-Shadow.png') top center no-repeat;
+	width: 1002px;
+	margin: 0 auto;
+	clear:both;
+}
+
+#header{
+	background: transparent url('images/Header-Background-login.jpg') center center no-repeat;
+	width:980px;
+	height: 101px;
+	margin: 0 auto;
+}
+
+#navbtns{
+	padding-top:31px;
+}
+
+a.navbtn{
+	height: 70px;
+	float: left;
+	margin: 0;
+	padding: 0;
+	border:none;	
+}
+
+a#reservation{
+	width: 185px;
+	background: transparent url('images/btn-Make-A-Reservation-off.jpg');
+}
+a#reservation:hover{
+	width: 185px;
+	background: transparent url('images/btn-Make-A-Reservation-on.jpg');
+}
+a#explore{
+	width: 165px;
+	background: transparent url('images/btn-Explore-Bellagio-off.jpg');
+}
+a#explore:hover{
+	width: 165px;
+	background: transparent url('images/btn-Explore-Bellagio-on.jpg');
+}
+a#promotions{
+	width: 170px;
+	background: transparent url('images/btn-Hotel-Promotions-off.jpg');
+}
+a#promotions:hover{
+	width: 170px;
+	background: transparent url('images/btn-Hotel-Promotions-on.jpg');
+}
+a#meetings{
+	width: 109px;
+	background: transparent url('images/btn-Meetings-off.jpg');
+}
+a#meetings:hover{
+	width: 109px;
+	background: transparent url('images/btn-Meetings-on.jpg');
+}
+a#concierge{
+	width: 111px;
+	background: transparent url('images/btn-Concierge-off.jpg');
+}
+a#concierge:hover{
+	width: 111px;
+	background: transparent url('images/btn-Concierge-on.jpg');
+}
+
+#player{
+	width:920px;
+	height:825px; 
+	margin:10px auto 0;
+}
+
+#footerBar{
+	width:100%;
+	height:5px;
+	background-color:#773215;
+	clear:both;
+}
+#footer{
+	background: transparent url('images/Footer-Background.jpg') no-repeat top center;
+	height:220px;
+}
+#innerFooter{
+	width:920px;
+	margin:0 auto;
+}
+</style>
+<script type="text/javascript" src='/js/swfobject.js'></script>
+<link rel="stylesheet" type="text/css" href="../common/css/footer.css" />
+</head>
+<body>
+	<div id='container'>
+		
+		<div id='header'>
+			<a href='http://www.bellagio.com/amenities/botanical-garden.aspx' target='_BLANK' style='float:left;'>
+				<img src='/images/blank.gif' width="200" height="101" border="0"/>
+			</a>
+			<div class='navSpacer' style='float:left;width:20px;height:101px;'></div>
+			
+			<div id="navbtns">
+				<a id='reservation' class='navbtn' href='https://reservations.mgmmirage.com/bookingengine.aspx?host=hotel&pid=190' target='_BLANK'>
+					<img src='/images/blank.gif' width="185" height="70" border="0"/>
+				</a>
+				<a id='explore' class='navbtn' href='http://www.bellagio.com/' target='_BLANK'>
+					<img src='/images/blank.gif' width="165" height="70" border="0"/>
+				</a>
+				<a id='promotions' class='navbtn' href='http://www.bellagio.com/hotel/hotel-promotions.aspx' target='_BLANK'>
+					<img src='/images/blank.gif' width="170" height="70" border="0"/>
+				</a>
+				<a id='meetings' class='navbtn' href='http://www.bellagio.com/meetings/' target='_BLANK'>
+					<img src='/images/blank.gif' width="109" height="70" border="0"/>
+				</a>
+				<a id='concierge' class='navbtn' href='http://www.bellagio.com/amenities/concierge-of-bellagio.aspx' target='_BLANK'>
+					<img src='/images/blank.gif' width="111" height="70" border="0"/>
+				</a>
+			</div>
+		</div>
+		
+	<div id='player' style="width:920px; height:825px; border:0px solid #FF0000;">
+		<div id="player2">
+		<img src="http://archives.earthcam.com/archives5/ecnetwork/us/nv/las_vegas/mgm_bellagio/live.jpg" style="padding-top:50px;" width="920px" height="650px" />
+		<script language="JavaScript" type="text/javascript">
+				
+			var attributes = {}
+			attributes.id		= "movie",
+			attributes.name	= "movie";
+			
+			var flashvars = {};
+				
+			var swfobject_params = {}
+			swfobject_params.bgcolor =""; //,
+			swfobject_params.wmode = "transparent";
+			swfobject_params.allowFullScreen = "true";
+			swfobject_params.allowScriptAccess = "always";
+			
+			swfobject.embedSWF("Bellagio_mpa.swf", "player2", 920, 825, "10.2","/swf/expressinstall.swf", flashvars, swfobject_params, attributes);
+		</script>
+		</div>
+	</div>
+
+	</div>
+	<br style='clear:both;' />
+	<div id='footer'>
+		<div id='innerFooter'>
+			<div id="ec_footer_link" style="color:#FFFFFF; float:left;">Should you encounter a problem with a link, <a class="ec_footer_link" style="color:#FFFFFF;" href="http://www.earthcam.net/support/contactus.php" target="_blank">let us know</a>.<BR/>Technology by <a class="ec_footer_link" style="color:#FFFFFF;" href="http://www.earthcam.net/technology/" target="_blank">EarthCam</a>.</div>
+			<p id="ec_logo"><a href="http://www.earthcam.net/technology/" target="_blank"><img style="margin:10px 0px 0px 0px;float:right;" src="/clients/common/images/EC_webcam_technology_115x30_wt.png" title="EarthCam Construction Camera" border="0" alt="EarthCam Construction Camera" border="0" /></a></p>
+		</div>
+	</div>
+	<!-- Google Analytics Code -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-274246-1");
+pageTracker._trackPageview();
+</script>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+
+<!--  older code
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-274246-1";
+urchinTracker();
+</script>
+ -->
+<!-- End Google Analytics Code -->
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-3da3lULkKt9Co"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<a href="http://www.quantcast.com/p-3da3lULkKt9Co" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-3da3lULkKt9Co.gif" style="display: 
+none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+</body>
+</html>

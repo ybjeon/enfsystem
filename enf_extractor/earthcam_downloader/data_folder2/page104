@@ -1,0 +1,2592 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html itemscope itemtype="http://schema.org/">
+<head>
+<title>EarthCam - USS Intrepid Cam</title>
+
+<meta name="keywords" content=", webcam, webcams, streaming video, network camera, cam, cams,
+mobile, moblog, live camera, internet camera, IP camera, live images, web
+camera, picture, photo, livecam, livecams, outdoor cams, mobile cameras,
+tourism, travel" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta name="description" content="See views of the USS Intrepid in New York City with EarthCam's exclusive webcams. Experience live views of this historic vessel, which served in the United States Navy for 31 years." />
+<meta name="classifications" content="Webcam: Streaming Video; Webcams: Webcam Sites; Computer &amp; Internet: Webcams; Entertainment: Webcams" />
+<meta name="abstract" content="Webcam Network - EarthCam" />
+<!-- facebook meta data -->
+<link rel="image_src" href="http://www.earthcam.com/cams/newyork/intrepid/images/intrepid4.jpg" />
+<!-- google+, facebook, and generic social media tag meta data -->
+<meta property="name" content="EarthCam - USS Intrepid Cam" />
+<meta property="description" content="See views of the USS Intrepid in New York City with EarthCam's exclusive webcams. Experience live views of this historic vessel, which served in the United States Navy for 31 years." />
+<meta property="image" content="http://www.earthcam.com/cams/newyork/intrepid/images/intrepid4.jpg" />
+<meta property="og:image" content="http://www.earthcam.com/cams/newyork/intrepid/images/intrepid4.jpg" />
+
+<link href="http://static.earthcamcdn.com/css/ecv4.css" rel="stylesheet" type="text/css" />
+<link href="http://static.earthcamcdn.com/css/frontpage.v3.css" rel="stylesheet" type="text/css" />
+<link href="http://static.earthcamcdn.com/cams/includes/main_style.css" rel="stylesheet" type="text/css" />
+<!-- <link href="/cams/includes/header.css" rel="stylesheet" type="text/css" /> -->
+<link href="http://static.earthcamcdn.com/cams/includes/footer.css" rel="stylesheet" type="text/css" />
+<!-- Webcam Network | EarthCam. -->
+
+<style type="text/css">
+
+/* for debugging */
+#main_content { border: 0px dashed red; background-color: white; width: 960px;}
+.borderContainer { border: 0px dashed purple; width: 960px; height: 100%; background-color: white; margin: 0 auto; }
+.superWhiteWrapper { border: 0px dashed purple; width: 1000px; height: 100%; background-color: white;  margin: 0 auto; }
+/*********/
+
+.css3 {
+	transition: background 0.5s linear;
+	-moz-transition: background 0.5s; /* Firefox */
+	-webkit-transition: background 0.5s; /* Safari and Chrome */
+	-o-transition: background 0.5s; /* Opera */
+}
+
+body {
+	background-color: #FFFFFF; 
+	margin: 0px;
+	padding: 0px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center top;
+	background-image: url(/cams/includes/images/page_bg/Intrepid_bg.jpg); 
+		background-position: center top !important;
+		
+}
+
+h1, h2, h3, h4 { margin: 00px; padding: 0px; }
+
+.divider {
+	width: 960px;
+	margin: 4px 0px 4px 0px;
+	border-top: 1px solid #666666;
+	font-size: 1px;
+}
+
+#colorBorder {
+	font-size:1px; 
+	padding: 0px; 
+	margin: 0px; 
+	vertical-align: top; 
+	float: left; 
+	width: 703px; 
+	height:1px;
+	/*border-top: 3px solid red;*/
+	display: none;
+}
+
+#mainContent {
+	border: 0px;
+	
+}
+
+#sd_promo_image, #hd_promo_image {
+	display: none;
+}
+
+
+.bottomHalf {
+	float: left;
+/*	background-image:url(/cams/includes/images/cam_list_fade.bright.jpg);
+	background-repeat:repeat-x;*/
+}
+
+.bodyCopy {
+	font-family: Tahoma;
+	text-align: left;
+	font-size:11px;
+	text-align: left;
+}
+
+
+.uniHeader {
+	width: 960px;
+	border-left: 0px solid #575757;
+	border-right: 0px solid #575757;
+	text-align:left;
+	margin: 0 auto;
+}
+
+
+
+/* remember to define focus styles! */
+:focus {
+  outline: 0;
+}
+
+
+a.normal:link {
+	color: #2F88B6;
+}
+
+a.normal:visited {
+	color: #2F88B6;
+}
+
+a.normal:active {
+	color: #2F88B6;
+}
+
+a.normal:hover {
+	color: #2F88B6;
+}
+
+
+a.helpLink:link, a.helpLink:visited, a.helpLink:active {
+	color: #4B4B4B; /* 4B4B4B */
+	text-decoration: none;
+	font-size:10px;
+}
+
+a.helpLink:hover {
+	color: #000000; /* 4B4B4B */
+	text-decoration: underline;
+	font-size:10px;
+	/*background-color: #4B4B4B*/;
+}
+
+.cellHoverOn {
+	background-color: #FAF7DE;
+	font-size:9px;
+}
+
+.cellHoverOff {
+	background-color: #FFFFFF;
+	font-size:9px;
+}
+
+/* Left Navigation */
+.navMain {
+	 width: 166px;
+	 background-color: #FFFFFF;
+}
+
+#navcontainer
+{
+	background-color: #FFFFFF;
+	width: 166px;
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight:bold;
+}
+
+ul#navlist
+{
+	text-align: left;
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+	width: 166px;
+}
+
+ul#navlist li
+{
+	display: block;
+	margin: 0px;
+	padding: 0px;
+}
+
+/* non-hover colors */
+ul#navlist li a
+{
+	display: block;
+	width: 166px;
+	height: 20px;
+	/*height: 18px;*/
+	border-top: 0px solid #2E1F87;
+	border-bottom: 0px solid #000003;
+	color: #000000;
+	text-decoration: none;
+	/*background-image:url(images/left_nav_button_bg.gif);*/
+	/*background-image:url(http://earthcamcdn.com/cams/includes/images/shadow.png);*/
+	background-image:url(http://earthcamcdn.com/cams/includes/images/shadow_adv.gif);
+	/*background-image:url(/cams/includes/images/shadow_test.gif);*/
+	background-color: #FFFFFF;
+}
+
+
+#navcontainer > ul#navlist li a { width: auto; }
+
+ul#navlist li#active a
+{
+	background-color: #D5353D;
+	color: #000000;
+}
+
+/* hover colors */
+ul#navlist li a:hover, ul#navlist li#active a:hover
+{
+	color: #000000;
+	border-top-color: #ececec;
+	border-bottom-color: #ececec;
+	/*background-image:url(images/left_nav_button_bg_hover.gif);*/
+	background-image:url(http://earthcamcdn.com/cams/includes/images/shadow.png);
+	background-color: #ececec;
+	/*background-position: 10px -10px;*/
+}
+
+/***********************/
+
+.fauxLink {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+
+.rightNav {
+	/*border: 1px solid #D7D6A5;*/
+	width: 178px;
+	margin-left: 22px;
+}
+
+#wmvContainer {
+	top: 24px;
+	/* top: 29px;  <-- old value for normal 320x240 view */
+	left: 6px;
+	z-index: 0;
+	display: none;
+	text-align: center;
+	/*background-color: #000000;*/
+}
+
+#mapContainer {
+	top: 25px;
+	/*left: 6px;*/
+	z-index: 0;
+	display: none;
+	text-align: center;
+	/*background-color: #000000;*/
+}
+
+#ECNglobalContainer {
+	position: relative;
+	/*margin-left: 0px;*/
+	margin: 0px auto;
+	height: 450px;
+	/*display: none;*/ /*debug*/
+}
+
+#flashContainer {
+	position: absolute;
+	z-index: 20;
+	border: 0px solid #000000;
+	width: 960px;
+	text-align: center;
+	margin: 0px auto;
+}
+
+#ecnetworkcam {
+	height:450px;
+	color: black;
+	background-color: #B3B1B2;
+	
+	/*background-image: url(http://static.earthcamcdn.com/cams/includes/images/placeholder_bgHD.jpg);*/ 
+	background-image: url(http://static.earthcamcdn.com/cams/includes/images/gray_bg.jpg);
+	background-position: 0 0;
+	background-repeat: no-repeat;
+}
+
+#timelapse_player {
+	border: 0px solid #FF0000;
+	width: 740px;
+	margin: 5px 0px 13px 0px;
+	/* margin: 5px 0px 13px 0px; */
+	text-align:center;
+}
+
+#camContent {
+	margin:0px 0px 0px 0px;	float: left;
+	text-align: left;
+	/*width: 740px;*/
+	width: 960px;
+}
+
+
+#basic_loading {
+	background-image: url(http://static.earthcamcdn.com/images/ajax-loader_circular.gif);
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+/* Top Nav section, when turned on */
+#topNavBar {
+	color: #3C3C3C; /**/;
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: bold;
+	/*width: 960px;*/
+	width: 1000px;
+	height: 30px;
+	border-top: 0px solid black;
+	border-bottom: 1px solid #818181;
+	background-color: #FFFFFF;;
+	background-image: url(http://static.earthcamcdn.com/cams/includes/images/overlay.15.png);
+	background-position: bottom center;
+	background-repeat: repeat-x;
+	text-align: left;
+	position: relative;
+	z-index: 500;
+}
+
+#topNavBar a {	padding: 0 15px 0 15px;}
+#topNavBar a:link, #topNavBar a:visited, #topNavBar a:active {	text-decoration: none; color: #3C3C3C;/*#000000*/;}
+#topNavBar a:hover { text-decoration: underline; }
+
+#leftNavCell { float: left; }
+
+
+	#leftNavCell {
+		display: none;
+	}
+	
+
+p.pageContentCopy {
+	margin-bottom: 5px;
+}
+
+p.pageContentCopyHeader {
+	margin-bottom: 5px;
+	font-weight:bold;
+	font-size:14px;
+}
+
+p.flashTextColor {
+	color: #FFFFFF;
+	width: 153px;
+	margin: 5px 0px 0px 5px;
+}
+
+.misc_content {
+	/*margin-left: 40px;*/
+	padding: 20px 0px 0px 20px;
+	float: left;
+}
+
+#ecn_left_column { width: 600px; float: left; border: 0px dashed red; }
+#ecn_right_column { width: 350px; float: left; border: 0px dashed green; text-align: left; }
+#socialNetworkingBox { margin-left: 10px; text-align: left; }
+#addthis { text-align: right; width: 180px; border: 0px solid red;}
+#socialNetworkingBox img { vertical-align: middle; margin-left: 15px; }
+#bottom_google_ad { width: 300px; height: 250px; float: left; margin-left: 50px;}
+#extra_thumbs { float: left; margin-left: 0px;}
+#promo_space, #promo_space_extra { border: 0px dashed red; width: 300px; height: 60px; text-align: left; }
+#promo_space_extra { margin-bottom: 20px; }
+
+#top_nav_dropdown {
+	text-align: left;
+	width: 250px;
+	padding: 5px;
+	
+	border: 1px solid #727272;
+	-moz-box-shadow: 1px 1px 2px #727272;
+	-webkit-box-shadow: 1px 1px 2px #727272;
+	box-shadow: 1px 2px 2px #727272;
+	
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright:5px;
+	-moz-border-radius-bottomleft:5px;
+	-moz-border-radius-bottomright:5px;
+	-webkit-border-top-left-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+
+	background-color: #EFEFEF; /*EDEDED*/
+	display: none;
+	z-index: 10000;
+	position: absolute;
+	top: 32px;
+	/*left: 125px;*/  /* old position */
+	left: 375px;
+}
+
+#cam_thumbs_dropdown {
+	text-align: left;
+	width: 275px;
+	
+	/*border: 2px solid #BCBCBC;*/ /*727272*/
+	padding: 5px;
+	
+	border-top: 0;
+	border-right: 2px solid #131304; /*910000*/
+	border-bottom: 2px solid #131304;
+	border-left: 2px solid #131304;
+	-moz-box-shadow: 1px 1px 2px #131304;
+	-webkit-box-shadow: 1px 1px 2px #131304;
+	/*box-shadow: 1px 2px 2px #DDDDDD;*/
+	
+	-moz-border-radius-topleft: 0px;
+	-moz-border-radius-topright:0px;
+	-moz-border-radius-bottomleft:5px;
+	-moz-border-radius-bottomright:5px;
+	-webkit-border-top-left-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	border-top-left-radius:0px;
+	border-top-right-radius:0px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+
+	background-color: #FFFFFF; 
+	display: none;
+	z-index: 400;
+	position: absolute;
+	top: 30px;
+	left: 20px;
+}
+
+#more_cams_img {
+	/*margin: -8px 0px 0px -15px;
+	vertical-align: top;*/
+
+	overflow-y: visible;
+	background-image: url(/images/network/MoreCams_button_sprite2.png);
+	background-repeat: no-repeat;
+	cursor: pointer;
+	margin: -8px 0px 0px 20px;
+	vertical-align: top;
+	width: 134px;
+	height: 30px;
+	float: left;
+	z-index: 10000;
+}
+
+.more_cams_img_off { background-position: 0 0; }
+.more_cams_img_on  { background-position: 0 -30px; }
+
+.thumb_cam_img {
+	vertical-align: middle;
+	/*float: left;*/
+	display: inline-block;
+	margin-right: 10px;
+	width: 72px;
+	height: 40px;
+	background-image:url(/images/network/cam_list_fade.bright.jpg);
+	background-repeat:repeat-x;
+}
+
+.thumb_cam_text {
+	/*float: left;*/
+	display: inline-block;
+	vertical-align: middle;
+	width: 150px;
+	/*height: 30px;*/
+	font-size: 11px;
+	font-weight: 400;
+}
+
+.cam_text_off { color: #000000; }
+.cam_text_on  { color: #1D63A2; }
+
+.thumb_cam_switcher { cursor: pointer; height: 45px; }
+.camSelectionOver { background-color: #FFFFFF; }
+.camSelectionOut { background-color: #EFEFEF; }
+
+
+.nav_dropdown_item  { padding: 3px; color: black; }
+/*
+a.nav_dropdown_link:link, a.nav_dropdown_link:visited, a.nav_dropdown_link:active { color: black !important; }
+.a.nav_dropdown_link:hover { text-decoration: underline;}
+*/
+
+#body_copy a { text-decoration: underline; }
+
+#smellovision {
+	display: none;
+	cursor: pointer;
+	z-index: 50000;
+	left: 450px;
+	
+	left: 50%;
+	margin-left: -50px;
+	width: 100px;
+	
+	top: 460px;
+	position: absolute;
+	/*height: 99px;*/
+	/*background-color: red;*/
+}
+
+#aprilfools {
+	display: none;
+	cursor: pointer;
+	z-index: 50000;
+	left: 100px;
+	top: 200px;
+	position: absolute;
+	/*width: 128px;
+	height: 72px;*/
+	/*background-color: blue;*/
+}
+
+</style>
+
+<!--[if IE 7]>
+<style type="text/css">
+#flashContainer {
+	clear: left;
+	position: static;
+}
+
+.leftGoogle {
+	vertical-align: top;
+}
+</style> 
+<![endif]-->
+
+
+<!--[if lte IE 6]>
+<style type="text/css">
+#topNavBar {
+	background-image: none;
+	height: 20px;
+}
+</style> 
+<![endif]-->
+
+
+<script language="JavaScript" src="http://static.earthcamcdn.com/js/winpopup.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://static.earthcamcdn.com/js/dropDown.js" type="text/javascript"></script>
+<!-- <script language="JavaScript" src="/js/swfobject.js" type="text/javascript"></script> -->
+<script language="JavaScript" src="http://static.earthcamcdn.com/js/swfobject.2.0.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://static.earthcamcdn.com/js/jquery.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://static.earthcamcdn.com/js/jquery.tools.min.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://static.earthcamcdn.com/swf/ecvr/swfkrpano.js" type="text/javascript"></script>
+
+<!--<script language="JavaScript" src="http://static.earthcamcdn.com/js/jquery.history.js" type="text/javascript"></script>-->
+<script language="JavaScript" src="http://static.earthcamcdn.com/js/jquery.history.html4+5.js" type="text/javascript"></script>
+
+
+<!--<script language="JavaScript" src="http://static.earthcamcdn.com/js/flashdetection.js" type="text/javascript"></script>-->
+<!--<script language="JavaScript" src="/js/jquery.ba-bbq.js" type="text/javascript"></script>-->
+<!--<script language="JavaScript" src="/js/jquery.ba-hashchange.js" type="text/javascript"></script>-->
+
+<script language="JavaScript" type="text/javascript">
+
+// document.ready function
+$(function(){
+	$j("#smellovision").click(function(){
+		//alert("April Fools!");
+		clicksound.playclip();
+		
+		$j('#aprilfools').show();
+		$j('#aprilfools').delay(5000).fadeOut('slow');
+	});
+	
+	
+	$j('#smellbutton').mouseover(function() { 
+           $j(this).attr("src", "/events/april/baconcam/images/SmellThis2_100x99.png");
+	}).mouseout(function() { 
+           $j(this).attr("src", "/events/april/baconcam/images/SmellThis1_100x99.png");
+    });
+	
+	/*$j("#smellovision").mouseover(function(){
+		$j("#smellbutton").
+	})
+	.mouseout(function(){
+	
+	})*/
+	
+	
+	$('#flashContainer').show();
+	
+	// init the player
+		/*
+			HISTORY JS implementation
+		*/
+		var History = window.History;
+		var State;
+		//var State = History.getState();
+		
+		var hash_cam = loadCameraViaHash();
+		if (hash_cam == false)
+		{
+			State = History.getState();
+		}
+		
+		// listen for history change events
+		History.Adapter.bind(window,'statechange',function(){ // Note: We are using statechange instead of popstate
+			State = History.getState(); // Note: We are using History.getState() instead of event.state
+			var hash_cam = State.hash.match(/cam=(.*)(&|$)/i);
+			//selectCamera(hash_cam[1]);
+			//switchCams(hash_cam[1]);
+		});
+		// ------------------------------------------
+	
+		//alert(js_basic_player);
+		if (js_basic_player)
+			_startPlayer_basic('gzrob_archives');
+		else
+			_startPlayer(); /*document.getElementById('helplearn').style.visibility = 'visible';*/
+			
+		//adjustTemplate('hdon');
+
+	// top nav dropdown
+	//var nav_overlay = $j('#top_nav_dropdown');
+	$j('#top_nav_dropdown').mouseleave(function(){
+		topnavHide(800);
+		top_nav_dropdown_visible = false;
+	});
+	$j('#top_nav_dropdown').mouseenter(function(){
+		$j('#top_nav_dropdown').clearQueue();
+		top_nav_dropdown_visible = true;
+	});
+	
+	
+	$j('#cam_thumbs_dropdown').mouseleave(function(){
+		//console.log("#cam_thumbs_dropdown mouseleave event");
+		thumbSelectorHide(800);
+		thumbs_selector_dropdown_visible = false;
+	});
+	$j('#cam_thumbs_dropdown').mouseenter(function(){
+		$j('#cam_thumbs_dropdown').clearQueue();
+		thumbs_selector_dropdown_visible = true;
+	});
+	
+	
+	$j('.thumb_cam_switcher').mouseover(function(){
+		if ("cam_"+currentName != $j(this).attr('id'))
+		{
+			$j(this).removeClass("camSelectionOut").addClass("camSelectionOver")
+			$j(this).find(".pageThumbnailContainer").removeClass("pageThumbnailContainer_off").addClass("pageThumbnailContainer_on");
+			$j(this).find(".thumb_cam_text").removeClass("cam_text_off").addClass("cam_text_on");
+		}
+	});
+	
+	$j('.thumb_cam_switcher').mouseout(function(){
+		if ("cam_"+currentName != $j(this).attr('id'))
+		{
+			$j(this).removeClass("camSelectionOver").addClass("camSelectionOut");
+			$j(this).find(".pageThumbnailContainer").removeClass("pageThumbnailContainer_on").addClass("pageThumbnailContainer_off");
+			$j(this).find(".thumb_cam_text").removeClass("cam_text_on").addClass("cam_text_off");
+		}
+	});
+	
+	$j('#more_cams_img').mouseover(function(){
+		if (!thumbs_selector_dropdown_visible)
+			$j("#more_cams_img").removeClass("more_cams_img_off").addClass("more_cams_img_on");
+	});
+	
+	$j('#more_cams_img').mouseout(function(){
+		if (!thumbs_selector_dropdown_visible)
+			$j("#more_cams_img").removeClass("more_cams_img_on").addClass("more_cams_img_off");
+	});
+	
+	
+	$j('#more_cams_img').click(function(){
+		thumbSelectorPopup();
+	});
+	
+	
+	/*
+	$j('#top_nav_dropdown').hover(function(){
+		$j('#moreArrow_ecn_nav').attr('src', 'http://static.earthcamcdn.com/images/search/MoreArrow-Hover.gif');
+	},
+	function(){
+		$j('#moreArrow_ecn_nav').attr('src', 'http://static.earthcamcdn.com/images/search/MoreArrow-On.gif');
+	});
+	*/
+
+	//$('#superContentTable').css("visibility","visible");
+	// experimental overlay dragging
+	//$("#ecnOverlay").draggable();
+	
+	// testing out hash stuff
+	// Bind an event to window.onhashchange that, when the hash changes, gets the
+	// hash and adds the class "selected" to any matching nav link.
+
+/*	
+	$j(window).hashchange( function(){
+		var _hash_cam	= loadCameraViaHash();
+		switchCams(_hash_cam);
+	})
+	*/
+
+	
+	/*
+		IF FLASH IS NOT INSTALLED
+	*/
+	//var flash_version = GetSwfVer();
+	var _flash_installed = ((typeof navigator.plugins != "undefined" && typeof navigator.plugins["Shockwave Flash"] == "object") || (window.ActiveXObject && (new ActiveXObject("ShockwaveFlash.ShockwaveFlash")) != false));
+	
+	if (!_flash_installed)
+	{
+		var install_flash_message = 
+		'<div>'+
+			'<br /><br /><br /><br />'+
+			'<h4>EarthCam Network content requires the latest version of the Adobe Flash Player</h4>'+
+			'<br />'+
+			'<div><a target="_blank"href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" /></a></div>'+
+		'</div>';
+			
+		$j("#ecnetworkcam").html(install_flash_message);
+	}
+
+	
+});
+
+
+/*if (top.location != self.location) {
+	top.location = self.location.href;
+}*/
+if (top.location != self.location) {top.location = self.location;}
+
+
+function whatRowTypeIsThis(cameraLabel) { return(thumb_row_type[cameraLabel]); }
+
+var js_bg_header = {"intrepid_str":[{"bg":"","header":""}],"spacer":[{"bg":"","header":""}],"liberty_archives":[{"bg":"","header":""}],"intrepid_streaming":[{"bg":"","header":""}],"libertysp_archives":[{"bg":"","header":""}],"gzrob_archives":[{"bg":"","header":""}],"intrepid2_archives":[{"bg":"","header":""}]};
+var top_nav_dropdown_visible = false;
+var thumbs_selector_dropdown_visible = false;
+var ECN_player_version = "2";
+var js_filler_var = false;
+var __showPlayer;
+__showPlayer = true;
+var currentCam = 0;
+var current_type_v2 = "flash";
+var cookieTimeout = "600";
+var cookieTimeout_ft = "129600";
+var showplaceholder = "false";
+var js_basic_player = false; // bool: true or false
+var select_cam_fn	= false;
+
+var thumb_row_type 	= new Array();
+
+//var currentType = "";
+var currentName = "gzrob_archives";
+//var hash_cam = currentName;
+var streaming_mode = "";
+
+
+/*  klugey bandaid stuff for times square */
+var currentHDiterator = 1;
+function switchTSCams()
+{
+	//alert(currentHDiterator);
+	var newTSCam = "";
+	// javascript: selectCamera(lennon_hd)
+	// lennon_hd,fridays,tsone_str
+	var tsHDCams = new Array("lennon_hd","fridays","tstwo_hd"); // "tsone_str",
+	
+	newTSCam = tsHDCams[currentHDiterator];
+	
+	//selectCamera(newTSCam);
+	document.getElementById('movie').selectCamera(newTSCam);
+	currentName = newTSCam;
+
+	if (currentHDiterator == 2)
+		currentHDiterator = 0;
+	else	
+		currentHDiterator++;
+
+}
+
+function getQueryVariable(variable){var query=window.location.search.substring(1);var vars=query.split("&");for(var i=0;i<vars.length;i++){var pair=vars[i].split("=");if(pair[0]==variable){return pair[1];}}}
+
+
+/********************/
+
+
+function loadCameraViaHash()
+{
+	var pathname = $j(location).attr('pathname'); 
+	
+	if (location.hash.match(/#\?cam=(.*)(&|$)/i))
+	{
+		//1 var hash = location.hash.replace('#', '');
+		//1 var camera = hash.substr(2)
+		
+		var _camera = location.hash.match(/#\?cam=(.*)(&|$)/i);
+		
+		return(_camera[1]);
+	}
+
+	//failsafe if hash isn't found
+	return(false);
+}
+
+
+function topnavHide(delay){
+	$j('#top_nav_dropdown').delay(delay).fadeOut("fast");
+}
+
+function topNavPopup()
+{
+	if (top_nav_dropdown_visible)
+	{
+		top_nav_dropdown_visible = false;
+		$j('#top_nav_dropdown').fadeOut("fast");
+	}
+	else
+	{
+		top_nav_dropdown_visible = true;
+		$j('#top_nav_dropdown').fadeIn("fast");
+	}
+}
+
+
+function thumbSelectorHide(delay){
+	$j('#cam_thumbs_dropdown').delay(delay).fadeOut("fast", function() {
+		$j("#more_cams_img").removeClass("more_cams_img_on").addClass("more_cams_img_off");
+	});
+}
+
+function thumbSelectorPopup()
+{
+	if (thumbs_selector_dropdown_visible) // hiding it
+	{
+		thumbs_selector_dropdown_visible = false;
+		$j("#more_cams_img").removeClass("more_cams_img_on").addClass("more_cams_img_off");
+		$j('#cam_thumbs_dropdown').fadeOut("fast");
+	}
+	else // showing it
+	{
+		gaRecordInternal(-1, 'ECN_thumbdropdown', '/internal/ecn/camthumbdropdown');
+		
+		thumbs_selector_dropdown_visible = true;
+		$j("#more_cams_img").removeClass("more_cams_img_off").addClass("more_cams_img_on");
+		$j('#cam_thumbs_dropdown').fadeIn("fast");
+	}
+}
+
+function _startPlayer_basic(_cam)
+{
+	//alert(_cam);
+	//alert(json_basic.cam[_cam].hd);
+	//alert( json_basic['cam'][_cam]['hd'] );
+	
+	// determine if hash tag history is present
+	//loadCameraViaHash();
+	var camData = json_basic['cam'][_cam];
+	var basic_html = "";
+	var flashContainer = $("#flashContainer");
+	var sWidth;
+	var sHeight;
+
+	var loading = 
+	'<div style="width: 960px; height: 540px;">'+
+	'<p style="height: 140px; text-align:center; font-size: 1px;">&nbsp;</p>'+
+	'Loading Player'+
+	'<br /><br />'+
+	'<img style="border: 1px solid black;" src="http://static.earthcamcdn.com/mapsearch_google/images/loading_screen.gif" width="50" alt="loading" />'+
+	'</div>';
+	
+	//alert("basic player init " + _cam + " | live type " + camData.live_type);
+
+	// special cases
+	if (camData.group_id =="statueofliberty" || camData.group_id =="warhol" || camData.group_id =="fishbowl_2014" || camData.group_id =="aprilfools2014" || camData.group_id =="popefrancisholymass" || camData.group_id =="sandyhook") // && typeof getCookie("warholQR") != "undefined"))
+	{	
+		//alert("exception");
+		
+		if (_cam == "liberty_torch" )
+		{
+			sWidth			= "960";
+			sHeight			= "540";
+			basic_html	= '<div id="ecvrDIV" style="width:'+sWidth+'; height:'+sHeight+'px;"></div>';
+			$("#ECNglobalContainer").css("height",sHeight+'px');
+			flashContainer.html(loading);
+			flashContainer.html(basic_html);
+			ecvr.init();
+			return(1);
+		}
+
+		// all the rest
+		if (camData.live_type == "mega_hd" )
+		{
+			sWidth			= "960";
+			sHeight			= "540";
+			var sPath		= camData.livestreamingpath;//livestreamingpath
+
+			if (camData.cdn_status == "true")
+				sFile			= sPath.substr(8) + ".flv";
+			else
+				sFile			= sPath.substr(12); //  /fecnetwork/libertyHD1.flv
+			
+			//console.log(sPath);
+			//console.log(sFile);
+			
+			var frameSrc	= '/cams/includes/player_viewer_f.php?inet='+camData.inet+'&type=h264&vid='+sFile+'&w='+sWidth+'&h='+sHeight;
+			basic_html 		= '<iframe width="'+sWidth+'" height="'+sHeight+'" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="'+frameSrc+'"></iframe>';
+		}
+		else
+		{
+			sWidth			= "960";
+			sHeight			= "540";
+			var timestamp	= new Date().getTime();
+			var iPath;
+			
+			// bandaid for the liberty popart cam
+			if (_cam == "liberty_popart")
+				iPath		= "http://www.earthcam.com/cams/includes/image.php?img=bc8cfbf74da8fdd0156a05eaf7edfa82" + "&time=" + timestamp;
+			else
+				iPath		= camData.imagedomain + camData.livepath + "?"+ timestamp;
+
+			basic_html		= '<div id="basic_loading"><img src="'+iPath+'" width="'+sWidth+'" height="'+sHeight+'"  alt="" title="" /></div>';
+		}
+	}
+	else // regular case
+	{
+		sWidth			= "960";
+		sHeight			= "540";
+		var timestamp	= new Date().getTime();
+		//var iPath		= camData.imagedomain + camData.livepath + "?"+ timestamp;
+		//var iPath		= "http://archives.earthcam.com/archives5/camshot/" + camData.inet + ".jpg" + "?"+ timestamp;
+		var iPath		= "http://www.earthcam.com/cams/includes/image.php?img=" + camData.inet + "&amp;"+ timestamp;
+		basic_html		= '<div id="basic_loading"><img src="'+iPath+'" width="'+sWidth+'" height="'+sHeight+'"  alt="" title="" /></div>';
+	}
+	
+	//alert(loading);
+	$("#ECNglobalContainer").css("height",sHeight+'px');
+	//flashContainer.html(loading);
+	flashContainer.html(basic_html);
+	
+		
+	
+	return(1);
+}
+
+function _startPlayer()
+{
+	//alert ("player init");
+
+	/********************/
+	// global vars for swfobject sections
+	var swfobject_params = {}
+	swfobject_params.bgcolor ="#000000"; //,
+	swfobject_params.wmode = "transparent";
+	swfobject_params.allowFullScreen = "true";
+	// swfobject_params.allowScriptAccess = "sameDomain";
+	swfobject_params.allowScriptAccess = "always";
+	
+	var attributes = {}
+	  attributes.id		= "movie",
+	  attributes.name	= "movie";
+
+	var flashvars = {};
+	/********************/
+	
+	if (ECN_player_version == "2")
+	{
+		swfobject_params.bgcolor ="#FFFFFF";
+		swfobject_params.wmode = "transparent";
+		swfobject_params.scale = "noborder";
+		
+		
+		flashvars.hidebanner	= "false";
+		
+		var js_defaultCam = getQueryVariable('cam');
+		if ( js_defaultCam == undefined) { js_defaultCam = 'gzrob_archives'; }
+		flashvars.cam			= js_defaultCam;
+		
+		// determine if hash tag history fallback is present, for IE <=9 and compat mode
+		var hash_cam = loadCameraViaHash();
+		if (hash_cam !== false)
+			flashvars.cam			= hash_cam;
+		else
+			flashvars.cam			= "gzrob_archives";
+		
+		//flashvars.timestamp		= "1459858815";	
+		flashvars.json			= "%7B%22cam%22%3A%7B%22intrepid_str%22%3A%7B%22mapmode%22%3A%22staticmaplite%22%2C%22mappath%22%3A%22%22%2C%22live_tab_text%22%3A%22LIVE%22%2C%22reservearchives%22%3A%22false%22%2C%22custom_background%22%3A%22%22%2C%22custom_header%22%3A%22%22%2C%22offlineMessage%22%3A%22%22%2C%22offlineMessageSub%22%3A%22%22%2C%22showOfflineMessage%22%3A%22true%22%2C%22worldtour_path%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo3.earthcam.com%5C%2Ffecnetwork%5C%2Fintrepid1.flv%22%2C%22worldtour%22%3A%22false%22%2C%22worldtour_type%22%3A%22updatingimage%22%2C%22worldtour_delay%22%3A%2215000%22%2C%22maintainAspectRatio%22%3A%221%22%2C%22bestofdomain%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo2.earthcam.com%5C%2Farchives%22%2C%22bestofpath%22%3A%22%22%2C%22bestofbuffer%22%3A%225%22%2C%22bestofstarttime%22%3A%22%22%2C%22goto%22%3A%22live%22%2C%22defaulttab%22%3A%22live%22%2C%22image_rotate%22%3A%220%22%2C%22rotate%22%3A%220%22%2C%22offlineimages%22%3A%22intrepid4.jpg%22%2C%22is3D%22%3A%22false%22%2C%22hideIconMap%22%3A%22false%22%2C%22archiveVideoSelector%22%3A%22false%22%2C%22thumbnail%22%3A%22185b9c9ac8830679c7281e0c5eac662d%22%2C%22page_thumbnail%22%3A%22147b12a34421b217449177a699cd440b%22%2C%22url%22%3A%22%22%2C%22weather%22%3Anull%2C%22hidden%22%3A%22false%22%2C%22hd%22%3A%22mega_hd%22%2C%22overlay%22%3A%22true%22%2C%22overlay_archives%22%3A%22false%22%2C%22overlay_timelapse%22%3A%22false%22%2C%22id%22%3A%22115a77f5ead421533e609de99b51ccc4%22%2C%22inet%22%3A%22512c5cad6c37edb98ae91c8a76c3a291%22%2C%22wmv_for%22%3A%22%22%2C%22longbanner%22%3A%22%22%2C%22placeholderpath%22%3A%22%22%2C%22coords%22%3A%2240.76433500000000%2C-73.99870600000000%22%2C%22map_lat%22%3A%2240.76433500000000%22%2C%22map_long%22%3A%22-73.99870600000000%22%2C%22cam_counter%22%3A1%2C%22cam_state%22%3A%220%22%2C%22cam_name%22%3A%22intrepid_str%22%2C%22group_id%22%3A%22intrepid%22%2C%22group_order%22%3A%221%22%2C%22default_cam%22%3A%22fleetweek%22%2C%22xml_path%22%3A%22newyork%5C%2Fintrepid%22%2C%22liveon%22%3A%22true%22%2C%22archiveon%22%3A%22false%22%2C%22hofon%22%3A%22true%22%2C%22bestofon%22%3A%22false%22%2C%22liveexternal%22%3A%22false%22%2C%22liveexternalpath%22%3A%22%22%2C%22timelapseon%22%3A%22true%22%2C%22playbackspeed%22%3A%22500%22%2C%22showdates%22%3A%22yes%22%2C%22width%22%3A%22640%22%2C%22height%22%3A%22480%22%2C%22actualwidth%22%3A%22640%22%2C%22actualheight%22%3A%22480%22%2C%22temptype%22%3A%22F%22%2C%22metar%22%3A%22KNYC%22%2C%22hofid%22%3A%22intrepid%22%2C%22live_type%22%3A%22mega_hd%22%2C%22wcs%22%3A%22115%22%2C%22timezone%22%3A%22America%5C%2FNew_York%22%2C%22thumbimage%22%3A%22http%3A%5C%2F%5C%2Fstatic.earthcamcdn.com%5C%2Fcams%5C%2Fincludes%5C%2Fimages%5C%2Fthumbimage%5C%2Fintrepid_mast.jpg%22%2C%22thumbimage2%22%3A%22http%3A%5C%2F%5C%2Fstatic.earthcamcdn.com%5C%2Fcamshots%5C%2F128x72%5C%2F185b9c9ac8830679c7281e0c5eac662d.jpg%22%2C%22alttext%22%3A%22Aerial+View%22%2C%22camtext%22%3A%22Intrepid+Mast%22%2C%22imagedomain%22%3A%22http%3A%5C%2F%5C%2Fimages.earthcam.com%22%2C%22streamingdomain%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo3.earthcam.com%22%2C%22archivedomain%22%3A%22http%3A%5C%2F%5C%2Farchives.earthcam.com%22%2C%22timelapsedomain%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo2.earthcam.com%5C%2Farchives%5C%2F%22%2C%22filedomain%22%3A%22http%3A%5C%2F%5C%2Fwww.earthcam.com%5C%2Fswf%5C%2Fcam_player%5C%2F%22%2C%22livepath%22%3A%22%5C%2Fec_metros%5C%2Fourcams%5C%2Fintrepidsasmtc.jpg%22%2C%22livestreamingpath%22%3A%22%5C%2Ffecnetwork%5C%2Fintrepid1.flv%22%2C%22android_livepath%22%3A%22%5C%2Ffecnetwork%5C%2Fintrepid1.flv%22%2C%22cdn_status%22%3A%22false%22%2C%22archivepath%22%3A%22%5C%2Farchives5%5C%2Fecnetwork%5C%2Fus%5C%2Fny%5C%2Fnyc%5C%2Fintrepidsasmtc%5C%2F24hrtimelapse.mp4%22%2C%22timelapsepath%22%3A%22%5C%2Fnetwork%5C%2Fpro%5C%2FIntrepid_Returns.flv%22%2C%22windowsmediapath%22%3A%22%22%2C%22hofpath%22%3A%22newyork%5C%2Fintrepid%5C%2F%22%2C%22logolink%22%3A%22%22%2C%22logopath%22%3A%22%5C%2Fcams%5C%2Fnewyork%5C%2Fintrepid%5C%2Fimages%5C%2Fintrepid.swf%22%2C%22livestreamingbuffer%22%3A%225%22%2C%22archivebuffer%22%3A%225%22%2C%22timelapsebuffer%22%3A%225%22%2C%22name%22%3A%22Streaming+Aerial+View%22%2C%22group%22%3A%22Intrepid+Cam%22%2C%22location%22%3A%22New+York%2C+New+York%22%2C%22description%22%3A%22%3Cspan+class%3D%27desc%27%3EEnjoy+this+exclusive+view+of+the+completely+restored+%3Ca+href%3D%5C%22javascript%3A%7Bwindow.open%28%27http%3A%5C%2F%5C%2Fwww.intrepidmuseum.org%5C%2F%27%29%3BurchinTracker%28%27%5C%2Foutgoing%5C%2Fintrepidmuseum_org%5C%2Fpov_text%27%29%3B%7D%5C%22%3EUSS+Intrepid%3C%5C%2Fa%3E+from+the+highest+point+on+the+ship%2C+8+feet+above+the+mast.+This+historic+icon+returned+on+October+2%2C+2008%2C+after+nearly+two+years+of+renovation.%3C%5C%2Fspan%3E%22%7D%2C%22spacer%22%3A%7B%22mapmode%22%3A%22staticmaplite%22%2C%22mappath%22%3A%22%22%2C%22live_tab_text%22%3A%22LIVE%22%2C%22reservearchives%22%3A%22false%22%2C%22custom_background%22%3A%22%22%2C%22custom_header%22%3A%22%22%2C%22offlineMessage%22%3A%22%22%2C%22offlineMessageSub%22%3A%22%22%2C%22showOfflineMessage%22%3A%22true%22%2C%22worldtour_path%22%3A%22http%3A%5C%2F%5C%2Fimages.earthcam.com%22%2C%22worldtour%22%3A%22false%22%2C%22worldtour_type%22%3A%22updatingimage%22%2C%22worldtour_delay%22%3A%2215000%22%2C%22maintainAspectRatio%22%3A%221%22%2C%22bestofdomain%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo2.earthcam.com%5C%2Farchives%22%2C%22bestofpath%22%3A%22%22%2C%22bestofbuffer%22%3A%225%22%2C%22bestofstarttime%22%3A%22%22%2C%22goto%22%3A%22live%22%2C%22defaulttab%22%3A%22live%22%2C%22image_rotate%22%3A%220%22%2C%22rotate%22%3A%220%22%2C%22offlineimages%22%3Anull%2C%22is3D%22%3A%22false%22%2C%22hideIconMap%22%3A%22false%22%2C%22archiveVideoSelector%22%3A%22false%22%2C%22thumbnail%22%3Anull%2C%22page_thumbnail%22%3Anull%2C%22url%22%3A%22%22%2C%22weather%22%3Anull%2C%22hidden%22%3A%22true%22%2C%22hd%22%3A%22mega_hd%22%2C%22overlay%22%3A%22true%22%2C%22overlay_archives%22%3A%22true%22%2C%22overlay_timelapse%22%3A%22true%22%2C%22id%22%3Anull%2C%22inet%22%3A%22b4b147bc522828731f1a016bfa72c073%22%2C%22wmv_for%22%3A%22live%22%2C%22longbanner%22%3A%22%22%2C%22placeholderpath%22%3A%22%22%2C%22coords%22%3A%22%2C%22%2C%22map_lat%22%3Anull%2C%22map_long%22%3Anull%2C%22cam_counter%22%3A2%2C%22cam_state%22%3A1%2C%22cam_name%22%3A%22spacer%22%2C%22group_id%22%3A%22intrepid%22%2C%22group_order%22%3A%224%22%2C%22default_cam%22%3Anull%2C%22xml_path%22%3A%22newyork%5C%2Fintrepid%22%2C%22liveon%22%3A%22true%22%2C%22archiveon%22%3A%22false%22%2C%22hofon%22%3A%22true%22%2C%22bestofon%22%3A%22false%22%2C%22liveexternal%22%3A%22false%22%2C%22liveexternalpath%22%3A%22%22%2C%22timelapseon%22%3A%22false%22%2C%22playbackspeed%22%3A%22500%22%2C%22showdates%22%3A%22yes%22%2C%22width%22%3A%22640%22%2C%22height%22%3A%22480%22%2C%22actualwidth%22%3A%22640%22%2C%22actualheight%22%3A%22480%22%2C%22temptype%22%3A%22F%22%2C%22metar%22%3A%22%22%2C%22hofid%22%3A%22%22%2C%22live_type%22%3A%22megapixel%22%2C%22wcs%22%3A%220%22%2C%22timezone%22%3A%22America%5C%2FNew_York%22%2C%22thumbimage%22%3A%22http%3A%5C%2F%5C%2Fstatic.earthcamcdn.com%5C%2Fcamshots%5C%2F128x72%5C%2F.jpg%22%2C%22thumbimage2%22%3A%22http%3A%5C%2F%5C%2Fstatic.earthcamcdn.com%5C%2Fcamshots%5C%2F128x72%5C%2F.jpg%22%2C%22alttext%22%3A%22%22%2C%22camtext%22%3A%22%22%2C%22imagedomain%22%3A%22http%3A%5C%2F%5C%2Fimages.earthcam.com%22%2C%22streamingdomain%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo3.earthcam.com%22%2C%22archivedomain%22%3A%22http%3A%5C%2F%5C%2Farchives.earthcam.com%22%2C%22timelapsedomain%22%3A%22http%3A%5C%2F%5C%2Fvideo2.earthcam.com%22%2C%22filedomain%22%3A%22http%3A%5C%2F%5C%2Fwww.earthcam.com%5C%2Fswf%5C%2Fcam_player%5C%2F%22%2C%22livepath%22%3A%22%22%2C%22livestreamingpath%22%3A%22%5C%2Ffecnetwork%5C%2F%22%2C%22android_livepath%22%3A%22%22%2C%22cdn_status%22%3A%22false%22%2C%22archivepath%22%3A%22%22%2C%22timelapsepath%22%3A%22%22%2C%22windowsmediapath%22%3A%22%22%2C%22hofpath%22%3A%22%22%2C%22logolink%22%3A%22%22%2C%22logopath%22%3A%22%22%2C%22livestreamingbuffer%22%3A%225%22%2C%22archivebuffer%22%3A%225%22%2C%22timelapsebuffer%22%3A%225%22%2C%22name%22%3A%22%22%2C%22group%22%3A%22%22%2C%22location%22%3A%22%22%2C%22description%22%3A%22%3Cspan+class%3D%27desc%27%3E%3C%5C%2Fspan%3E%22%7D%2C%22liberty_archives%22%3A%7B%22mapmode%22%3A%22staticmaplite%22%2C%22mappath%22%3A%22%22%2C%22live_tab_text%22%3A%22LIVE%22%2C%22reservearchives%22%3A%22false%22%2C%22custom_background%22%3A%22%22%2C%22custom_header%22%3A%22%22%2C%22offlineMessage%22%3A%22%22%2C%22offlineMessageSub%22%3A%22%22%2C%22showOfflineMessage%22%3A%22true%22%2C%22worldtour_path%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo3.earthcam.com%5C%2Ffecnetwork%5C%2F%22%2C%22worldtour%22%3A%22false%22%2C%22worldtour_type%22%3A%22updatingimage%22%2C%22worldtour_delay%22%3A%2215000%22%2C%22maintainAspectRatio%22%3A%221%22%2C%22bestofdomain%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo2.earthcam.com%5C%2Farchives%22%2C%22bestofpath%22%3A%22%22%2C%22bestofbuffer%22%3A%225%22%2C%22bestofstarttime%22%3A%22%22%2C%22goto%22%3A%22hof%22%2C%22defaulttab%22%3A%22hof%22%2C%22image_rotate%22%3A%220%22%2C%22rotate%22%3A%220%22%2C%22offlineimages%22%3Anull%2C%22is3D%22%3A%22false%22%2C%22hideIconMap%22%3A%22false%22%2C%22archiveVideoSelector%22%3A%22false%22%2C%22thumbnail%22%3A%2205f93d0fcb5f32363cf36dbf6c98120e%22%2C%22page_thumbnail%22%3A%229e983a65923e2761a59e9f45bd0ca64f%22%2C%22url%22%3A%22%22%2C%22weather%22%3Anull%2C%22hidden%22%3A%22false%22%2C%22hd%22%3A%22mega_hd%22%2C%22overlay%22%3A%22true%22%2C%22overlay_archives%22%3A%22true%22%2C%22overlay_timelapse%22%3A%22true%22%2C%22id%22%3A%22658388238b40f85563008a4983dc2f00%22%2C%22inet%22%3A%2261bdf049525b7d4c2cf79257ec7c2c56%22%2C%22wmv_for%22%3A%22live%22%2C%22longbanner%22%3A%22%22%2C%22placeholderpath%22%3A%22%22%2C%22coords%22%3A%2240.76433500000000%2C-73.99870600000000%22%2C%22map_lat%22%3A%2240.76433500000000%22%2C%22map_long%22%3A%22-73.99870600000000%22%2C%22cam_counter%22%3A3%2C%22cam_state%22%3A1%2C%22cam_name%22%3A%22liberty_archives%22%2C%22group_id%22%3A%22intrepid%22%2C%22group_order%22%3A%225%22%2C%22default_cam%22%3A%22%22%2C%22xml_path%22%3A%22newyork%5C%2Fintrepid%22%2C%22liveon%22%3A%22false%22%2C%22archiveon%22%3A%22false%22%2C%22hofon%22%3A%22true%22%2C%22bestofon%22%3A%22false%22%2C%22liveexternal%22%3A%22false%22%2C%22liveexternalpath%22%3A%22%22%2C%22timelapseon%22%3A%22true%22%2C%22playbackspeed%22%3A%22500%22%2C%22showdates%22%3A%22yes%22%2C%22width%22%3A%22640%22%2C%22height%22%3A%22480%22%2C%22actualwidth%22%3A%22640%22%2C%22actualheight%22%3A%22480%22%2C%22temptype%22%3A%22F%22%2C%22metar%22%3A%22KJFK%22%2C%22hofid%22%3A%22intrepid%22%2C%22live_type%22%3A%22mega_hd%22%2C%22wcs%22%3A%22115%22%2C%22timezone%22%3A%22America%5C%2FNew_York%22%2C%22thumbimage%22%3A%22http%3A%5C%2F%5C%2Fstatic.earthcamcdn.com%5C%2Fcamshots%5C%2F128x72%5C%2F05f93d0fcb5f32363cf36dbf6c98120e.jpg%22%2C%22thumbimage2%22%3A%22http%3A%5C%2F%5C%2Fstatic.earthcamcdn.com%5C%2Fcamshots%5C%2F128x72%5C%2F05f93d0fcb5f32363cf36dbf6c98120e.jpg%22%2C%22alttext%22%3A%22Time-Lapse%3A+Statue+of+Liberty%22%2C%22camtext%22%3A%22Time-Lapse+2%22%2C%22imagedomain%22%3A%22http%3A%5C%2F%5C%2Fimages.earthcam.com%22%2C%22streamingdomain%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo3.earthcam.com%22%2C%22archivedomain%22%3A%22http%3A%5C%2F%5C%2Farchives.earthcam.com%22%2C%22timelapsedomain%22%3A%22http%3A%5C%2F%5C%2Farchives.earthcam.com%22%2C%22filedomain%22%3A%22http%3A%5C%2F%5C%2Fwww.earthcam.com%5C%2Fswf%5C%2Fcam_player%5C%2F%22%2C%22livepath%22%3A%22%5C%2Fec_metros%5C%2Fourcams%5C%2Fliberty.jpg%22%2C%22livestreamingpath%22%3A%22%5C%2Ffecnetwork%5C%2F%22%2C%22android_livepath%22%3A%22%22%2C%22cdn_status%22%3A%22false%22%2C%22archivepath%22%3A%22%5C%2Farchives3%5C%2Fevents%5C%2Fintrepid%5C%2Fstatueofliberty%5C%2F24hrtimelapse.mp4%22%2C%22timelapsepath%22%3A%22%5C%2Farchives5%5C%2Fbeauty_timelapse%5C%2Fedited%5C%2FIntrepid_Liberty%5C%2Fintrepid%26Liberty.flv%22%2C%22windowsmediapath%22%3A%22%22%2C%22hofpath%22%3A%22newyork%5C%2Fgroundzero%5C%2F%22%2C%22logolink%22%3A%22%22%2C%22logopath%22%3A%22%22%2C%22livestreamingbuffer%22%3A%225%22%2C%22archivebuffer%22%3A%225%22%2C%22timelapsebuffer%22%3A%225%22%2C%22name%22%3A%22Liberty+State+Park%22%2C%22group%22%3A%22Statue+of+Liberty%22%2C%22location%22%3A%22New+York%2C+NY%22%2C%22description%22%3A%22%3Cspan+class%3D%27desc%27%3EAfter+nearly+two+years+absence+for+renovation+the+USS+Intrepid+passes+by+the+Statue+of+Liberty+as+a+fireboat+salutes+its+journey+home.%3C%5C%2Fspan%3E%22%7D%2C%22intrepid_streaming%22%3A%7B%22mapmode%22%3A%22staticmaplite%22%2C%22mappath%22%3A%22%22%2C%22live_tab_text%22%3A%22LIVE%22%2C%22reservearchives%22%3A%22false%22%2C%22custom_background%22%3A%22%22%2C%22custom_header%22%3A%22%22%2C%22offlineMessage%22%3A%22%22%2C%22offlineMessageSub%22%3A%22%22%2C%22showOfflineMessage%22%3A%22true%22%2C%22worldtour_path%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo3.earthcam.com%5C%2Ffecnetwork%5C%2F%22%2C%22worldtour%22%3A%22false%22%2C%22worldtour_type%22%3A%22updatingimage%22%2C%22worldtour_delay%22%3A%2215000%22%2C%22maintainAspectRatio%22%3A%221%22%2C%22bestofdomain%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo2.earthcam.com%5C%2Farchives%22%2C%22bestofpath%22%3A%22%22%2C%22bestofbuffer%22%3A%225%22%2C%22bestofstarttime%22%3A%22%22%2C%22goto%22%3A%22hof%22%2C%22defaulttab%22%3A%22hof%22%2C%22image_rotate%22%3A%220%22%2C%22rotate%22%3A%220%22%2C%22offlineimages%22%3Anull%2C%22is3D%22%3A%22false%22%2C%22hideIconMap%22%3A%22false%22%2C%22archiveVideoSelector%22%3A%22false%22%2C%22thumbnail%22%3A%22e2e4d2c327886f7432e5c0f0202bc3d2%22%2C%22page_thumbnail%22%3A%22147b12a34421b217449177a699cd440b%22%2C%22url%22%3A%22%22%2C%22weather%22%3Anull%2C%22hidden%22%3A%22false%22%2C%22hd%22%3A%22mega_hd%22%2C%22overlay%22%3A%22false%22%2C%22overlay_archives%22%3A%22false%22%2C%22overlay_timelapse%22%3A%22false%22%2C%22id%22%3A%226d73a595ad6467ead26aefe424273062%22%2C%22inet%22%3A%2212ae3f826bb1b9873c71c353f3df494c%22%2C%22wmv_for%22%3A%22timelapse%22%2C%22longbanner%22%3A%22%22%2C%22placeholderpath%22%3A%22%22%2C%22coords%22%3A%2240.76433500000000%2C-73.99870600000000%22%2C%22map_lat%22%3A%2240.76433500000000%22%2C%22map_long%22%3A%22-73.99870600000000%22%2C%22cam_counter%22%3A4%2C%22cam_state%22%3A1%2C%22cam_name%22%3A%22intrepid_streaming%22%2C%22group_id%22%3A%22intrepid%22%2C%22group_order%22%3A%225%22%2C%22default_cam%22%3A%22%22%2C%22xml_path%22%3A%22newyork%5C%2Fintrepid%22%2C%22liveon%22%3A%22false%22%2C%22archiveon%22%3A%22false%22%2C%22hofon%22%3A%22true%22%2C%22bestofon%22%3A%22false%22%2C%22liveexternal%22%3A%22false%22%2C%22liveexternalpath%22%3A%22%22%2C%22timelapseon%22%3A%22true%22%2C%22playbackspeed%22%3A%22500%22%2C%22showdates%22%3A%22yes%22%2C%22width%22%3A%22640%22%2C%22height%22%3A%22480%22%2C%22actualwidth%22%3A%22640%22%2C%22actualheight%22%3A%22480%22%2C%22temptype%22%3A%22F%22%2C%22metar%22%3A%22KNYC%22%2C%22hofid%22%3A%22intrepid%22%2C%22live_type%22%3A%22mega_hd%22%2C%22wcs%22%3A%22429%22%2C%22timezone%22%3A%22America%5C%2FNew_York%22%2C%22thumbimage%22%3A%22http%3A%5C%2F%5C%2Fstatic.earthcamcdn.com%5C%2Fcamshots%5C%2F128x72%5C%2Fe2e4d2c327886f7432e5c0f0202bc3d2.jpg%22%2C%22thumbimage2%22%3A%22http%3A%5C%2F%5C%2Fstatic.earthcamcdn.com%5C%2Fcamshots%5C%2F128x72%5C%2Fe2e4d2c327886f7432e5c0f0202bc3d2.jpg%22%2C%22alttext%22%3A%22Time-Lapse%3A+Hudson+River+Pier+86%22%2C%22camtext%22%3A%22Time-Lapse+1%22%2C%22imagedomain%22%3A%22http%3A%5C%2F%5C%2Fimages.earthcam.com%22%2C%22streamingdomain%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo3.earthcam.com%22%2C%22archivedomain%22%3A%22http%3A%5C%2F%5C%2Farchives.earthcam.com%22%2C%22timelapsedomain%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo2.earthcam.com%5C%2Farchives%5C%2F%22%2C%22filedomain%22%3A%22http%3A%5C%2F%5C%2Fwww.earthcam.com%5C%2Fswf%5C%2Fcam_player%5C%2F%22%2C%22livepath%22%3A%22%5C%2Fec_metros%5C%2Fourcams%5C%2Fintrepid2.jpg%22%2C%22livestreamingpath%22%3A%22%5C%2Ffecnetwork%5C%2F%22%2C%22android_livepath%22%3A%22%22%2C%22cdn_status%22%3A%22false%22%2C%22archivepath%22%3A%22%5C%2Farchives3%5C%2Fevents%5C%2Fintrepid%5C%2Fpier86%5C%2F24hrtimelapse.mp4%22%2C%22timelapsepath%22%3A%22%5C%2Fnetwork%5C%2Fpro%5C%2FIntrepid_Returns.flv%22%2C%22windowsmediapath%22%3A%22http%3A%5C%2F%5C%2Fwms1.earthcam.com%5C%2Fevents%5C%2Fintrepidreturns001.wmv%22%2C%22hofpath%22%3A%22newyork%5C%2Fintrepid%5C%2F%22%2C%22logolink%22%3A%22%22%2C%22logopath%22%3A%22%5C%2Fcams%5C%2Fnewyork%5C%2Fintrepid%5C%2Fimages%5C%2Fintrepid.swf%22%2C%22livestreamingbuffer%22%3A%225%22%2C%22archivebuffer%22%3A%225%22%2C%22timelapsebuffer%22%3A%225%22%2C%22name%22%3A%22Intrepid+Returns%22%2C%22group%22%3A%22Intrepid+Cam%22%2C%22location%22%3A%22New+York%2C+New+York%22%2C%22description%22%3A%22%3Cspan+class%3D%27desc%27%3ETugboats+expertly+move+the+historic+aircraft+carrier+up+the+Hudson+River+on+it%27s+journey+past+the+Statue+of+Liberty+and+Ground+Zero%2C+ending+at+Pier+86%2C+the+new+permanent+home+of+the+floating+museum.%3C%5C%2Fspan%3E%22%7D%2C%22libertysp_archives%22%3A%7B%22mapmode%22%3A%22staticmaplite%22%2C%22mappath%22%3A%22%22%2C%22live_tab_text%22%3A%22LIVE%22%2C%22reservearchives%22%3A%22false%22%2C%22custom_background%22%3A%22%22%2C%22custom_header%22%3A%22%22%2C%22offlineMessage%22%3A%22%22%2C%22offlineMessageSub%22%3A%22%22%2C%22showOfflineMessage%22%3A%22true%22%2C%22worldtour_path%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo3.earthcam.com%5C%2Ffecnetwork%5C%2F%22%2C%22worldtour%22%3A%22false%22%2C%22worldtour_type%22%3A%22updatingimage%22%2C%22worldtour_delay%22%3A%2215000%22%2C%22maintainAspectRatio%22%3A%221%22%2C%22bestofdomain%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo2.earthcam.com%5C%2Farchives%22%2C%22bestofpath%22%3A%22%22%2C%22bestofbuffer%22%3A%225%22%2C%22bestofstarttime%22%3A%22%22%2C%22goto%22%3A%22hof%22%2C%22defaulttab%22%3A%22hof%22%2C%22image_rotate%22%3A%220%22%2C%22rotate%22%3A%220%22%2C%22offlineimages%22%3Anull%2C%22is3D%22%3A%22false%22%2C%22hideIconMap%22%3A%22false%22%2C%22archiveVideoSelector%22%3A%22false%22%2C%22thumbnail%22%3A%228e0f39ed3bc213e633cf39b556cbd7e0%22%2C%22page_thumbnail%22%3A%223d26a1d22b8ee125330572906116a0ad%22%2C%22url%22%3A%22%22%2C%22weather%22%3Anull%2C%22hidden%22%3A%22false%22%2C%22hd%22%3A%22mega_hd%22%2C%22overlay%22%3A%22true%22%2C%22overlay_archives%22%3A%22true%22%2C%22overlay_timelapse%22%3A%22true%22%2C%22id%22%3A%22d9a181cf86514c7ee591f281bed4a437%22%2C%22inet%22%3A%22a73d2d60ed472454a0360027aa039bdb%22%2C%22wmv_for%22%3A%22live%22%2C%22longbanner%22%3A%22%22%2C%22placeholderpath%22%3A%22%22%2C%22coords%22%3A%2240.76433500000000%2C-73.99870600000000%22%2C%22map_lat%22%3A%2240.76433500000000%22%2C%22map_long%22%3A%22-73.99870600000000%22%2C%22cam_counter%22%3A5%2C%22cam_state%22%3A1%2C%22cam_name%22%3A%22libertysp_archives%22%2C%22group_id%22%3A%22intrepid%22%2C%22group_order%22%3A%226%22%2C%22default_cam%22%3A%22%22%2C%22xml_path%22%3A%22newyork%5C%2Fintrepid%22%2C%22liveon%22%3A%22false%22%2C%22archiveon%22%3A%22false%22%2C%22hofon%22%3A%22true%22%2C%22bestofon%22%3A%22false%22%2C%22liveexternal%22%3A%22false%22%2C%22liveexternalpath%22%3A%22%22%2C%22timelapseon%22%3A%22true%22%2C%22playbackspeed%22%3A%22500%22%2C%22showdates%22%3A%22yes%22%2C%22width%22%3A%22640%22%2C%22height%22%3A%22480%22%2C%22actualwidth%22%3A%22640%22%2C%22actualheight%22%3A%22480%22%2C%22temptype%22%3A%22F%22%2C%22metar%22%3A%22KJFK%22%2C%22hofid%22%3A%22intrepid%22%2C%22live_type%22%3A%22mega_hd%22%2C%22wcs%22%3A%22115%22%2C%22timezone%22%3A%22America%5C%2FNew_York%22%2C%22thumbimage%22%3A%22http%3A%5C%2F%5C%2Fstatic.earthcamcdn.com%5C%2Fcamshots%5C%2F128x72%5C%2F8e0f39ed3bc213e633cf39b556cbd7e0.jpg%22%2C%22thumbimage2%22%3A%22http%3A%5C%2F%5C%2Fstatic.earthcamcdn.com%5C%2Fcamshots%5C%2F128x72%5C%2F8e0f39ed3bc213e633cf39b556cbd7e0.jpg%22%2C%22alttext%22%3A%22Time-Lapse%3A+Liberty+State+Park%22%2C%22camtext%22%3A%22Time-Lapse+3%22%2C%22imagedomain%22%3A%22http%3A%5C%2F%5C%2Fimages.earthcam.com%22%2C%22streamingdomain%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo3.earthcam.com%22%2C%22archivedomain%22%3A%22http%3A%5C%2F%5C%2Farchives.earthcam.com%22%2C%22timelapsedomain%22%3A%22http%3A%5C%2F%5C%2Farchives.earthcam.com%22%2C%22filedomain%22%3A%22http%3A%5C%2F%5C%2Fwww.earthcam.com%5C%2Fswf%5C%2Fcam_player%5C%2F%22%2C%22livepath%22%3A%22%5C%2Ftraffic%5C%2Flibertysp.jpg%22%2C%22livestreamingpath%22%3A%22%5C%2Ffecnetwork%5C%2F%22%2C%22android_livepath%22%3A%22%22%2C%22cdn_status%22%3A%22false%22%2C%22archivepath%22%3A%22%5C%2Farchives3%5C%2Fevents%5C%2Fintrepid%5C%2Flibertysp%5C%2F24hrtimelapse.mp4%22%2C%22timelapsepath%22%3A%22%5C%2Farchives5%5C%2Ftimelapse%5C%2Fintrepidreturns%5C%2FlibertySP%5C%2Ftimelapse.mp4%22%2C%22windowsmediapath%22%3A%22%22%2C%22hofpath%22%3A%22newyork%5C%2Fgroundzero%5C%2F%22%2C%22logolink%22%3A%22%22%2C%22logopath%22%3A%22%22%2C%22livestreamingbuffer%22%3A%225%22%2C%22archivebuffer%22%3A%225%22%2C%22timelapsebuffer%22%3A%225%22%2C%22name%22%3A%22Liberty+State+Park%22%2C%22group%22%3A%22Statue+of+Liberty%22%2C%22location%22%3A%22New+York%2C+NY%22%2C%22description%22%3A%22%3Cspan+class%3D%27desc%27%3EThe+USS+Intrepid%2C+with+30+refurbished+aircraft+on+board%2C+moves+up+river+against+a+Manhattan+skyline+back+drop+as+seen+from+Jersey+City.%3C%5C%2Fspan%3E%22%7D%2C%22gzrob_archives%22%3A%7B%22mapmode%22%3A%22staticmaplite%22%2C%22mappath%22%3A%22%22%2C%22live_tab_text%22%3A%22LIVE%22%2C%22reservearchives%22%3A%22false%22%2C%22custom_background%22%3A%22%22%2C%22custom_header%22%3A%22%22%2C%22offlineMessage%22%3A%22%22%2C%22offlineMessageSub%22%3A%22%22%2C%22showOfflineMessage%22%3A%22true%22%2C%22worldtour_path%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo3.earthcam.com%5C%2Ffecnetwork%5C%2F%22%2C%22worldtour%22%3A%22false%22%2C%22worldtour_type%22%3A%22updatingimage%22%2C%22worldtour_delay%22%3A%2215000%22%2C%22maintainAspectRatio%22%3A%221%22%2C%22bestofdomain%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo2.earthcam.com%5C%2Farchives%22%2C%22bestofpath%22%3A%22%22%2C%22bestofbuffer%22%3A%225%22%2C%22bestofstarttime%22%3A%22%22%2C%22goto%22%3A%22hof%22%2C%22defaulttab%22%3A%22hof%22%2C%22image_rotate%22%3A%220%22%2C%22rotate%22%3A%220%22%2C%22offlineimages%22%3Anull%2C%22is3D%22%3A%22false%22%2C%22hideIconMap%22%3A%22false%22%2C%22archiveVideoSelector%22%3A%22false%22%2C%22thumbnail%22%3A%22cc362e1ca2188e368463595cb609643a%22%2C%22page_thumbnail%22%3A%22cf5c30557d9b531bb300642e15b4688e%22%2C%22url%22%3A%22%22%2C%22weather%22%3Anull%2C%22hidden%22%3A%22false%22%2C%22hd%22%3A%22mega_hd%22%2C%22overlay%22%3A%22true%22%2C%22overlay_archives%22%3A%22true%22%2C%22overlay_timelapse%22%3A%22true%22%2C%22id%22%3A%2241d89b336694cac0f65c25ae7162f34c%22%2C%22inet%22%3A%22b4b147bc522828731f1a016bfa72c073%22%2C%22wmv_for%22%3A%22live%22%2C%22longbanner%22%3A%22%22%2C%22placeholderpath%22%3A%22%22%2C%22coords%22%3A%2240.76433500000000%2C-73.99870600000000%22%2C%22map_lat%22%3A%2240.76433500000000%22%2C%22map_long%22%3A%22-73.99870600000000%22%2C%22cam_counter%22%3A6%2C%22cam_state%22%3A1%2C%22cam_name%22%3A%22gzrob_archives%22%2C%22group_id%22%3A%22intrepid%22%2C%22group_order%22%3A%227%22%2C%22default_cam%22%3A%22%22%2C%22xml_path%22%3A%22newyork%5C%2Fintrepid%22%2C%22liveon%22%3A%22false%22%2C%22archiveon%22%3A%22false%22%2C%22hofon%22%3A%22true%22%2C%22bestofon%22%3A%22false%22%2C%22liveexternal%22%3A%22false%22%2C%22liveexternalpath%22%3A%22%22%2C%22timelapseon%22%3A%22true%22%2C%22playbackspeed%22%3A%22500%22%2C%22showdates%22%3A%22yes%22%2C%22width%22%3A%22640%22%2C%22height%22%3A%22480%22%2C%22actualwidth%22%3A%22640%22%2C%22actualheight%22%3A%22480%22%2C%22temptype%22%3A%22F%22%2C%22metar%22%3A%22KJFK%22%2C%22hofid%22%3A%22intrepid%22%2C%22live_type%22%3A%22mega_hd%22%2C%22wcs%22%3A%22115%22%2C%22timezone%22%3A%22America%5C%2FNew_York%22%2C%22thumbimage%22%3A%22http%3A%5C%2F%5C%2Fstatic.earthcamcdn.com%5C%2Fcamshots%5C%2F128x72%5C%2Fcc362e1ca2188e368463595cb609643a.jpg%22%2C%22thumbimage2%22%3A%22http%3A%5C%2F%5C%2Fstatic.earthcamcdn.com%5C%2Fcamshots%5C%2F128x72%5C%2Fcc362e1ca2188e368463595cb609643a.jpg%22%2C%22alttext%22%3A%22Time-Lapse%3A+Freedom+Tower%22%2C%22camtext%22%3A%22Time-Lapse+4%22%2C%22imagedomain%22%3A%22http%3A%5C%2F%5C%2Fimages.earthcam.com%22%2C%22streamingdomain%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo3.earthcam.com%22%2C%22archivedomain%22%3A%22http%3A%5C%2F%5C%2Farchives.earthcam.com%22%2C%22timelapsedomain%22%3A%22http%3A%5C%2F%5C%2Farchives.earthcam.com%22%2C%22filedomain%22%3A%22http%3A%5C%2F%5C%2Fwww.earthcam.com%5C%2Fswf%5C%2Fcam_player%5C%2F%22%2C%22livepath%22%3A%22%5C%2Fec_metros%5C%2Fourcams%5C%2Fmillenium2.jpg%22%2C%22livestreamingpath%22%3A%22%5C%2Ffecnetwork%5C%2F%22%2C%22android_livepath%22%3A%22%22%2C%22cdn_status%22%3A%22false%22%2C%22archivepath%22%3A%22%5C%2Farchives3%5C%2Fevents%5C%2Fintrepid%5C%2Fgroundzero%5C%2F24hrtimelapse.mp4%22%2C%22timelapsepath%22%3A%22%5C%2Farchives5%5C%2Ftimelapse%5C%2Fintrepidreturns%5C%2Fgroundzero%5C%2Ftimelapse.mp4%22%2C%22windowsmediapath%22%3A%22%22%2C%22hofpath%22%3A%22newyork%5C%2Fgroundzero%5C%2F%22%2C%22logolink%22%3A%22%22%2C%22logopath%22%3A%22%22%2C%22livestreamingbuffer%22%3A%225%22%2C%22archivebuffer%22%3A%225%22%2C%22timelapsebuffer%22%3A%225%22%2C%22name%22%3A%22Ground+Zero%22%2C%22group%22%3A%22Ground+Zero+Cams%22%2C%22location%22%3A%22New+York%2C+NY%22%2C%22description%22%3A%22%3Cspan+class%3D%27desc%27%3EThe+completely+restored+USS+Intrepid+is+towed+up+the+Hudson+River+towards+its+permanent+berth+on+Manhattan%27s+west+side.+The+three-hour+voyage+included+a+memorial+pause+where+the+Twin+Towers+once+stood.%3C%5C%2Fspan%3E%22%7D%2C%22intrepid2_archives%22%3A%7B%22mapmode%22%3A%22staticmaplite%22%2C%22mappath%22%3A%22%22%2C%22live_tab_text%22%3A%22LIVE%22%2C%22reservearchives%22%3A%22false%22%2C%22custom_background%22%3A%22%22%2C%22custom_header%22%3A%22%22%2C%22offlineMessage%22%3A%22%22%2C%22offlineMessageSub%22%3A%22%22%2C%22showOfflineMessage%22%3A%22true%22%2C%22worldtour_path%22%3A%22http%3A%5C%2F%5C%2Fimages.earthcam.com%5C%2Fec_metros%5C%2Fourcams%5C%2Fintrepid2.jpg%22%2C%22worldtour%22%3A%22false%22%2C%22worldtour_type%22%3A%22updatingimage%22%2C%22worldtour_delay%22%3A%2215000%22%2C%22maintainAspectRatio%22%3A%221%22%2C%22bestofdomain%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo2.earthcam.com%5C%2Farchives%22%2C%22bestofpath%22%3A%22%22%2C%22bestofbuffer%22%3A%225%22%2C%22bestofstarttime%22%3A%22%22%2C%22goto%22%3A%22hof%22%2C%22defaulttab%22%3A%22hof%22%2C%22image_rotate%22%3A%220%22%2C%22rotate%22%3A%220%22%2C%22offlineimages%22%3Anull%2C%22is3D%22%3A%22false%22%2C%22hideIconMap%22%3A%22false%22%2C%22archiveVideoSelector%22%3A%22false%22%2C%22thumbnail%22%3A%2291fb9437fea2c9938fd97522aea1d5ee%22%2C%22page_thumbnail%22%3A%225fe75d10769fc50f3e482df7c6aaec30%22%2C%22url%22%3A%22%22%2C%22weather%22%3Anull%2C%22hidden%22%3A%22false%22%2C%22hd%22%3A%22mega_hd%22%2C%22overlay%22%3A%22true%22%2C%22overlay_archives%22%3A%22true%22%2C%22overlay_timelapse%22%3A%22true%22%2C%22id%22%3A%225dbace8c5d730f70516971c2073d7eab%22%2C%22inet%22%3A%2212ae3f826bb1b9873c71c353f3df494c%22%2C%22wmv_for%22%3A%22live%22%2C%22longbanner%22%3A%22%22%2C%22placeholderpath%22%3A%22%22%2C%22coords%22%3A%2240.76433500000000%2C-73.99870600000000%22%2C%22map_lat%22%3A%2240.76433500000000%22%2C%22map_long%22%3A%22-73.99870600000000%22%2C%22cam_counter%22%3A7%2C%22cam_state%22%3A1%2C%22cam_name%22%3A%22intrepid2_archives%22%2C%22group_id%22%3A%22intrepid%22%2C%22group_order%22%3A%228%22%2C%22default_cam%22%3A%22%22%2C%22xml_path%22%3A%22newyork%5C%2Fintrepid%22%2C%22liveon%22%3A%22false%22%2C%22archiveon%22%3A%22false%22%2C%22hofon%22%3A%22true%22%2C%22bestofon%22%3A%22false%22%2C%22liveexternal%22%3A%22false%22%2C%22liveexternalpath%22%3A%22%22%2C%22timelapseon%22%3A%22true%22%2C%22playbackspeed%22%3A%22500%22%2C%22showdates%22%3A%22yes%22%2C%22width%22%3A%22640%22%2C%22height%22%3A%22480%22%2C%22actualwidth%22%3A%22640%22%2C%22actualheight%22%3A%22480%22%2C%22temptype%22%3A%22F%22%2C%22metar%22%3A%22KNYC%22%2C%22hofid%22%3A%22intrepid%22%2C%22live_type%22%3A%22megapixel%22%2C%22wcs%22%3A%22115%22%2C%22timezone%22%3A%22America%5C%2FNew_York%22%2C%22thumbimage%22%3A%22http%3A%5C%2F%5C%2Fstatic.earthcamcdn.com%5C%2Fcamshots%5C%2F128x72%5C%2F91fb9437fea2c9938fd97522aea1d5ee.jpg%22%2C%22thumbimage2%22%3A%22http%3A%5C%2F%5C%2Fstatic.earthcamcdn.com%5C%2Fcamshots%5C%2F128x72%5C%2F91fb9437fea2c9938fd97522aea1d5ee.jpg%22%2C%22alttext%22%3A%22Time-Lapse%3A+Hudson+River+Pier+86%22%2C%22camtext%22%3A%22Time-Lapse+5%22%2C%22imagedomain%22%3A%22http%3A%5C%2F%5C%2Fimages.earthcam.com%22%2C%22streamingdomain%22%3A%22rtmp%3A%5C%2F%5C%2Fvideo3.earthcam.com%22%2C%22archivedomain%22%3A%22http%3A%5C%2F%5C%2Farchives.earthcam.com%22%2C%22timelapsedomain%22%3A%22http%3A%5C%2F%5C%2Farchives.earthcam.com%22%2C%22filedomain%22%3A%22http%3A%5C%2F%5C%2Fwww.earthcam.com%5C%2Fswf%5C%2Fcam_player%5C%2F%22%2C%22livepath%22%3A%22%5C%2Fec_metros%5C%2Fourcams%5C%2Fintrepid2.jpg%22%2C%22livestreamingpath%22%3A%22%5C%2Ffecnetwork%5C%2F%22%2C%22android_livepath%22%3A%22%22%2C%22cdn_status%22%3A%22false%22%2C%22archivepath%22%3A%22%5C%2Farchives3%5C%2Fevents%5C%2Fintrepid%5C%2Fpier86%5C%2F24hrtimelapse.mp4%22%2C%22timelapsepath%22%3A%22%5C%2Farchives5%5C%2Ftimelapse%5C%2Fintrepidreturns%5C%2Fpier86%5C%2Ftimelapse.mp4%22%2C%22windowsmediapath%22%3A%22%22%2C%22hofpath%22%3A%22newyork%5C%2Fintrepid%5C%2F%22%2C%22logolink%22%3A%22%22%2C%22logopath%22%3A%22%5C%2Fcams%5C%2Fnewyork%5C%2Fintrepid%5C%2Fimages%5C%2Fintrepid.swf%22%2C%22livestreamingbuffer%22%3A%225%22%2C%22archivebuffer%22%3A%225%22%2C%22timelapsebuffer%22%3A%225%22%2C%22name%22%3A%22Hudson+River+Pier+86%22%2C%22group%22%3A%22Intrepid+Cam%22%2C%22location%22%3A%22New+York%2C+New+York%22%2C%22description%22%3A%22%3Cspan+class%3D%27desc%27%3ETugboats+expertly+move+the+historic+aircraft+carrier+against+Pier+86%2C+the+new+permanent+home%2C+of+the+floating+museum.%3C%5C%2Fspan%3E%22%7D%7D%7D";
+		flashvars.json2			= "";
+		flashvars.path			= "/cams/newyork/intrepid/";
+		flashvars.needWaterTemp = "false";
+		flashvars.showplaceholder	= "false";
+		flashvars.ecnBlack		= "false";
+		flashvars.streamTimeOut	= '30';		flashvars.thumbLabel				= '';
+		flashvars.thumbLabelRight			= '';
+		flashvars.thumbLabel2				= '';
+		flashvars.eventMode					= ''; //expands the player downward for 2 rows of cams, and world tour if needed
+		flashvars.playerPathState			= "com";
+		
+				
+		
+		flashvars.startOnWorldTour			= false; //Start the player on the world tour? (true,false)
+		flashvars.displayWorldTourGoogleAds = true;  //Show google ads on world tour button?(true,false)
+		/*
+		1459858815		*/
+		
+		var full_url = "http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20160316";
+		//var full_url = "/swf/cam_player_v2/ecnPlayer.swf?20160316";
+		//var full_url = "http://cdn1.earthcam.com/earthcam/swf/cam_player_v2/ecnPlayer.swf?20160316";
+
+		swfobject.embedSWF(full_url, "ecnetworkcam", "960", "450", "10","/swf/expressinstall.swf", flashvars, swfobject_params, attributes); // 9.0.115
+		
+				
+	}
+}
+
+function statusMsg(msg) {
+	window.status=msg;
+	return true;
+}
+
+function flashPageTracker(link){
+	pageTracker._trackPageview(link);
+}
+
+function navLinks(currentName,goto_pane)
+{
+	document.getElementById('movie').switchTabPage(goto_pane);
+}
+
+function simpleHover(thumb,use_class)
+{
+	document.getElementById(thumb).className = use_class;
+}
+
+function toggleWMV(state,asxFile)
+{
+	return(false);
+}
+
+function toggleMap(state,ci,wWidth,wHeight,liveType)
+{
+	/*
+		liveType:
+		megapixel, flashvideo_hd, portrait, [default; everything else]
+	*/
+	
+	var mapBox = $("#mapContainer");
+	var map_frame = $("#map_frame");
+	//var map_frame = document.getElementById('map_frame');
+
+	/*if (isBrowserIE() == 1)
+		wWidth = wWidth + 10;*/ //appears to not be needed any longer.
+	
+	if (state == "1")
+	{
+		//alert(wWidth+" "+wHeight)
+		//alert(liveType);
+		
+		if ( !isInteger(wWidth) )
+		{
+			wWidth = "360";
+			wHeight = "240";
+		}
+		
+		if (liveType == "flashvideo_hd")
+		{
+			//mapBox.css("top","35");
+			//klugey bandaid
+			
+//			wWidth = 647;
+//			wHeight = 360;
+			/*
+			if (isBrowserIE() == 1)
+			{
+				wWidth = 620;
+				wHeight = 348;
+			}
+			else
+			{
+				wWidth = 647;
+				wHeight = 360;
+			}
+			*/
+		}
+/*		
+		if (liveType == "mega_hd")
+		{
+			wWidth = 789;
+			//wHeight = 450;
+		}*/
+		
+		map_frame.attr("src", "/mapsearch_google/map_bounds.php?display=simple&map_width="+wWidth+"&map_height="+wHeight+"&id="+ci);
+		map_frame.css("width",wWidth); // 360
+		map_frame.css("height",wHeight); // 240
+		map_frame.css("background-color","#000000");
+		
+		mapBox.css("width",wWidth); // 360
+		mapBox.css("height",wHeight); // 240
+		
+		mapBox.css("z-index","100");
+		mapBox.css("display","block");
+		mapBox.css("background-color","#000000");
+		mapBox.show();
+		
+		//alert(wWidth+" "+wHeight)	
+	}
+	else
+	{
+		//map_frame.attr("src", "/mapsearch_google/loading.html");
+		map_frame.attr("src", "");
+		mapBox.css("z-index","0");
+		mapBox.css("display","none");
+		mapBox.css("background-color","transparent");
+		mapBox.hide();
+	}
+}
+
+function setWCS(wcsID){	return(false);}
+
+function isInteger(s) {
+	return (s.toString().search(/^-?[0-9]+$/) == 0);
+}
+
+
+function HandleKey(e)
+{
+   var key = e.keyCode? e.keyCode : e.which;
+   return (key != 38 && key != 40);
+}
+
+function getCookie(c_name)
+{
+	if (document.cookie.length>0)
+	  {
+	  c_start=document.cookie.indexOf(c_name + "=");
+	  if (c_start!=-1)
+	    {
+	    c_start=c_start + c_name.length+1;
+	    c_end=document.cookie.indexOf(";",c_start);
+	    if (c_end==-1) c_end=document.cookie.length;
+	    return unescape(document.cookie.substring(c_start,c_end));
+	    }
+	  }
+	return "";
+}
+
+function setCookie(c_name,value,expireTime)
+{
+	var exdate=new Date();
+	exdate.setTime(exdate.getTime()+expireTime);
+	//exdate.setDate(exdate.getDate()+expireTime);
+	document.cookie=c_name+ "=" +escape(value)+
+	((expireTime==null) ? "" : ";expires="+exdate.toUTCString()) + ";path=/";
+}
+
+function checkOverlayStatus()
+{
+	return(1);
+}
+
+function checkSpxStatus()
+{
+	return(1);
+}
+
+function isBrowserIE()
+{
+	var browser=navigator.appName;
+	var b_version=navigator.appVersion;
+	var version=parseFloat(b_version);
+	
+	if ( browser=="Microsoft Internet Explorer" )
+		return(1);
+	else
+		return(0);
+}
+
+
+//make adjustments on the fly depending on what mode the player is in
+function adjustTemplate(tToggle)
+{
+	//alert(tToggle);
+	// make sure the ads aren't playing
+	//if(thisMovie('movie').isSpotXPlaying())
+		//return(false);
+
+	if (tToggle == "hdon") // hd mode
+	{		
+		// experimental
+		$('#leftNavCell').hide(1, function() {
+			$('#topNavBar').fadeIn("fast");
+
+		});
+		
+		$("#camContent").css("width",'960px');
+		$("#ecnetworkcam").css("width",'960px');
+		$("#flashContainer").css("width",'960px');
+		$("#ECNglobalContainer").css("margin-left",'0px');
+		$("#ECNglobalContainer").css("margin-top",'0px');
+		$("#camContent").css("margin", '0 0 0 0');
+	}
+	else // sd mode
+	{
+		$("#camContent").css("width",'740px');
+		$("#ecnetworkcam").css("width",'740px');
+		$("#flashContainer").css("width",'740px');
+		$("#ECNglobalContainer").css("margin-left",'25px');
+		$("#ECNglobalContainer").css("margin-top",'15px');
+		$("#camContent").css("margin", '15px 0px 0px 25px');
+		
+		$('#topNavBar').fadeOut(0, function() {
+			$('#leftNavCell').fadeIn("fast", function() {});
+		});
+	}
+}
+
+function Pause() {
+	timer = setTimeout("endpause()",1000);
+	return false;
+}
+
+function endpause() {
+	return false;
+}
+
+
+
+
+function setDivHeight(containerDiv,oDiv,numHeight,numWidth)
+{
+	containerDiv = "ecnetworkcam";
+	oDiv = "movie";
+	
+	//divC = document.getElementById(containerDiv);
+	//divC.style.height = numHeight+'px';
+	//alert(numWidth+"x"+numHeight);
+	
+	if (ECN_player_version == "2")
+	{
+		
+		//var numHeight
+		
+		$("#movie").css("height",numHeight+'px');
+		$("#ecnetworkcam").css("height",numHeight+'px');
+		$("#ECNglobalContainer").css("height",numHeight+'px');
+
+		if (numWidth == undefined)
+			numWidth = "740";
+
+		//alert(numWidth);
+
+		if (numWidth < 800)
+			adjustTemplate('hdoff');
+		else 
+			adjustTemplate('hdon');
+			
+		//Pause();
+		
+		$("#movie").css("width",numWidth+'px');
+		$("#ecnetworkcam").css("width",numWidth+'px');
+		$("#flashContainer").css("width",numWidth+'px');
+		$("#ECNglobalContainer").css("width",numWidth+'px');
+		
+	}
+	else
+	{
+		// old method
+		divObject = document.getElementById(oDiv);
+		divObject.style.height = numHeight+'px';
+	}
+}
+
+//functions for flash, must be inside the body tag (is this true??)
+function thisMovie(movieName)
+{
+    if (navigator.appName.indexOf("Microsoft") != -1)
+    {
+        return window[movieName]
+    }
+    else
+    {
+        return document[movieName]
+    }
+}
+
+function selectCamera(camName)
+{
+	//console.log("selectCamera function call");
+	// hastag/history system
+	//document.location.hash = "#!/" + camName;
+	//History.pushState(null,null,"?cam="+camName)
+	History.replaceState(null,null,"?cam="+camName)
+	
+	//return(1);
+	currentName					= camName;
+	//console.log(currentName);
+	
+	$j(".thumb_cam_switcher").removeClass("camSelectionOver").addClass("camSelectionOut")
+	$j(".pageThumbnailContainer").removeClass("pageThumbnailContainer_on").addClass("pageThumbnailContainer_off");
+	$j(".thumb_cam_text").removeClass("cam_text_on").addClass("cam_text_off");
+	$j("#more_cams_img").removeClass("more_cams_img_on").addClass("more_cams_img_off");
+	
+	var current_div	= $j("#cam_"+currentName);
+	current_div.removeClass("camSelectionOut").addClass("camSelectionOver")
+	current_div.find(".pageThumbnailContainer").removeClass("pageThumbnailContainer_off").addClass("pageThumbnailContainer_on");
+	current_div.find(".thumb_cam_text").removeClass("cam_text_off").addClass("cam_text_on");
+	
+	
+	//alert(typeof js_bg_header);
+	if (typeof js_bg_header != undefined)
+	{
+		var background_image	= js_bg_header[camName][0].bg;
+		var header_image		= js_bg_header[camName][0].header;
+		
+		//console.log(background_image);
+		
+		if (background_image.length > 0)
+			$j("body").css("background-image","url("+background_image+")")
+		
+		if (header_image.length > 0)
+			$j("#header_image").attr("src",header_image)
+	}
+}
+
+function switchCams(_cam, _extras)
+{
+	//console.log("switchCams function");
+	$j('#cam_thumbs_dropdown').fadeOut("fast");
+	thumbs_selector_dropdown_visible	= false;
+	
+	//alert("switchCams");
+	if (js_basic_player)
+	{
+		_startPlayer_basic(_cam);
+		return(true);
+	}
+	
+	document.getElementById('movie').selectCamera(_cam,_extras); //selectCamera(_cam, _extras);	
+}
+
+
+function MM_openBrWindow(theURL,winName,features) {
+  window.open(theURL,winName,features);
+}
+
+function panorama_ts(image,wWidth,wHeight) {window.open("panorama.php?img="+image, "panorama", "width="+wWidth+",height="+wHeight+",status=no,toolbar=no,menubar=no,location=no,scrollbars=yes");}
+
+
+function popView(img) {
+  window.open("popup.php?image="+img,"EarthCam","scrollbars=no,width=850,height=650");
+}
+
+function panorama(image)
+{
+	var image;
+	if (image == 6)
+		window.open("panorama.php?img="+image, "panorama", "width=1000,height=715,status=no,toolbar=no,menubar=no,location=no,scrollbars=yes");
+	else if (image == 4 || image == 5)
+		window.open("panorama.php?img="+image, "panorama", "width=750,height=261,status=no,toolbar=no,menubar=no,location=no,scrollbars=yes");
+	else if (image == 7)
+		window.open("panorama.php?img="+image, "panorama", "width=1000,height=715,status=no,toolbar=no,menubar=no,location=no,scrollbars=yes");
+	else if (image == 8)
+		window.open("panorama.php?img="+image, "panorama", "width=1000,height=715,status=no,toolbar=no,menubar=no,location=no,scrollbars=yes");
+	else if (image == 9)
+		window.open("panorama.php?img="+image, "panorama", "width=2025,height=720,status=no,toolbar=no,menubar=no,location=no,scrollbars=yes");
+	else if (image == 10)
+		window.open("panorama.php?img="+image, "panorama", "width=1500,height=670,status=no,toolbar=no,menubar=no,location=no,scrollbars=yes");
+	else if (image == 11 || image == 12 || image == 13 || image == 14)
+		window.open("panorama.php?img="+image, "panorama", "width=1500,height=791,status=no,toolbar=no,menubar=no,location=no,scrollbars=yes");
+	else if (image == 15)
+		window.open("panorama.php?img="+image, "panorama", "width=1500,height=864,status=no,toolbar=no,menubar=no,location=no,scrollbars=yes");
+	else if (image == 16)
+		window.open("panorama.php?img="+image, "panorama", "width=1220,height=560,status=no,toolbar=no,menubar=no,location=no,scrollbars=yes");
+	else if (image == 17 || image == 18)
+		window.open("panorama.php?img="+image, "panorama", "width=1220,height=730,status=no,toolbar=no,menubar=no,location=no,scrollbars=yes");
+	else if (image == 19)
+		window.open("panorama.php?img="+image, "panorama", "width=1500,height=936,status=no,toolbar=no,menubar=no,location=no,scrollbars=yes");
+	else if (image == 20 )
+		window.open("panorama.php?img="+image, "panorama", "width=1500,height=1171,status=no,toolbar=no,menubar=no,location=no,scrollbars=yes");
+	else if (image == 21 )
+		window.open("panorama.php?img="+image, "panorama", "width=1500,height=1532,status=no,toolbar=no,menubar=no,location=no,scrollbars=yes");
+	else if (image == 22 )
+		window.open("panorama.php?img="+image, "panorama", "width=1500,height=1532,status=no,toolbar=no,menubar=no,location=no,scrollbars=yes");
+	else if (image == 23 )
+		window.open("panorama.php?img="+image, "panorama", "width=1500,height=1532,status=no,toolbar=no,menubar=no,location=no,scrollbars=yes");
+	else
+		window.open("panorama.php?img="+image, "panorama", "width=750,height=140,status=no,toolbar=no,menubar=no,location=no,scrollbars=yes");
+}
+
+function popView(img) {
+  window.open("aerial_popup.php?image="+img,"EarthCam","scrollbars=no,width=750,height=600");
+}
+
+function popup_11th(img) {
+  window.open("11th_popup.php?image="+img,"EarthCam","scrollbars=no,width=750,height=600");
+}
+
+function popViewStillLife(img) {
+	window.open("http://www.earthcam.com/cams/newyork/groundzero/images/still/large/"+img+".jpg","EarthCam");
+}
+
+function getPreset(){
+	console.log(thisMovie("movie").getPreset());
+}
+
+function test()
+{
+	//?cam=bucuti1
+}
+</script>
+
+
+</head>
+
+		<!-- debug -->
+		<!--<div>
+		<span onclick="javascript:test();" style="cursor: pointer;">test</span>
+		<br /><br />
+		</div>-->
+		<!--/debug -->
+
+<body class="css3" onkeydown="return HandleKey(event? event : window.event);">
+
+
+<div class="superWhiteWrapper"><!-- bandaid so the whole page is wrapped in a 1000 wide white background container -->
+		<div class="uniHeader">
+		<style type="text/css">
+#infoBar {
+	cursor: default;
+	text-align: left;
+	}
+
+ul#more_list {
+	padding: 0px;
+	margin: 0px;
+	list-style:none;
+}
+
+ul#more_list  li {
+	padding: 0px;
+	margin: 0px;
+	/*border-bottom: 1px solid #000000;*/
+}
+
+li p.spacer {
+	font-size: 1px;
+	font-family: Arial;
+	height: 5px;
+}
+
+#subcontent2 {
+	text-align:left;
+	margin-top:3px;
+	position:absolute; 
+	left: 749px;
+	top: 80px;
+	display:none;
+	/*visibility: visible;*/
+	border: 1px solid #1D63A2;
+	background-color: white; 
+	width: 130px;
+	height: 320px;
+	padding: 0px;
+	font-size:11px;
+	font-family: Arial;
+	z-index: 1000;
+	
+	/*-moz-box-shadow: 1px 1px 2px #727272;
+	-webkit-box-shadow: 1px 1px 2px #727272;
+	box-shadow: 1px 2px 2px #727272;*/
+	
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright:5px;
+	-moz-border-radius-bottomleft:5px;
+	-moz-border-radius-bottomright:5px;
+	-webkit-border-top-left-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}
+
+#subcontent2 a {
+	padding: 4px 0px 4px 4px;
+}
+
+#subcontent2 a:link, #subcontent2 a:visited, #subcontent2 a:active {
+	display: block;
+	color: #000000;
+	background-color: white;
+	text-decoration: none;
+}
+
+#subcontent2 a:hover {
+	display: block;
+	color: #FFF;
+	background-color: #00589D;
+	text-decoration: none;
+}
+
+.searchHeaderBG {
+	border: 0px solid red;
+	width: 559px; /*559px;*/ 
+	height: 73px;
+	float: left;
+	
+	background-image:url(http://static.earthcamcdn.com/images/header/search_box_outer_sliver.gif);
+	background-position: 0px 0px;
+	background-repeat: repeat-x;
+}
+
+.searchboxHeaderBG {
+	font-size:11px; margin-left:6px;
+	width: 550px;
+	height: 44px;
+	border: 0px solid green;
+	/*background-image:url(http://static.earthcamcdn.com/images/header/search_box_inner_sliver.gif);*/
+	background-position: 0px 0px;
+	background-repeat: repeat-x;
+}
+
+#topHeaderBarNav {
+	border: 0px dashed black; margin-left: 0px;
+	/*width: 100%;*/
+	width: 558px;
+	/* 470px */
+	height:18px;
+	background-color: #f8f8f8;
+	white-space: nowrap;
+}
+
+
+#topHeaderBarNav a{font-weight:700;width:100px; /*display:inline;*/ font-family:Arial;font-size:12px;padding:0px 10px;}
+#topHeaderBarNav a:link, #topHeaderBarNav a:visited{color:#B5B5B5; background-color:#f8f8f8;text-decoration:none;}
+#topHeaderBarNav a:hover{color:#1578D2;background-color:#f8f8f8;text-decoration:none;}
+.topHeaderBarNavSelected{color:#B5B5B5;background-color:#f8f8f8;text-decoration:none;}
+
+#search_box_corner_left { float: left; width: 4px; }
+#search_box_corner_right { float: left; width: 5px;}
+
+#myEC_nav_links { float: left; margin-left: 0px; }
+#add_more { float: left; border: 0px dashed red; vertical-align: top; margin-left: 90px;}
+
+#social_icons_mini {
+	float: left;
+	margin-left: 0px;
+	padding: 0px;
+}
+.social_icon_mini { margin-left: 8px;}
+#social_icons_mini a {  margin: 0px; padding: 0px; }
+
+
+
+/* the text box itself*/
+.searchTextBox {*margin-top:-1px; background-position: 0px 0px;
+	background:#FFFFFF url(http://static.earthcamcdn.com/images/text-box-bg.gif) no-repeat;
+	padding:2px 0px 0px 9px;
+	vertical-align:top;
+	width: 340px;
+	height: 20px;
+	border: 0px solid #B5B5B5;
+}
+
+/*the div wrapper that encompasses the text box AND search button*/
+#searchTextBoxDiv {/* FFFFFF */
+	margin-left: 0px;
+	width: 450px;
+	background-color: #FFFFFF; border:1px solid #B5B5B5;
+}
+
+#buttonSpacer {
+	float: left;
+	height: 26px;
+	width: 1px;
+	margin: 0px 10px 0px 10px;
+}
+
+#goLive { margin-left: 0px; float: left; }
+
+.searchButton {
+	background:url(http://static.earthcamcdn.com/images/Search.png) 0 0 no-repeat;
+	border-left: 1px solid #B5B5B5;
+	vertical-align: top;
+	margin-bottom: 0px;
+	width: 100px;
+	height: 24px;
+}
+
+.searchButton_on {
+	background:url(http://static.earthcamcdn.com/images/Search.png) 0 -24px no-repeat;
+	border-left: 1px solid #B5B5B5;
+	vertical-align: top;
+	margin-bottom: 0px;
+	width: 100px;
+	height: 24px;
+}
+
+
+.goLive {
+	background: url(http://static.earthcamcdn.com/images/GoLive.png) 0 0 no-repeat;
+	border: 1px solid #B5B5B5;
+}
+
+.goLive_on {
+	background:url(http://static.earthcamcdn.com/images/GoLive.png) 0 -24px no-repeat;
+	border: 1px solid #B5B5B5;
+}
+
+#siteLogo {
+	float: left; text-align: left;
+	width: 340px;
+	/* border: 1px dashed red; */
+}
+
+#searchBoxDiv {
+	text-align: left; float: right; margin-right: 0px;
+	width: 568px;
+}
+
+.headerDIV {
+	position: relative; font-family: Arial; /*height: 123px;*/ z-index: 3000;
+}
+</style> 
+<!--[if IE 7]>
+    <style type="text/css">
+	.searchHeaderBG {
+		
+	}
+    </style>
+<![endif]-->
+<!-- <script language="JavaScript" src="http://static.earthcamcdn.com/js/activebar2.js" type="text/javascript"></script> -->
+<script language="JavaScript" src="/js/dropdowncontent.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://static.earthcamcdn.com/js/jquery.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript">
+
+if(typeof($j)== "undefined")
+{
+	var $j = jQuery.noConflict();
+}
+
+function logoSwitch(dowhat)
+{
+	var theLogo = $j('#logo15');
+	var srcOn = "http://static.earthcamcdn.com/images/holiday_logos/ec_logo_15over.jpg";
+	var srcOff = "http://static.earthcamcdn.com/images/holiday_logos/ec_logo_15.jpg";
+	
+	//theLogo.hide('fast');
+	
+	if (dowhat == 'on')
+	{
+		theLogo.css('display','none');
+		theLogo.attr("src", srcOn);
+		theLogo.fadeIn('fast');
+	}
+	else
+	{		
+		theLogo.css('display','none');
+		theLogo.attr("src", srcOff);;
+		theLogo.fadeIn('fast');
+	}
+	//theLogo.fadeIn('fast')
+}
+
+$j(document).ready(function() {
+	$j('#langMoreLink').click(function(){
+		if($j('#moreMenu').css("display") == "none"){
+			$j('#moreMenu').show('fast');//.delay(10000).hide('slow');
+		}else{
+			menuHide(0);
+		}
+		return false; //hijack href
+	});
+	$j('#moreMenu').mouseleave(function(){
+		menuHide(500);
+	});
+	$j('#moreMenu').mouseenter(function(){
+		$j('#moreMenu').clearQueue();
+		/*$j('#moreMenu').stop();*/
+	});
+	
+	
+	$j('#contentlink').click(function(){
+		if($j('#subcontent2').css("display") == "none"){
+			$j('#subcontent2').fadeIn('fast');//.delay(10000).hide('slow');
+		}else{
+			menuHide2(0);
+		}
+		return false; //hijack href
+	});
+	$j('#subcontent2').mouseleave(function(){
+		menuHide2(500);
+	});
+	$j('#subcontent2').mouseenter(function(){
+		$j('#subcontent2').clearQueue();
+	});
+	
+	$j('#contentlink').hover(function(){
+		$j('#moreArrow').attr('src', 'http://static.earthcamcdn.com/images/search/MoreArrow-Hover.gif');
+	},
+	function(){
+		$j('#moreArrow').attr('src', 'http://static.earthcamcdn.com/images/search/MoreArrow-On.gif');
+	});
+	
+
+});
+function menuHide(delay){
+	$j('#moreMenu').delay(delay).hide('fast');
+}
+function menuHide2(delay){
+	$j('#subcontent2').delay(delay).fadeOut('fast');
+}
+
+$j(document).ready(function() {
+	//document.headerSearch.term.focus();
+});
+
+function changeDest(dURL,toggleFocus) {
+	eleSearchCams = document.getElementById("searchWebcams");
+	eleSearchPics = document.getElementById("searchPics");
+	
+	if (dURL=="pics") {
+		document.headerSearch.action = "http://search.earthcam.com/search/photosearch.php";	
+		eleSearchCams.style.fontWeight = "400"; 
+		eleSearchPics.style.fontWeight = "700"; 
+	} else if (dURL=="cams") {
+		document.headerSearch.action = "http://search.earthcam.com/search/ft_search.php";
+		eleSearchCams.style.fontWeight = "700"; 
+		eleSearchPics.style.fontWeight = "400"; 
+	}
+	
+	if (toggleFocus === 1)
+		document.headerSearch.term.focus();
+}
+
+function escapeHtml(unsafe)
+{
+	return unsafe
+	.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#039;");
+} //"
+
+function submitSearchform()
+{
+	//alert("test");
+	var searchTerm = escapeHtml(document.headerSearch.term.value);
+	//pageTracker._trackPageview('/internal/searchbar/searchterm/'+searchTerm);
+	//ECNClickTracker('Searchbox', '/internal/searchbar/searchterm/'+searchTerm);
+	ECNClickTracker('Searchbox', '/internal/searchbar/searchbutton/ECN');
+	document.headerSearch.submit();
+}
+</script>
+
+
+<!--[if IE 7]>
+    <style type="text/css">
+		#forIE7Override{
+			width:418px;
+		}
+    </style>
+<![endif]-->
+
+	<!-- ////////////////////// Top Header area ////////////////////////////////// -->
+	<div class="headerDIV">
+		
+		<div style="height: 10px;"></div>
+		
+		<div><!-- Logo and Search box -->
+		<!-- <table style="margin-bottom:2px; margin-top:4px;" width="869" border="0" cellspacing="0" cellpadding="0"> -->
+			<div id="siteLogo" style=""><!-- logo -->	
+				
+				<!-- <div style="height:20px;">&nbsp;</div> -->
+				
+								<!-- regular --><p><a href="http://www.earthcam.com"><img style="margin:6px 0px 6px 0px;" src="http://static.earthcamcdn.com/images/holiday_logos/ec_logo.gif" title="EarthCam" alt="EarthCam" border="0" /></a></p>
+				<!-- **** Remember to update the logo link for the homepage index, so it does not have a link ***-->
+				
+				
+				<!-- 15th anni --> <!-- <div style="height: 80px;" onmouseover="logoSwitch('on')" onmouseout="logoSwitch('off')" style="margin-left:0px;"><a href="http://www.earthcam.com"><img id="logo15" style="margin:0px 0px 0px 0px;" src="http://static.earthcamcdn.com/images/holiday_logos/ec_logo_15.jpg" width="375" height="80" title="Celebrating 15 years of Webcam Technology Innovation" alt="Celebrating 15 years of Webcam Technology Innovation" border="0" /></a></div> -->
+							</div><!--/siteLogo -->
+
+			
+			<div id="searchBoxDiv" style="border: 0px red dashed;">
+			
+				<!-- <div style="clear:left; height:12px;">&nbsp;</div> -->
+							<!-- search box -->
+				<!-- drop down and search bar -->
+
+			<!-- hidden drop down for "more menu" -->
+			<div id="subcontent2">
+				<ul id="more_list">
+					<li><a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/network/ECN');" href="http://www.earthcam.com/network/">EarthCam Network</a></li>
+					
+					<li><a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/halloffame/ECN');" href="http://www.earthcam.com/halloffame/">Hall of Fame</a></li>
+					
+					<li><a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/adv_search/ECN');" href="http://search.earthcam.com/search/advanced_search.php">Advanced Search</a></li>
+					<li><a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/new_cams/ECN');" href="http://search.earthcam.com/search/ft_search.php?newcams">New Webcams</a></li>
+<!-- 					<li><a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/local_cams');" href="http://search.earthcam.com/search/adv_search.php?loc=1&dis=3">Local Webcams</a></li>
+ -->					<li><a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/top10/ECN');" href="http://www.earthcam.com/topten.php">Top 10 Cams</a></li>
+					<li><a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/mycampage_search/ECN');" href="http://search.earthcam.com/search/adv_search.php?lang=en&redirect=yes&title=&restrict=1&url=mycampage.com&city=&state=&zip=&country=">MyCam Pages</a></li>
+					<li><a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/worldmap/ECN');" href="http://www.earthcam.com/mapsearch/">World Map</a></li>
+					
+					<li style="margin:5px 0px 5px 0px;"><a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/news/ECN');" href="http://www.earthcam.com/news.php">News</a></li>
+					<li><a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/companyinfo/ECN');" href="http://www.earthcam.com/company">Company Info</a></li>
+					<li><a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/aboutus/ECN');" href="http://www.earthcam.com/company/aboutus.php">About Us</a></li>
+					<li><a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/mediakit/ECN');" href="http://www.earthcam.com/inthenews.php">Media Kit</a></li>
+					<li><a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/translation/ECN');" href="http://www.earthcam.com/translation/">Add Your Translation</a></li>
+					<li><a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/eventarchives/ECN');" href="http://www.earthcam.com/eventarchives/">Event Archives</a></li>
+					<li style="margin:5px 0px 5px 0px;"><a  rel="nofollow" onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/dotnetbizlink/ECN');" href="http://www.earthcam.net" target="_blank">Business Applications</a></li>
+				</ul>
+			</div>
+			<!--/hidden drop down for "more menu" -->
+			
+			<!-- <div style="height: 5px;"></div> -->
+			
+			<div id="search_box_corner_left"><img src="http://static.earthcamcdn.com/images/header/search_box_outer_left_corner.gif"
+				width="4" height="72" alt="" border="0" /></div>
+			<div class="searchHeaderBG">
+			<form name="headerSearch" id="headerSearch" style="vertical-align:top;"  action="http://search.earthcam.com/search/ft_search.php">
+			<input type="hidden" name="_sbox" value="1" />
+			<input type="hidden" name="s1" value="1" />
+				<p style="font-size:1px; font-family:Arial; height:6px;">&nbsp;</p>
+				<div class="searchboxHeaderBG"> <!-- <div class="searchboxHeaderBG">  -->
+					<div style="height: 9px;"></div>					
+					
+					<div id="searchTextBoxDiv" style="float: left;">
+					<p><input class="searchTextBox" 
+					value='' 
+					type="text" name="term" id="term" maxlength="75" /><input 
+					onclick="javascript: submitSearchform(); return(false);" 
+					src="http://static.earthcamcdn.com/images/spacer.gif"
+					class="searchButton"
+					onmouseover="this.className='searchButton_on'" onmouseout="this.className='searchButton'"
+					type="image" value="SEARCH" /></p>
+					<!-- onclick="javascript:pageTracker._trackPageview('/internal/other/searchbutton');" -->
+					</div>
+					
+					<div id="buttonSpacer"><img src="http://static.earthcamcdn.com/images/bar.gif" width="1" height="26" alt="" border="0"></div>
+					
+					<a onclick="javascript: window.open('/myearthcam/webcam_popup.php', 'WebcamPlus', 'height=544, location=no, menubar=no, resizable=yes, scrollbars=no, toolbar=no, width=890');pageTracker._trackPageview('/internal/searchbar/links/golive/ECN');return false;" href="/myearthcam/webcam_popup.php"><img id="goLive" class="goLive" onmouseover="this.className='goLive_on'" onmouseout="this.className='goLive'" 
+					src="http://static.earthcamcdn.com/images/spacer.gif" width="68" height="24" alt="Go Live! Broadcast now!" title="Go Live! Broadcast now!"  border="0"></a>
+				</div>
+
+
+				
+				<script type="text/javascript">
+				//Call dropdowncontent.init("anchorID", "positionString", glideduration, "revealBehavior") at the end of the page:
+				//dropdowncontent.init("contentlink", "right-bottom", 1, "click") //  click or mouseover
+				
+								</script>
+				
+				<!-- <p style="font-size:1px; font-family:Arial; height:0px;">&nbsp;</p> -->
+
+				<div id="topHeaderBarNav"> 				
+					<div id="social_icons_mini">
+						<a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/social/facebook/ECN');" href="http://www.facebook.com/earthcaminc" target="_blank"><img class="social_icon_mini" src="http://static.earthcamcdn.com/images/header/facebook-icon_header.png" width="16" height="16" alt="Facebook" title="Facebook" border="0" /></a>
+						
+						<a onclick="javascript:pageTracker._trackPageview('/internal/homepage/social/twitter/ECN');" href="http://www.twitter.com/earthcam" target="_blank"><img class="social_icon_mini" src="http://static.earthcamcdn.com/images/header/twitter-icon_header.png" width="16" height="16" alt="Twitter" title="Twitter" border="0" /></a>
+						
+						<a onclick="javascript:pageTracker._trackPageview('/internal/homepage/social/instagram/ECN');" href="https://instagram.com/earthcam/" target="_blank"><img class="social_icon_mini" src="http://static.earthcamcdn.com/images/header/instagram-icon_header.png" width="16" height="16" alt="Instagram" title="Instagram" border="0" /></a>
+						
+						<a onclick="javascript:pageTracker._trackPageview('/internal/homepage/social/linkedin/ECN');" href="https://www.linkedin.com/company/earthcam-inc-" target="_blank"><img class="social_icon_mini" src="http://static.earthcamcdn.com/images/header/linkedin-icon_header.png" width="16" height="16" alt="LinkedIn" title="LinkedIn" border="0" /></a>
+						
+						<a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/social/youtube/ECN');" href="https://www.youtube.com/user/earthcam" target="_blank"><img class="social_icon_mini" src="http://static.earthcamcdn.com/images/header/youtube-icon_header.png" width="16" height="16" alt="YouTube" title="YouTube" border="0" /></a>
+						
+						<!--<a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/social/pinterest/ECN');" href="http://www.pinterest.com/earthcaminc/" target="_blank"><img class="social_icon_mini" src="http://static.earthcamcdn.com/images/header/pinterest_badge_red_16x16.png" width="16" height="16" alt="Pinterest" title="Pinterest" border="0" /></a>-->
+						
+						<a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/social/mobileapps/ECN');" href="http://www.earthcam.com/mobile/" target="_blank"><img class="social_icon_mini" src="http://static.earthcamcdn.com/images/header/Apps-Icon_header.png" width="16" height="16" alt="Mobile Applications on your phone" title="Mobile Applications on your phone" border="0" /></a>
+						
+						<a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/social/rss/ECN');" href="http://www.earthcam.com/rss.php" target="_blank"><img class="social_icon_mini" src="http://static.earthcamcdn.com/images/header/RSSFeed-icon_header.png" width="16" height="16" alt="RSS Feed" title="RSS Feed" border="0" /></a>
+						<a onclick="javascript:pageTracker._trackPageview('/internal/homepage/social/newslettersignup/ECN');" href="http://www.earthcam.com/newsletter/signup.php"><img class="social_icon_mini" src="http://static.earthcamcdn.com/images/header/Newsletter-icon_header.png" width="16" height="16" alt="Sign up for our free monthly Newsletter" title="Sign up for our Newsletter" border="0" /></a>
+					</div>
+				 
+					<div id="add_more">
+						<span><a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/add_a_cam/ECN');" 
+								href="http://www.earthcam.com/add_request.php" 
+								class="headerLinkBlack">Add a Cam</a></span>
+						<!-- <a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/mapsearch/');" 
+								href="http://www.earthcam.com/mapsearch/" 
+								class="headerLinkBlack">World Map</a> -->
+								
+						<a onclick="pageTracker._trackPageview('/internal/searchbar/more_menu_click//ECN');" 
+								href="#" class="headerLinkBlack" id="contentlink" 
+								rel="subcontent2">More <img src=
+								"http://static.earthcamcdn.com/images/search/MoreArrow-On.gif"
+								id="moreArrow"
+								onmouseover="this.src='http://static.earthcamcdn.com/images/search/MoreArrow-Hover.gif'" onmouseout="this.src='http://static.earthcamcdn.com/images/search/MoreArrow-On.gif'"
+								width="7" height="6" alt="" border="0" /></a>
+								
+							<a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/myec/ECN');" 
+							href="http://www.earthcam.com/myearthcam/" >My EarthCam</a>
+					</div>
+					
+				<!-- 	<div class="myEC_nav_links">
+					<a onclick="javascript:pageTracker._trackPageview('/internal/searchbar/links/myec');" href="http://www.earthcam.com/myec/" >My EarthCam</a>
+					</div> -->
+
+				</div><!-- topHeaderBarNav -->
+						</form>
+			</div><!--/searchHeaderBG -->
+			<div id="search_box_corner_right"><img src="http://static.earthcamcdn.com/images/header/search_box_outer_right_corner.gif"
+				width="4" height="72" alt="" border="0" /></div>
+			
+				<!--/search box -->
+						</div>
+		</div><!--/Logo and Search box -->
+	</div><!--/headerDIV -->
+	
+	<div style="clear: both; height: 15px;"></div>
+	<!-- ///////////////////// (end top header) ////////////////////////////////// -->
+
+		<p style="font-size:1px; font-family:Arial; height:2px;">&nbsp;</p>
+		</div>
+		
+		
+	<div class="customHeader">
+	<img id="header_image" src="images/header.jpg" alt="EarthCam - USS Intrepid Cam" title="EarthCam - USS Intrepid Cam" width="1000" height="67" alt="" border="0" /><!-- 998 958 -->
+	</div>
+
+	<!-- top nav -->
+	<div id="topNavBar" style="border: 0px solid black;">
+		<div id="top_nav_dropdown">
+		
+		<div class="nav_dropdown_item"><a class="nav_dropdown" 
+			onclick="javascript:pageTracker._trackPageview('/internal/ECN_page/top_nav/dropdown/wtc');" 
+			 target="_self" 
+			href="http://www.earthcam.com/usa/newyork/intrepid/?cam=intrepidmp&cam_type=large">High Definition Webcam</a></div>
+		
+		<div class="nav_dropdown_item"><a class="nav_dropdown" 
+			onclick="javascript:pageTracker._trackPageview('/internal/ECN_page/top_nav/dropdown/wtc');" 
+			 target="_self" 
+			href="index.php?content=slides">Photo Gallery</a></div>
+		
+		</div>
+		
+		<div id="cam_thumbs_dropdown">
+		
+	<div onclick="javascript: switchCams('liberty_archives')"  id="cam_liberty_archives" class="thumb_cam_switcher camSelectionOut">
+		
+		<div class="thumb_cam_img" style=""><div onmouseover="if(this.className.indexOf('pageThumbnailContainer_selected') == -1){this.className='pageThumbnailContainer pageThumbnailContainer_on'}" 
+			onmouseout="if(this.className.indexOf('pageThumbnailContainer_selected') == -1){this.className='pageThumbnailContainer pageThumbnailContainer_off'}" 
+			class="pageThumbnailContainer pageThumbnailContainer_off" style="width:68px;height:40px;" ><img 
+		class="" style="width:64px;height:36px;" src="http://static.earthcamcdn.com/camshots/128x72/05f93d0fcb5f32363cf36dbf6c98120e.jpg"
+			alt="Time-Lapse: Statue of Liberty" title="Time-Lapse: Statue of Liberty" border="0" /></div>
+		</div>
+		
+		<div class="thumb_cam_text cam_text_off" style="">Time-Lapse: Statue of Liberty</div>
+		
+	</div>
+	
+	<div style="height: 5px; clear: left;"></div>
+	
+	<div onclick="javascript: switchCams('intrepid_streaming')"  id="cam_intrepid_streaming" class="thumb_cam_switcher camSelectionOut">
+		
+		<div class="thumb_cam_img" style=""><div onmouseover="if(this.className.indexOf('pageThumbnailContainer_selected') == -1){this.className='pageThumbnailContainer pageThumbnailContainer_on'}" 
+			onmouseout="if(this.className.indexOf('pageThumbnailContainer_selected') == -1){this.className='pageThumbnailContainer pageThumbnailContainer_off'}" 
+			class="pageThumbnailContainer pageThumbnailContainer_off" style="width:68px;height:40px;" ><img 
+		class="" style="width:64px;height:36px;" src="http://static.earthcamcdn.com/camshots/128x72/e2e4d2c327886f7432e5c0f0202bc3d2.jpg"
+			alt="Time-Lapse: Hudson River Pier 86" title="Time-Lapse: Hudson River Pier 86" border="0" /></div>
+		</div>
+		
+		<div class="thumb_cam_text cam_text_off" style="">Time-Lapse: Hudson River Pier 86</div>
+		
+	</div>
+	
+	<div style="height: 5px; clear: left;"></div>
+	
+	<div onclick="javascript: switchCams('libertysp_archives')"  id="cam_libertysp_archives" class="thumb_cam_switcher camSelectionOut">
+		
+		<div class="thumb_cam_img" style=""><div onmouseover="if(this.className.indexOf('pageThumbnailContainer_selected') == -1){this.className='pageThumbnailContainer pageThumbnailContainer_on'}" 
+			onmouseout="if(this.className.indexOf('pageThumbnailContainer_selected') == -1){this.className='pageThumbnailContainer pageThumbnailContainer_off'}" 
+			class="pageThumbnailContainer pageThumbnailContainer_off" style="width:68px;height:40px;" ><img 
+		class="" style="width:64px;height:36px;" src="http://static.earthcamcdn.com/camshots/128x72/8e0f39ed3bc213e633cf39b556cbd7e0.jpg"
+			alt="Time-Lapse: Liberty State Park" title="Time-Lapse: Liberty State Park" border="0" /></div>
+		</div>
+		
+		<div class="thumb_cam_text cam_text_off" style="">Time-Lapse: Liberty State Park</div>
+		
+	</div>
+	
+	<div style="height: 5px; clear: left;"></div>
+	
+	<div onclick="javascript: switchCams('gzrob_archives')"  id="cam_gzrob_archives" class="thumb_cam_switcher camSelectionOut">
+		
+		<div class="thumb_cam_img" style=""><div onmouseover="if(this.className.indexOf('pageThumbnailContainer_selected') == -1){this.className='pageThumbnailContainer pageThumbnailContainer_on'}" 
+			onmouseout="if(this.className.indexOf('pageThumbnailContainer_selected') == -1){this.className='pageThumbnailContainer pageThumbnailContainer_off'}" 
+			class="pageThumbnailContainer pageThumbnailContainer_off" style="width:68px;height:40px;" ><img 
+		class="" style="width:64px;height:36px;" src="http://static.earthcamcdn.com/camshots/128x72/cc362e1ca2188e368463595cb609643a.jpg"
+			alt="Time-Lapse: Freedom Tower" title="Time-Lapse: Freedom Tower" border="0" /></div>
+		</div>
+		
+		<div class="thumb_cam_text cam_text_off" style="">Time-Lapse: Freedom Tower</div>
+		
+	</div>
+	
+	<div style="height: 5px; clear: left;"></div>
+	
+	<div onclick="javascript: switchCams('intrepid2_archives')"  id="cam_intrepid2_archives" class="thumb_cam_switcher camSelectionOut">
+		
+		<div class="thumb_cam_img" style=""><div onmouseover="if(this.className.indexOf('pageThumbnailContainer_selected') == -1){this.className='pageThumbnailContainer pageThumbnailContainer_on'}" 
+			onmouseout="if(this.className.indexOf('pageThumbnailContainer_selected') == -1){this.className='pageThumbnailContainer pageThumbnailContainer_off'}" 
+			class="pageThumbnailContainer pageThumbnailContainer_off" style="width:68px;height:40px;" ><img 
+		class="" style="width:64px;height:36px;" src="http://static.earthcamcdn.com/camshots/128x72/91fb9437fea2c9938fd97522aea1d5ee.jpg"
+			alt="Time-Lapse: Hudson River Pier 86" title="Time-Lapse: Hudson River Pier 86" border="0" /></div>
+		</div>
+		
+		<div class="thumb_cam_text cam_text_off" style="">Time-Lapse: Hudson River Pier 86</div>
+		
+	</div>
+	
+	<div style="height: 5px; clear: left;"></div>
+	
+		</div>
+		
+		<div style="font-size:1px; height:8px;">&nbsp;</div>
+		<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+		<div id="more_cams_img" class="more_cams_img_off"></div><a  onclick="javascipt:navLinks('','hof');pageTracker._trackPageview('/internal/ECN_page/top_nav/hof');" href="#" target="">Hall of Fame</a><a  onclick="javascipt:pageTracker._trackPageview('/internal/ECN_page/top_nav/network');" href="http://www.earthcam.com/network/" target="">EarthCam Network</a><a  onclick="javascipt:pageTracker._trackPageview('/internal/ECN_page/top_nav/dotnet_services_biz');" href="http://www.earthcam.net/additional/" target="">Services for Business</a>
+		<div style="font-size:1px; height:0px;">&nbsp;</div>
+	</div>
+	<!--/top nav -->
+
+	<div class="borderContainer">
+
+		<div align="center" id="main_content"><!-- main_content -->
+		
+				
+			<a name="topNav"></a>
+			<!-- Left-Side Navigation - links show up based on variables set in index page -->
+			<div id="leftNavCell">
+				<div id="navcontainer">
+					<ul id="navlist">
+					<li><a href="#" onclick="javascipt:navLinks('','live');pageTracker._trackPageview('/internal/ECN_page/left_nav/live');"><div class="linkspace">LIVE Webcams</div></a></li><li><a href="http://www.earthcam.com/usa/newyork/intrepid/?cam=intrepidmp&cam_type=large"  target="_self" ><div class="linkspace">High Definition Webcam</div></a></li><li><a href="index.php?content=slides"  target="_self" ><div class="linkspace">Photo Gallery</div></a></li><li><a onclick="javascript:pageTracker._trackPageview('/internal/ECN_page/left_nav/network');" href="http://www.earthcam.com/network/"><div class="linkspace">EarthCam Network</div></a></li><li><a onclick="javascript:pageTracker._trackPageview('/internal/ECN_page/left_nav/dotnet_services_biz');" href="http://www.earthcam.net/additional/" target="_blank"><div class="linkspace">Services for Business</div></a></li><li><a onclick="javascript:pageTracker._trackPageview('/internal/ECN_page/left_nav/facebook');" href="http://www.facebook.com/earthcaminc" target="_blank"><div class="linkspace">EarthCam on Facebook</div></a></li><li><a onclick="javascript:pageTracker._trackPageview('/internal/ECN_page/left_nav/twitter');" href="http://www.twitter.com/EarthCam" target="_blank"><div class="linkspace">EarthCam on Twitter</div></a></li>					</ul>
+				</div>
+				<!-- END Left-Side Navigation -->
+		
+
+				
+					<!-- Google AdSense Code -->
+					<div id="leftGoogle" class="leftGoogle">
+					</div>
+					<!-- END Google AdSense Code -->
+				<!-- Left-Side Fade graphic - graphic will be uploaded for each camera
+				(should always be called "left_nav_fade.jpg"  -->
+				<!-- <img src="images/left_nav_fade.gif" width="166" alt="" /> -->
+				<!-- <p class="spacer" style="height:30px;">&nbsp;</p> -->
+				<div><img src="http://static.earthcamcdn.com/cams/includes/images/LeftNav-Round.jpg" width="166" height="135" alt="" border="0" /></div>
+			</div><!--/leftNavCell -->
+			<!--/Left-Side Navigation -->
+				
+				<!-- top nav -->
+				<!--/top nav -->		
+
+								
+				<!-- flash player -->
+				<div id="camContent" style="border: 0px dashed red;">
+										
+										
+					<div style=";" id="ECNglobalContainer" class="ECNglobalContainer">
+					
+						<!-- -------------------------------------------------- -->
+												<!-- -------------------------------------------------- -->
+					
+						<noscript><br /><br /><h3>You will need to have Javascript enabled in order to view the EarthCam Flash Player.</h3><br /><br /></noscript>
+						
+						<div id="flashContainer">
+							<div id="ecnetworkcam">
+							<p style="height: 140px; text-align:center; font-size: 1px;">&nbsp;</p>
+							Loading Player
+							<br /><br />
+							<img style="border: 1px solid black;" src="http://static.earthcamcdn.com/mapsearch_google/images/loading_screen.gif" width="50" alt="loading" />
+							</div>
+						</div>
+					
+					
+						<div style="position: absolute; z-index: 0;" id="wmvContainer">
+							<div style="width: 370px; height: 265px; background-color: black; border: 0px solid red;">
+							<!-- <div style="width: 490px; height: 308px; background-color: black; border: 0px solid red;"> -->
+								<!-- <p style="height: 5px; font-size: 1px;">&nbsp;</p> -->
+								<div id="wmv"><p>&nbsp;</p></div>
+							</div>
+						</div>
+						
+						
+						<div style="width: 360px; height: 245px; position: absolute; z-index: 0;" id="mapContainer">
+								<iframe id="map_frame" name="map_frame" 
+								style="margin:0px; padding:0px; background-color:#FFFFFF; border:solid 0px #000000; width:360px; height:240px;" 
+								src="http://static.earthcamcdn.com/mapsearch_google/loading.html" align="top" scrolling="no" 
+								marginheight="0" marginwidth="0" frameborder="0"></iframe>
+						</div>
+					
+					
+					</div>
+						
+					<div style="clear:left height:5px;">&nbsp;</div>
+	<!-- 	
+					<div id="helplearn" style="width:960px; visibility:hidden;">
+						<p style="float:right;" id="wcs_link">&nbsp;</p>
+						<p style="margin-left:0px;"><a href="http://www.earthcam.com/site/player_help.php" target="_top" class="helpLink">Having trouble viewing the live images?  Click here.</a></p>
+					</div>
+	-->
+										
+									</div><!--/camContent -->
+				<!--/flash player -->
+
+				<div style="clear: left;" id="copy_area_below_player">
+								</div><!--/copy_area_below_player -->
+				
+
+				<!-- bottom half -->
+				
+				<div style="height:10px; clear: left;">&nbsp;</div>
+				
+				<div class="bottomHalf" style="clear: left; border: 0px solid red;"><!-- bottomHalf -->
+
+								
+					<div class="camContainer" style="">
+						<p class="spacer" style="height:9px;">&nbsp;</p>
+
+						<div id="ecn_left_column">
+													<div id="page_copy" style="text-align: left; line-height: 110%;">
+								<h3 class="blueTitle"><a href="http://www.intrepidmuseum.org/" onclick="javascript:urchinTracker('/outgoing/intrepidmuseum_org/copy_text');" class="normal" target="_blank">Salutations from the USS Intrepid!</a></h3>
+								
+								<div style="clear:left; height: 5px;"></div>
+								<div class="blueBar" style="width: 540px;"></div>
+								<div style="clear:left; height: 5px;"></div>
+								
+								<div style="width: 540px;" id="body_copy">
+								See views of the USS Intrepid in New York City with EarthCam's exclusive webcams. Experience live views of this historic vessel, which served in the United States Navy for 31 years.								</div>
+							</div><!--/page_copy -->
+													<div style="height:20px; clear: left;">&nbsp;</div>
+
+						
+							<div id="extra_thumbs" style="border: 0px solid black;">
+								<div style="height: 10px;"></div>
+								<h3 class="blueTitle_small"><a onclick="javascript:pageTracker._trackPageview('/internal/ECN_page/random_network_cams');" href="http://www.earthcam.com/network/">Webcam Network</a></h3>
+								<div style="clear:left; height: 5px;"></div>
+								
+								<div style="margin-left: 20px;">
+		
+			<div class="camera_block">
+				<a onclick="javascript:pageTracker._trackPageview('/internal/homepage/live_webcam_network');" 
+					href="http://www.earthcam.com/world/ireland/dublin/?cam=templebar">
+				<div onmouseover="if(this.className.indexOf('pageThumbnailContainer_selected') == -1){this.className='pageThumbnailContainer pageThumbnailContainer_on'}" 
+			onmouseout="if(this.className.indexOf('pageThumbnailContainer_selected') == -1){this.className='pageThumbnailContainer pageThumbnailContainer_off'}" 
+			class="pageThumbnailContainer pageThumbnailContainer_off"  ><img 
+		class=""  src="http://static.earthcamcdn.com/camshots/128x72/c57c613e7b6ce255f206d5a4cf7f661d.jpg"
+			alt="Dublin, IE" title="Dublin, IE" border="0" /></div>
+		
+				<!-- <div></div> -->
+				<div class="thumbnailTitle">Dublin, IE</div>
+				</a>
+			</div>
+			
+<div style="clear: left; height: 20px;"></div>
+		
+			<div class="camera_block">
+				<a onclick="javascript:pageTracker._trackPageview('/internal/homepage/live_webcam_network');" 
+					href="http://www.earthcam.com/usa/florida/naples/?cam=naplespier">
+				<div onmouseover="if(this.className.indexOf('pageThumbnailContainer_selected') == -1){this.className='pageThumbnailContainer pageThumbnailContainer_on'}" 
+			onmouseout="if(this.className.indexOf('pageThumbnailContainer_selected') == -1){this.className='pageThumbnailContainer pageThumbnailContainer_off'}" 
+			class="pageThumbnailContainer pageThumbnailContainer_off"  ><img 
+		class=""  src="http://static.earthcamcdn.com/camshots/128x72/c91502c451536940680cff00fd5cc0e0.jpg"
+			alt="Naples, FL" title="Naples, FL" border="0" /></div>
+		
+				<!-- <div></div> -->
+				<div class="thumbnailTitle">Naples, FL</div>
+				</a>
+			</div>
+			
+<div style="clear: left; height: 20px;"></div></div>
+							</div><!--/extra_thumbs -->
+
+							<div style="height: 10px;"></div>
+							
+							<div id="bottom_google_ad" style="border: 0px solid red;">
+								
+		<script type="text/javascript"><!--
+		google_ad_client = "ca-pub-0216312167859868";
+		google_ad_slot = "2232388132";
+		google_ad_width = 300;
+		google_ad_height = 250;
+		//-->
+		</script>
+		<script type="text/javascript"
+		src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+		</script> 
+								</div><!--/bottom_google_ad -->
+						</div><!--/ecn_left_column -->
+						
+						<div id="ecn_right_column">
+									
+										
+							<div id="promo_space"><a onclick="javascript:pageTracker._trackPageview('/internal/ECN_page/dot_net_learn_more');" href='http://www.earthcam.net/additional/' target='_blank' /><img src='http://static.earthcamcdn.com/cams/includes/images/crosspromos/LearnMore.jpg' border='0' /></a></div>
+							
+							<div style="height: 20px;"></div>
+							
+							<div>
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FEarthCam%2F378827966436&amp;width=300&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23FFFFFF&amp;stream=false&amp;header=false&amp;height=180" 
+scrolling="no" frameborder="0" 
+style="border:none; overflow:hidden; width:300px; height:180px;" 
+allowTransparency="true"></iframe>
+</div>
+							
+							<div style="height: 20px;"></div>
+							
+							<div style="margin-left: 10px;">
+<a onclick="javascript:pageTracker._trackPageview('/internal/ECN_page/random_network_cams');"  href="http://twitter.com/EarthCam"  class="twitter-follow-button">Follow @EarthCam</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div>
+							
+							<div style="clear: left; height: 10px;"></div>
+							<div class="blueBar" style="margin-left: 10px; background-color: #D8DFEA; width: 300px;"></div>
+							<div style="clear: left; height: 10px;"></div>
+							
+							<div style="float: left; width: 70px; margin: 0px 10px 0px 5px;">
+<div style="margin-left: 5px;">
+<!-- Place this tag in your head or just before your close body tag -->
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+<!-- Place this tag where you want the +1 button to render -->
+<g:plusone size="medium"></g:plusone>
+</div>
+</div>
+							
+							<div id="addthis" style="float: left;">
+							<div style="height: 2px;"></div>		
+							<!-- AddThis Button BEGIN -->
+							<a class="addthis_button" 
+							href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=jeffec"><img 
+							src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" 
+							width="125" height="16" alt="Bookmark and Share" style="border:0"/></a>
+							<script type="text/javascript" 
+							src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=jeffec"></script>
+							<!-- AddThis Button END -->
+							</div>
+		
+							
+							<div style="clear: left; height: 20px;"></div>
+		
+							<div id="socialNetworkingBox">
+							<a onclick="javascript:pageTracker._trackPageview('/internal/ECN_page/social/facebook');" href="http://www.facebook.com/earthcaminc" target="_blank"><img style="margin-left: 0px;" class="social_icon" class="social_icon_mini" src="http://static.earthcamcdn.com/images/header/facebook-icon_body.gif" wwidth="30" height="30" alt="Facebook" title="Facebook" border="0" /></a>
+							<a onclick="javascript:pageTracker._trackPageview('/internal/ECN_page/social/twitter');" href="http://www.twitter.com/EarthCam" target="_blank"><img class="social_icon" class="social_icon_mini" src="http://static.earthcamcdn.com/images/header/twitter-icon_body.gif" width="30" height="30" alt="Twitter" title="Twitter" border="0" /></a>
+							<a onclick="javascript:pageTracker._trackPageview('/internal/ECN_page/social/youtube');" href="https://www.youtube.com/user/earthcam" target="_blank"><img class="social_icon" class="social_icon_mini" src="http://static.earthcamcdn.com/images/header/youtube-icon_body.gif" width="30" height="30" alt="YouTube" title="YouTube" border="0" /></a>
+							<a onclick="javascript:pageTracker._trackPageview('/internal/ECN_page/social/mobileapps');" href="http://www.earthcam.com/mobile/" target="_blank"><img class="social_icon" class="social_icon_mini" src="http://static.earthcamcdn.com/images/header/Apps-Icon_body.gif" width="30" height="30" alt="Mobile Applications on your phone" title="Mobile Applications on your phone" border="0" /></a>
+							<a onclick="javascript:pageTracker._trackPageview('/internal/ECN_page/social/mobileapps');" href="http://www.earthcam.com/rss.php" target="_blank"><img class="social_icon" class="social_icon_mini" src="http://static.earthcamcdn.com/images/header/RSSFeed-icon_body.gif" width="30" height="30" alt="RSS Feed" title="RSS Feed" border="0" /></a>
+							<a onclick="javascript:pageTracker._trackPageview('/internal/ECN_page/social/newslettersignup');" href="http://www.earthcam.com/newsletter/signup.php"><img class="social_icon" class="social_icon_mini" src="http://static.earthcamcdn.com/images/header/Newsletter-icon_body.gif" width="30" height="30" alt="Sign up for our free monthly Newsletter" title="Sign up for our Newsletter" border="0" /></a>
+							</div>
+							
+							
+							
+														
+							
+						</div><!--/ecn_right_column -->
+					</div><!--/camContainer -->
+					<br style="clear: both;" />
+					
+					<!-- <div class="bodyCopy">
+										</div> -->
+		
+					<iframe name="savenull" id="savenull" width="0" height="0" frameborder="0"></iframe>
+				</div><!--/bottomHalf -->
+		
+				<!-- <br style="clear: both;" /> -->
+		
+			<!-- <br style="clear: both;" /> -->
+		</div><!-- main_content -->
+
+	<div align="center">
+
+		<!-- <br style="clear: both;" /> -->
+		<div class="spacer" style="clear: left; height:25px;">&nbsp;</div>
+
+		<!-- <script language="JavaScript" src="http://static.earthcamcdn.com/js/jquery.js" type="text/javascript"></script>
+<script language="JavaScript" src="/js/jquery.tools.min.js" type="text/javascript"></script> 
+<script language="JavaScript" type="text/javascript">
+</script> -->
+<style type="text/css">
+				/* footer area elements */
+#sloganBox {
+	border: 1px solid #2569A6;
+	width: 958px; height: 18px;
+	background-color: white;
+	margin: 0 auto;
+}
+
+.footerTextSlogan {
+	font-weight: 700;
+	color: #2569A6;
+	padding-top: 2px;
+	
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    font-weight: 900;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+#footerBox a:link, #footerBox a:visited, #footerBox a:active {
+	color: #2569A6; text-decoration: none; }
+#footerBox a:hover {
+	color: #2569A6; text-decoration: underline; }
+	
+#footerBox { text-align: left; width: 960px; position: relative; }
+	
+#linkStrip {
+	border-top: 0px solid #365E82;
+	border-bottom: 1px solid #365E82;
+	width: 960px;
+	margin: 0 auto;
+	font-size: 11px;
+	font-family: Arial;
+	padding: 0px 0px 3px 0px;
+}
+
+#linkStrip a:link, #linkStrip a:visited, #linkStrip a:active {
+	color: #365E82; text-decoration: none; }
+#linkStrip a:hover {
+	color: #365E82; text-decoration: underline; }
+
+#CopyrightContact {
+	width: 960px;
+	margin: 0 auto;
+	font-size: 11px;
+	font-family: Arial;
+	border: 0px solid red;
+	color: #365E82; /* #365E82  #333333*/
+	font-weight: normal;
+}
+
+#CopyrightContact a:link, #CopyrightContact a:visited, #CopyrightContact a:active {
+	color: #09335B; text-decoration: underline; font-weight: bold;}
+#CopyrightContact a:hover {
+	color: #09335B; text-decoration: underline; font-weight: bold;}
+
+.lang_link { color: #365E82; }
+	
+#translation_overlay {
+	text-align: left;
+	width: 200px;
+	/*border: 2px solid #BCBCBC;*/
+	padding: 5px;
+	
+	border: 1px solid #727272;
+	-moz-box-shadow: 1px 1px 2px #727272;
+	-webkit-box-shadow: 1px 1px 2px #727272;
+	box-shadow: 1px 2px 2px #727272;
+	
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright:5px;
+	-moz-border-radius-bottomleft:5px;
+	-moz-border-radius-bottomright:5px;
+	-webkit-border-top-left-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+
+	background-color: #EFEFEF;
+	position: absolute;
+	top: -355px;
+	left: 494px;
+	display: none;
+}
+
+.trans_item  { padding: 3px; color: black; }
+a.translink:link, a.translink:visited, a.translink:active, .a.translink:hover { color: black !important; }
+/*.trans_item a {	margin-right: 5px; }*/
+</style>
+
+<!--[if IE]>
+<style type="text/css">
+#translation_overlay {
+	left: 470px;
+}
+</style>
+<![endif]-->
+
+	<!-- ////////////////////// footer box area ////////////////////////////////// -->
+	
+	<div style="clear:left; height: 10px;"></div>
+	
+	<div id="footerBox">
+		<div id="translation_overlay">
+					
+<!--			
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/english');" href="/usa/newyork/intrepid/index.php?lang=en&cam=gzrob_archives"><img src="http://static.earthcamcdn.com/images/translate/en_us_s.gif" style="margin-right:2px;" alt="English" title="English" width="15" height="10" border="0"/>&nbsp;&nbsp;English</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/arabic');" href="/usa/newyork/intrepid/index.php?lang=ar&cam=gzrob_archives"><img src="http://static.earthcamcdn.com/images/translate/ar_s.gif" style="margin-right:4px;" alt="Arabic" title="Arabic" width="15" height="10" border="0"/>&nbsp;&nbsp;Arabic</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/brazilian-portuguese');" href="/usa/newyork/intrepid/index.php?lang=pt_br&cam=gzrob_archives"><img src="http://static.earthcamcdn.com/images/translate/br_s.gif" style="margin-right:2px;" alt="Brazilian-Portuguese" title="Brazilian-Portuguese" width="15" height="10" border="0" />&nbsp;&nbsp;Brazilian-Portuguese</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/chinese');" href="/usa/newyork/intrepid/index.php?lang=cn&cam=gzrob_archives"><img src="http://static.earthcamcdn.com/images/translate/cn_s.gif" style="margin-right:4px;" alt="Chinese" title="Chinese" width="15" height="10" border="0"/>&nbsp;&nbsp;Chinese</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/dutch');" href="/usa/newyork/intrepid/index.php?lang=nl&cam=gzrob_archives"><img src="http://static.earthcamcdn.com/images/translate/nl_s.gif" style="margin-right:2px;" alt="Dutch" title="Dutch" width="15" height="10" border="0" />&nbsp;&nbsp;Dutch</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/french');" href="/usa/newyork/intrepid/index.php?lang=fr&cam=gzrob_archives"><img src="http://static.earthcamcdn.com/images/translate/fr_s.gif" style="margin-right:2px;" alt="French" title="French" width="15" height="10" border="0" />&nbsp;&nbsp;French</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/german');" href="/usa/newyork/intrepid/index.php?lang=de&cam=gzrob_archives"><img src="http://static.earthcamcdn.com/images/translate/de_s.gif" style="margin-right:2px;" alt="German" title="German" width="15" height="10" border="0" />&nbsp;&nbsp;German</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/italian');" href="/usa/newyork/intrepid/index.php?lang=it&cam=gzrob_archives"><img src="http://static.earthcamcdn.com/images/translate/it_s.gif" style="margin-right:4px;" alt="Italian" title="Italian" width="15" height="10" border="0"/>&nbsp;&nbsp;Italian</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/japanese');" href="/usa/newyork/intrepid/index.php?lang=ja&cam=gzrob_archives"><img src="http://static.earthcamcdn.com/images/translate/ja_s.gif" style="margin-right:4px;" alt="Japanese" title="Japanese" width="15" height="10" border="0"/>&nbsp;&nbsp;Japanese</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/korean');" href="/usa/newyork/intrepid/index.php?lang=kr&cam=gzrob_archives"><img src="http://static.earthcamcdn.com/images/translate/kr_s.gif" style="margin-right:4px;" alt="Korean" title="Korean" width="15" height="10" border="0"/>&nbsp;&nbsp;Korean</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/lithuanian');" href="/usa/newyork/intrepid/index.php?lang=lt&cam=gzrob_archives"><img src="http://static.earthcamcdn.com/images/translate/lt_s.gif" style="margin-right:4px;" alt="Lithuanian" title="Lithuanian" width="15" height="10" border="0"/>&nbsp;&nbsp;Lithuanian</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/polish');" href="/usa/newyork/intrepid/index.php?lang=pl&cam=gzrob_archives"><img src="http://static.earthcamcdn.com/images/translate/pl_s.gif" style="margin-right:4px;" alt="Polish" title="Polish" width="15" height="10" border="0"/>&nbsp;&nbsp;Polish</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/russian');" href="/usa/newyork/intrepid/index.php?lang=ru&cam=gzrob_archives"><img src="http://static.earthcamcdn.com/images/translate/ru_s.gif" style="margin-right:2px;" alt="Russian" title="Russian" width="15" height="10" border="0" />&nbsp;&nbsp;Russian</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/spanish');" href="/usa/newyork/intrepid/index.php?lang=es&cam=gzrob_archives"><img src="http://static.earthcamcdn.com/images/translate/es_es_s.gif" style="margin-right:2px;" alt="Spanish" title="Spanish" width="15" height="10" border="0" />&nbsp;&nbsp;Spanish</a></div>
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/swedish');" href="/usa/newyork/intrepid/index.php?lang=sv&cam=gzrob_archives"><img src="http://static.earthcamcdn.com/images/translate/se_s.gif" style="margin-right:4px;" alt="Swedish" title="Swedish" width="15" height="10" border="0"/>&nbsp;&nbsp;Swedish</a></div>	
+			<div class="trans_item"><a class="translink" onclick="javascript:pageTracker._trackPageview('/internal/footer/language/turkish');" href="/usa/newyork/intrepid/index.php?lang=tr&cam=gzrob_archives"><img src="http://static.earthcamcdn.com/images/translate/tr_s.gif" style="margin-right:4px;" alt="Turkish" title="Turkish" width="15" height="10" border="0"/>&nbsp;&nbsp;Turkish</a></div>
+-->		
+			<div style="height:5px;"></div>
+			<div class="trans_item"><a onclick="javascript:pageTracker._trackPageview('/internal/footer/language/more');" href="http://www.earthcam.com/translation/">More...</a></div>
+			<!--
+			?lang=ja
+			?lang=cn
+			?lang=lt
+			?lang=bg
+			?lang=ja
+			?lang=kr
+			-->
+		</div>
+	
+	
+		<div id="sloganBox">
+			<p class="footerTextSlogan" style="">EarthCam - Where The World Watches The World &reg;</p>
+		</div>
+		
+		<div style="clear:left; height: 5px;"></div>
+	
+		<div id="linkStrip">
+			<div style="text-align:center;">
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/home');" href="http://www.earthcam.com/index.php" class="footerlink">Home</a> | 
+				
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/ectv');" href="http://www.earthcamtv.com" target="_blank" class="footerlink">EarthCamTV</a> | 
+				
+								<a rel="nofollow" onclick="javascript:pageTracker._trackPageview('/internal/footer/dotnet');" href="http://www.earthcam.net/" target="_blank" class="footerlink">EarthCam.net</a> |
+								<a onclick="javascript:pageTracker._trackPageview('/internal/footer/cctv');" href="http://www.constructioncamtv.com/" target="_blank" class="footerlink">ConstructionCamTV</a> | 
+				
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/ecmobile');" href="http://www.earthcam.com/mobile" target="_blank" class="footerlink">EarthCam Mobile</a> | 
+				<!--<a onclick="javascript:pageTracker._trackPageview('/internal/footer/webcamstore');" href="http://www.webcamstore.com" target="_blank" class="footerlink">WebCamStore</a> | -->
+				
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/myearthcam');" href="http://www.earthcam.com/myearthcam/" target="_blank" class="footerlink">My EarthCam</a> |
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/about');" href="http://www.earthcam.com/company/aboutus.php" class="footerlink">About Us</a> | 
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/company');" href="http://www.earthcam.com/company" class="footerlink">Company Info</a> |
+				<!--
+				<a style="cursor: pointer;" onclick="javascript:transpopup(); pageTracker._trackPageview('/internal/footer/translation');" class="footerlink"><span class="lang_link">Languages</span></a> |  
+				-->
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/sitemap');" href="http://www.earthcam.com/sitemap.php" class="footerlink">Site Map</a> |  
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/addacam');" href="http://www.earthcam.com/add_request.php" class="footerlink">Add a Cam</a> | 
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/linktous');" href="http://www.earthcam.com/site/linktous.php" class="footerlink">Link To Us</a> | 
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/contact');" href="http://www.earthcam.com/company/contact.php" class="footerlink">Contact Us</a> | 
+								<a onclick="javascript:pageTracker._trackPageview('/internal/footer/advertising');" href="http://www.earthcam.com/site/advertising.php" class="footerlink">Advertise</a> | 
+				<a onclick="javascript:pageTracker._trackPageview('/internal/footer/social/help');" href="http://www.earthcam.com/site/help.php" class="footerlink">Help</a>
+			</div>
+		</div>
+	
+		<div style="clear:left; height: 5px;"></div>
+	
+		<div id="CopyrightContact">
+			<div style="float:left;">
+				Copyright 1996-2016 EarthCam, Inc. All Rights Reserved.			</div>
+			
+			<div style="float:right;">
+			Should you encounter a problem with a link,
+			<a onclick="javascript:pageTracker._trackPageview('/internal/footer/contactus');" href="http://www.earthcam.com/company/contact.php?query=link" style="text-decoration:bold; font-weight:400;" >let us know</a>.
+			</div>
+		</div>
+		
+		<div style="clear:left; height: 10px;"></div>
+		<!-- <div style="clear:both; height: 40px;"></div> -->
+	</div><!--/footerBox -->
+	<!-- ///////////////////////////////////////////////////////////////////////// -->
+
+<script type="text/javascript">
+if(typeof($j)== "undefined")
+{
+	var $j = jQuery.noConflict();
+}
+
+var trans_on = false;
+var trans_overlay = $j('#translation_overlay');
+$j('#translation_overlay').mouseleave(function(){
+	transmenuHide(500);
+});
+$j('#translation_overlay').mouseenter(function(){
+	$j('#translation_overlay').clearQueue();
+});
+function transmenuHide(delay){
+	$j('#translation_overlay').delay(delay).fadeOut("fast");
+}
+
+function transpopup()
+{
+	if (trans_on)
+	{
+		trans_on = false;
+		trans_overlay.fadeOut("fast");
+	}
+	else
+	{
+		trans_on = true;
+		trans_overlay.fadeIn("fast");
+	}
+
+
+}
+
+</script>
+
+<!-- Google Analytics Code -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-274246-1");
+pageTracker._setDomainName('earthcam.com');
+//pageTracker._setAllowLinker(true);
+pageTracker._trackPageview();
+
+//-------------------
+function ECNClickTracker(cCategory, cAction, cLabel, cValue)
+{
+	try {
+		var pageTracker=_gat._getTracker("UA-274246-1");
+		pageTracker._trackEvent(cCategory, cAction, cLabel, cValue);
+	} catch(err){}
+}
+
+function gaRecordInternal(uLink, category, action, external)
+{
+	// function gaRecordLink(uLink, category, action, opt_label, opt_value, opt_noninteraction)
+	//	example: gaRecordInternal(this, 'Homepage', '/internal/homepage/live_webcam_network')
+	
+	// _trackEvent(category, action, opt_label, opt_value, opt_noninteraction)
+	// <a href="http://www.example.com" onClick="gaRecordInternal(this, 'Outbound Links', 'example.com');return false;">
+	
+	try {
+		var pageTracker=_gat._getTracker("UA-274246-1");
+		pageTracker._trackEvent(category, action);
+		
+		if (uLink == -1)
+			return(false);
+		else if (external == 1)
+			window.open(uLink,  '_blank');
+		else if (uLink.href)
+			setTimeout('document.location = "' + uLink.href + '"', 100)
+	} catch(err){}
+}
+
+function gaRecordPageView(linkPath)
+{
+	pageTracker._trackPageview(linkPath);
+}
+</script>
+<!-- backwards compat if anything is using urchin -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<!-- End Google Analytics Code -->
+
+
+<!-- Start Quantcast tag -->
+<!--
+<script type="text/javascript">
+_qoptions={
+qacct:"p-3da3lULkKt9Co"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<a href="http://www.quantcast.com/p-3da3lULkKt9Co" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-3da3lULkKt9Co.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+-->
+<!-- End Quantcast tag -->
+	</div>
+
+	</div><!--/borderContainer -->
+</div><!--/superWhiteWrapper -->
+
+<!-- flash trigger -->
+<!-- <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" 
+codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,115,0" width="1" height="1" id="flash8" align="middle">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="movie" value="/swf/flash8.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="/swf/flash8.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="flash8" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object> -->
+
+
+<!--
+<script language="JavaScript" src="http://static.earthcamcdn.com/js/checkspx.js.php?sa=1" type="text/javascript" ></script>
+ -->
+</body>
+</html>
