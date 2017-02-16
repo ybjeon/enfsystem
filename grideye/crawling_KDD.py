@@ -4,35 +4,54 @@ from bs4 import BeautifulSoup as bs
 import requests
 from datetime import datetime
 import time
-from fake_useragent import UserAgent
-#import pdb
+import pdb
 url = 'http://fnetpublic.utk.edu/tabledisp.php'
 
-def getValue(tidx, vidxs):
+def getValue(tidx, vidx):
     time = arr[tidx].text.split()[2:]
-    values = []
-    for vidx in vidxs:
-        values.append(arr[vidx].text.split()[2:])
+    values = arr[vidx].text.split()[2:]
     return (time, values)
 
 while True:
     try:
         dt = datetime.utcnow()
-        ua = UserAgent()
-        headers = {'User-Agent': ua.chrome}
+        headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
         r = requests.get(url, headers)
         soup = bs(r.text, 'html.parser')
         arr = soup.find_all('tr')
-        time_idx = [133,145,166,186]
-        value_idx = [[134],[146],[167,168],[187]]
+        time_idx = [133,145,166,166,186]
+        value_idx = [134,146,167,168,187]
+
 
         for i in range(4):
-            fin = open('rw', 'enf'+str(i)+'.txt')
+            filename = 'enf'+str(i)+'.txt'
+            try:
+                fin = open(filename,'r')
+            except IOError:
+                f = open(filename,'w')
+                f.close()
+                fin = open(filename,'r')
             lines = fin.readlines()
-            last = lines[-1].split()
-            last_time = last[0]
+            fin.close()
+            if len(lines)==0:
+                last_time = '00:00:00'
+            else:
+                last = lines[-1].split()
+                last_time = last[0]
+                if last_time in ['24:00:00','23:59:59','23:59:58','23:59:57','23:59:56']:
+                    last_time = '00:00:00'
+            #pdb.set_trace()
             t,vs = getValue(time_idx[i], value_idx[i])
-            pdb.set_trace()
+            for idx, titem in enumerate(reversed(t)):
+                print titem
+                print last_time
+                if titem<=last_time:
+                    continue
+                else:
+                    f=open(filename,'a')
+                    f.write(titem+'\t'+vs[idx]+'\n')
+                    print vs[idx]+ ' added in enf'+str(i)
+                    f.close()
             print t
             print vs
         # Big Island, Hawaii
@@ -80,9 +99,8 @@ while True:
 #                        #print uid, cur_dt, 'added'
 #                #for i in b[1:]:
 #                #    print i.text
-        db.session.commit()
         #print datetime.utcnow()
         print dt.year, dt.month, dt.day, dt.hour, dt.minute
         time.sleep(25)
-    except Exception:
+    except IOError:
         pass
